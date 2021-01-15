@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loloxwg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loloxwg&layout=compact)
 
 ![loloxwg's github stats](https://github-readme-stats.vercel.app/api?username=loloxwg&theme=dracula&show_icons=true)
 
