@@ -6,7 +6,7 @@
 
 💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
 
-🖋 Blog：[loloxwg.top](https://loloxwg.top)
+🖋 Blog：[loloxwg.top](https://loloxwg.club)
 
 
 
@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 day ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (today)
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (3 days ago)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (3 days ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - :kissing:吾将上下而求索 (4 months ago)
