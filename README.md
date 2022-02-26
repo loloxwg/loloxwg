@@ -1,58 +1,61 @@
 ### Hi there 👋
 
+<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+ 
+🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
+
+💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
+
+🖋 Blog：[loloxwg.top](https://loloxwg.top)
+
+
+
+📫 Email: [loloxwg@gmail.com](mailto:loloxwg@gmail.com)
+
+
+
+
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 day ago)
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (3 days ago)
+- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (3 days ago)
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - :kissing:吾将上下而求索 (4 months ago)
+- [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (4 months ago)
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+
+- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server)
+- [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox)
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
+#### 🔨 Latest Pull Requests I published
+
+- [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (1 month ago)
+- [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (1 year ago)
 
 #### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+- [](http://example.com/2022/02/21/%E6%9C%AA%E5%91%BD%E5%90%8D/) (5 days ago)
+- [Hello World](http://example.com/2022/02/21/hello-world/) (5 days ago)
 
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+#### ⭐ Recent stars
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (1 day ago)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 day ago)
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/loloxwg
+- Blog: https://loloxwg.github.io
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
