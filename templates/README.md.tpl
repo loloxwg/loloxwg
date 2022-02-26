@@ -6,7 +6,7 @@
 
 💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
 
-🖋 Blog：[loloxwg.top](https://loloxwg.top)
+🖋 Blog：[loloxwg.top](https://loloxwg.club)
 
 <!--💡 Zhihu：[loloxwg](https://www.zhihu.com/people/loloxwg) -->
 
