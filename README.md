@@ -14,7 +14,6 @@
 
 
 
-
 #### 👷 Check out what I'm currently working on
 
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 day ago)
@@ -31,8 +30,13 @@
 - [loloxwg/android-server](https://github.com/loloxwg/android-server)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox)
 
-#### 🔭 Latest releases I've contributed to
+#### 👯 Check out my recent followers
 
+- [jasineri](https://github.com/jasineri)
+- [dang-88](https://github.com/dang-88)
+- [Magumin21](https://github.com/Magumin21)
+- [WinterBokeh](https://github.com/WinterBokeh)
+- [fkexkbgadahfkexkbbbb](https://github.com/fkexkbgadahfkexkbbbb)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -51,8 +55,6 @@
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (1 day ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 day ago)
-
-
 
 #### 📫 How to reach me
 
