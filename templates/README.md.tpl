@@ -14,7 +14,6 @@
 
 <!--💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)-->
 
-
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
@@ -25,9 +24,9 @@
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+#### 👯 Check out my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
@@ -44,8 +43,6 @@
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
-
-
 
 #### 📫 How to reach me
 
