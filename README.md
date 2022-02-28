@@ -4,7 +4,7 @@
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
-💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
+
 
 🖋 Blog：[loloxwg.club](https://loloxwg.club)
 
