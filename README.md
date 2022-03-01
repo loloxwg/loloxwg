@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 days ago)
-- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (5 days ago)
-- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (5 days ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (3 days ago)
+- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (6 days ago)
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (6 days ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - :kissing:吾将上下而求索 (4 months ago)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (4 months ago)
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
-- [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Trepang is an implementation of Raft Algorithm in Go (today)
-- [goworkeryyt/go-config](https://github.com/goworkeryyt/go-config) - go 开发中常用的配置 consul, database, email, ftp, jwt, mqtt, pay, profile-active, redis,zap (today)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (today)
-- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs (2 days ago)
-- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels (2 days ago)
+- [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Trepang is an implementation of Raft Algorithm in Go (1 day ago)
+- [goworkeryyt/go-config](https://github.com/goworkeryyt/go-config) - go 开发中常用的配置 consul, database, email, ftp, jwt, mqtt, pay, profile-active, redis,zap (1 day ago)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 day ago)
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs (3 days ago)
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast) - Async broadcast channels (3 days ago)
 
 #### 📫 How to reach me
 
