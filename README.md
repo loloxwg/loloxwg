@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce) - An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now. (today)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (today)
 - [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Trepang is an implementation of Raft Algorithm in Go (1 day ago)
 - [goworkeryyt/go-config](https://github.com/goworkeryyt/go-config) - go 开发中常用的配置 consul, database, email, ftp, jwt, mqtt, pay, profile-active, redis,zap (1 day ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 day ago)
-- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs (3 days ago)
 
 #### 📫 How to reach me
 
