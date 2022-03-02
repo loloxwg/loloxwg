@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - cloud native decentralized distributed nosql database, Web3 world access point, based on RESP,RAFT,OSS,IPFS and blockchain. (today)
 - [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (today)
 - [opcm/pcm](https://github.com/opcm/pcm) - Processor Counter Monitor (today)
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (today)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (today)
-- [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce) - An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now. (1 day ago)
 
 #### 📫 How to reach me
 
