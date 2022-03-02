@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (today)
 - [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce) - An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now. (1 day ago)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (1 day ago)
 - [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Trepang is an implementation of Raft Algorithm in Go (2 days ago)
 - [goworkeryyt/go-config](https://github.com/goworkeryyt/go-config) - go 开发中常用的配置 consul, database, email, ftp, jwt, mqtt, pay, profile-active, redis,zap (2 days ago)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (2 days ago)
 
 #### 📫 How to reach me
 
