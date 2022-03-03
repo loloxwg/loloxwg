@@ -16,10 +16,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (today)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (5 days ago)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (1 week ago)
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (1 week ago)
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - :kissing:吾将上下而求索 (4 months ago)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (4 months ago)
 
 #### 🌱 My latest projects
