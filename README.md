@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 day ago)
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (6 days ago)
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (2 days ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 week ago)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (1 week ago)
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (1 week ago)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (4 months ago)
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
-- [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go (1 day ago)
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - cloud native decentralized distributed nosql database, Web3 world access point, based on RESP,RAFT,OSS,IPFS and blockchain. (2 days ago)
-- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (2 days ago)
-- [opcm/pcm](https://github.com/opcm/pcm) - Processor Counter Monitor (2 days ago)
-- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (2 days ago)
+- [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go (2 days ago)
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - cloud native decentralized distributed nosql database, Web3 world access point, based on RESP,RAFT,OSS,IPFS and blockchain. (3 days ago)
+- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (3 days ago)
+- [opcm/pcm](https://github.com/opcm/pcm) - Processor Counter Monitor (3 days ago)
+- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (3 days ago)
 
 #### 📫 How to reach me
 
