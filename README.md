@@ -16,10 +16,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (5 days ago)
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (6 days ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 week ago)
-- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (1 week ago)
-- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (1 week ago)
+- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (2 weeks ago)
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (2 weeks ago)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (5 months ago)
 
 #### 🌱 My latest projects
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (today)
-- [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) - go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 (today)
-- [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org) (today)
-- [sunface/too-many-lists](https://github.com/sunface/too-many-lists) - 中文书名&lt;&lt;手把手实现 Rust 链表&gt;&gt;，高质量手翻 Too Many Linked Lists， 是一本非常好的 Rust 实践学习教程 (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (1 day ago)
+- [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) - go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 (1 day ago)
+- [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org) (1 day ago)
+- [sunface/too-many-lists](https://github.com/sunface/too-many-lists) - 中文书名&lt;&lt;手把手实现 Rust 链表&gt;&gt;，高质量手翻 Too Many Linked Lists， 是一本非常好的 Rust 实践学习教程 (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
 
 #### 📫 How to reach me
 
