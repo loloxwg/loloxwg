@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) (today)
+- [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course (today)
 - [h4ck3r0/kali-theme](https://github.com/h4ck3r0/kali-theme) - Kali Linux Theme Installer , Zsh Shell , Pure Look (1 day ago)
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (2 days ago)
 - [possatti/pokemonsay](https://github.com/possatti/pokemonsay) - &#34;pokemonsay&#34; is like &#34;cowsay&#34; but for pokémon. (2 days ago)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (3 days ago)
-- [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) - go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 (3 days ago)
 
 #### 📫 How to reach me
 
