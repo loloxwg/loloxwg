@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 week ago)
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 week ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 weeks ago)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (2 weeks ago)
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (2 weeks ago)
 - [loloxwg/snippetbox](https://github.com/loloxwg/snippetbox) (5 months ago)
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
-- [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) (today)
-- [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course (today)
-- [h4ck3r0/kali-theme](https://github.com/h4ck3r0/kali-theme) - Kali Linux Theme Installer , Zsh Shell , Pure Look (1 day ago)
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (2 days ago)
-- [possatti/pokemonsay](https://github.com/possatti/pokemonsay) - &#34;pokemonsay&#34; is like &#34;cowsay&#34; but for pokémon. (2 days ago)
+- [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) (1 day ago)
+- [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course (1 day ago)
+- [h4ck3r0/kali-theme](https://github.com/h4ck3r0/kali-theme) - Kali Linux Theme Installer , Zsh Shell , Pure Look (2 days ago)
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (3 days ago)
+- [possatti/pokemonsay](https://github.com/possatti/pokemonsay) - &#34;pokemonsay&#34; is like &#34;cowsay&#34; but for pokémon. (3 days ago)
 
 #### 📫 How to reach me
 
