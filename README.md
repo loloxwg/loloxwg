@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [impact-eintr/bolt](https://github.com/impact-eintr/bolt) - boltdb 毕设里的一个组件 (today)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (today)
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) (3 days ago)
 - [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course (3 days ago)
 - [h4ck3r0/kali-theme](https://github.com/h4ck3r0/kali-theme) - Kali Linux Theme Installer , Zsh Shell , Pure Look (4 days ago)
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh (5 days ago)
-- [possatti/pokemonsay](https://github.com/possatti/pokemonsay) - &#34;pokemonsay&#34; is like &#34;cowsay&#34; but for pokémon. (5 days ago)
 
 #### 📫 How to reach me
 
