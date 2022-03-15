@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... (today)
+- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage (today)
 - [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - The database built for IoT streaming data storage and real-time stream processing. (today)
 - [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT. (today)
 - [auula/bottle](https://github.com/auula/bottle) - Bottle is a lightweight kv storage engine based on a log structured Hash Table. (1 day ago)
-- [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato (1 day ago)
-- [LLHFWT/rache](https://github.com/LLHFWT/rache) (1 day ago)
 
 #### 📫 How to reach me
 
