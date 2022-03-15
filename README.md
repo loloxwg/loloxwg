@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - The database built for IoT streaming data storage and real-time stream processing. (today)
+- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT. (today)
 - [auula/bottle](https://github.com/auula/bottle) - Bottle is a lightweight kv storage engine based on a log structured Hash Table. (1 day ago)
 - [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato (1 day ago)
 - [LLHFWT/rache](https://github.com/LLHFWT/rache) (1 day ago)
-- [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。 (1 day ago)
-- [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (1 day ago)
 
 #### 📫 How to reach me
 
