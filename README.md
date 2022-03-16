@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [JacianLiu/docker-compose](https://github.com/JacianLiu/docker-compose) - Zookeeper集群&amp;Kafka集群&amp;KafkaManager的docker-compose.yml文件 (today)
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (today)
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go (today)
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol (today)
 - [bilibili/gengine](https://github.com/bilibili/gengine) (1 day ago)
-- [edgexfoundry/edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG (1 day ago)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software (1 day ago)
 
 #### 📫 How to reach me
 
