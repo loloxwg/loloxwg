@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (today)
+- [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f) (today)
 - [JacianLiu/docker-compose](https://github.com/JacianLiu/docker-compose) - Zookeeper集群&amp;Kafka集群&amp;KafkaManager的docker-compose.yml文件 (today)
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (today)
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go (today)
-- [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol (today)
-- [bilibili/gengine](https://github.com/bilibili/gengine) (1 day ago)
 
 #### 📫 How to reach me
 
