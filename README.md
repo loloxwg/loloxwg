@@ -20,7 +20,7 @@
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (today)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (2 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 weeks ago)
-- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (3 weeks ago)
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (3 weeks ago)
 
 #### 🌱 My latest projects
 
