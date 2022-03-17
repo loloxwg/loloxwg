@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework (today)
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 此仓库应常青藤爸爸要求，已停止维护，请移步 https://github.com/dtm-labs/dtf (today)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 day ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 day ago)
 - [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f) (1 day ago)
-- [JacianLiu/docker-compose](https://github.com/JacianLiu/docker-compose) - Zookeeper集群&amp;Kafka集群&amp;KafkaManager的docker-compose.yml文件 (1 day ago)
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (1 day ago)
 
 #### 📫 How to reach me
 
