@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 week ago)
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (2 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 weeks ago)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端 (3 weeks ago)
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (3 weeks ago)
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (today)
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (today)
-- [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f) (today)
-- [JacianLiu/docker-compose](https://github.com/JacianLiu/docker-compose) - Zookeeper集群&amp;Kafka集群&amp;KafkaManager的docker-compose.yml文件 (today)
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (today)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 day ago)
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 day ago)
+- [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f) (1 day ago)
+- [JacianLiu/docker-compose](https://github.com/JacianLiu/docker-compose) - Zookeeper集群&amp;Kafka集群&amp;KafkaManager的docker-compose.yml文件 (1 day ago)
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (1 day ago)
 
 #### 📫 How to reach me
 
