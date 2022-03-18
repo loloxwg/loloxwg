@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (today)
 - [nivin-studio/go-zero-mall](https://github.com/nivin-studio/go-zero-mall) - go-zero实战：让微服务Go起来 (today)
 - [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) - rust 知名项目源码分析 (today)
 - [zeromicro/zeromall](https://github.com/zeromicro/zeromall) - The mall system based on go-zero. (today)
 - [better-go/pkg](https://github.com/better-go/pkg) - golang pkg, common utils (today)
-- [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators (today)
 
 #### 📫 How to reach me
 
