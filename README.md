@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [nivin-studio/gonivinck](https://github.com/nivin-studio/gonivinck) - 一个基于docker的go-zero运行环境。 (today)
 - [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework (1 day ago)
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 此仓库应常青藤爸爸要求，已停止维护，请移步 https://github.com/dtm-labs/dtf (1 day ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (2 days ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (2 days ago)
-- [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f) (2 days ago)
 
 #### 📫 How to reach me
 
