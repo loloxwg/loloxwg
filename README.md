@@ -50,11 +50,11 @@
 
 #### ⭐ Recent stars
 
+- [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch. (today)
 - [Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices. (today)
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (today)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
 - [nivin-studio/go-zero-mall](https://github.com/nivin-studio/go-zero-mall) - go-zero实战：让微服务Go起来 (1 day ago)
-- [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) - rust 知名项目源码分析 (1 day ago)
 
 #### 📫 How to reach me
 
