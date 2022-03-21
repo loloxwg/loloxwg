@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀A fast, stable and embedded k-v storage in pure Golang, supports string, list, hash, set, sorted set. (today)
+- [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go. (today)
 - [jaydenwen123/boltdb_book](https://github.com/jaydenwen123/boltdb_book) - 自底向上分析boltdb源码https://www.bookstack.cn/books/jaydenwen123-boltdb_book (today)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (today)
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (today)
-- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go. (today)
-- [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set. (today)
 
 #### 📫 How to reach me
 
