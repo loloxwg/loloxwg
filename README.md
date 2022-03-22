@@ -51,7 +51,7 @@
 
 #### ⭐ Recent stars
 
-- [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀A fast, stable and embedded k-v storage in pure Golang, supports string, list, hash, set, sorted set. (1 day ago)
+- [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀A fast, stable and embedded k-v storage in Go, supports string, list, hash, set, and sorted set. (1 day ago)
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go. (1 day ago)
 - [jaydenwen123/boltdb_book](https://github.com/jaydenwen123/boltdb_book) - 自底向上分析boltdb源码https://www.bookstack.cn/books/jaydenwen123-boltdb_book (1 day ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (1 day ago)
