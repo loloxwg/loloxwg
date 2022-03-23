@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [CDDSCLab/training-plan](https://github.com/CDDSCLab/training-plan) - 电子科技大学分布式存储与计算实验室新生训练计划 (today)
 - [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀A fast, stable and embedded k-v storage in Go, supports string, list, hash, set, and sorted set. (2 days ago)
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go. (2 days ago)
 - [jaydenwen123/boltdb_book](https://github.com/jaydenwen123/boltdb_book) - 自底向上分析boltdb源码https://www.bookstack.cn/books/jaydenwen123-boltdb_book (2 days ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (2 days ago)
-- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (2 days ago)
 
 #### 📫 How to reach me
 
