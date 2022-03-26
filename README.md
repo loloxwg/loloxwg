@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (today)
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :  (today)
 - [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators (2 days ago)
 - [vision9527/btree](https://github.com/vision9527/btree) - Go implementation of B plus tree (2 days ago)
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北 (2 days ago)
-- [CDDSCLab/training-plan](https://github.com/CDDSCLab/training-plan) - 电子科技大学分布式存储与计算实验室新生训练计划 (3 days ago)
 
 #### 📫 How to reach me
 
