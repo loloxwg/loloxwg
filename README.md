@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (6 days ago)
+- [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 week ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (2 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (1 year ago)
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
-- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (today)
-- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (today)
-- [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :  (today)
-- [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators (2 days ago)
-- [vision9527/btree](https://github.com/vision9527/btree) - Go implementation of B plus tree (2 days ago)
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 day ago)
+- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (1 day ago)
+- [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :  (1 day ago)
+- [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators (3 days ago)
+- [vision9527/btree](https://github.com/vision9527/btree) - Go implementation of B plus tree (3 days ago)
 
 #### 📫 How to reach me
 
