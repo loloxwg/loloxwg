@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 day ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (2 days ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 weeks ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (2 weeks ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 week ago)
+- [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (2 weeks ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (2 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (1 year ago)
 
