@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [spaolacci/murmur3](https://github.com/spaolacci/murmur3) - Native MurmurHash3 Go implementation (today)
 - [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 针对上海疫情大家买不到菜的解决方案 (1 day ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 week ago)
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (1 week ago)
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :  (1 week ago)
-- [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators (1 week ago)
 
 #### 📫 How to reach me
 
