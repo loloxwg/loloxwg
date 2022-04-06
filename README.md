@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (today)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 day ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 weeks ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (2 weeks ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent stars
 
-- [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 针对上海疫情大家买不到菜的解决方案 (today)
+- [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 针对上海疫情大家买不到菜的解决方案 (1 day ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 week ago)
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (1 week ago)
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :  (1 week ago)
