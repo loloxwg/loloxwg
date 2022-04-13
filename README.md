@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (today)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (today)
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
 - [spaolacci/murmur3](https://github.com/spaolacci/murmur3) - Native MurmurHash3 Go implementation (1 week ago)
 - [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 上海疫情买菜抢菜的临时解决方案 (1 week ago)
-- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (2 weeks ago)
-- [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide (2 weeks ago)
 
 #### 📫 How to reach me
 
