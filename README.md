@@ -18,7 +18,7 @@
 
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 week ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (3 weeks ago)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (3 weeks ago)
+- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (4 weeks ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 month ago)
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent stars
 
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (today)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (today)
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (1 day ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (1 day ago)
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
 - [spaolacci/murmur3](https://github.com/spaolacci/murmur3) - Native MurmurHash3 Go implementation (1 week ago)
 - [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 上海疫情买菜抢菜的临时解决方案 (1 week ago)
