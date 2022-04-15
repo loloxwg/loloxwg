@@ -51,11 +51,11 @@
 
 #### ⭐ Recent stars
 
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (today)
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (2 days ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (2 days ago)
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
 - [spaolacci/murmur3](https://github.com/spaolacci/murmur3) - Native MurmurHash3 Go implementation (1 week ago)
-- [JiajunJiang/RobFood](https://github.com/JiajunJiang/RobFood) - 上海疫情买菜抢菜的临时解决方案 (1 week ago)
 
 #### 📫 How to reach me
 
