@@ -18,7 +18,7 @@
 
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 week ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (4 weeks ago)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (4 weeks ago)
+- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 month ago)
 
@@ -51,10 +51,10 @@
 
 #### ⭐ Recent stars
 
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (today)
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (today)
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (2 days ago)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (2 days ago)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (1 day ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (1 day ago)
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (3 days ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (3 days ago)
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
 
 #### 📫 How to reach me
