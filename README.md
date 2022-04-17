@@ -17,10 +17,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 week ago)
+- [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (4 weeks ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
 - [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 month ago)
 
 #### 🌱 My latest projects
 
