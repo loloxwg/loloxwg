@@ -24,11 +24,11 @@
 
 #### 🌱 My latest projects
 
+- [loloxwg/mit-6.824-2020](https://github.com/loloxwg/mit-6.824-2020) - 6.824lab
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android)
 - [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端
 - [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io)
 
 #### 👯 Check out my recent followers
 
