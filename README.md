@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (1 week ago)
+- [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (2 weeks ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 month ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (2 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (1 year ago)
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (4 days ago)
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (4 days ago)
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (6 days ago)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (6 days ago)
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (1 week ago)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (5 days ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (5 days ago)
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (1 week ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. (1 week ago)
+- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn&#39;t teach themself. (2 weeks ago)
 
 #### 📫 How to reach me
 
