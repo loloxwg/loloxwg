@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
+- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (today)
 - [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (1 day ago)
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data  (1 day ago)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (1 day ago)
 - [TencentBlueKing/bkunifylogbeat](https://github.com/TencentBlueKing/bkunifylogbeat) - 蓝鲸日志采集器基于GSE采集框架 &amp; Beats 进行开发，并为日志平台、计算平台、BCS等平台提供日志采集服务。 (1 day ago)
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
 
 #### 📫 How to reach me
 
