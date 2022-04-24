@@ -42,7 +42,7 @@
 
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (2 weeks ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 month ago)
-- [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (2 months ago)
+- [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (3 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (1 year ago)
 
 #### 📜 My recent blog posts
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (2 days ago)
-- [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (3 days ago)
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data  (3 days ago)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (3 days ago)
-- [TencentBlueKing/bkunifylogbeat](https://github.com/TencentBlueKing/bkunifylogbeat) - 蓝鲸日志采集器基于GSE采集框架 &amp; Beats 进行开发，并为日志平台、计算平台、BCS等平台提供日志采集服务。 (3 days ago)
+- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (3 days ago)
+- [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (4 days ago)
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data  (4 days ago)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (4 days ago)
+- [TencentBlueKing/bkunifylogbeat](https://github.com/TencentBlueKing/bkunifylogbeat) - 蓝鲸日志采集器基于GSE采集框架 &amp; Beats 进行开发，并为日志平台、计算平台、BCS等平台提供日志采集服务。 (4 days ago)
 
 #### 📫 How to reach me
 
