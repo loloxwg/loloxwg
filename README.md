@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [pi-plan/praft](https://github.com/pi-plan/praft) - Python implementation of the Raft algorithm for distributed consensus (today)
-- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (3 days ago)
-- [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (4 days ago)
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data  (4 days ago)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (4 days ago)
+- [pi-plan/praft](https://github.com/pi-plan/praft) - Python implementation of the Raft algorithm for distributed consensus (1 day ago)
+- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (4 days ago)
+- [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (5 days ago)
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data  (5 days ago)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (5 days ago)
 
 #### 📫 How to reach me
 
