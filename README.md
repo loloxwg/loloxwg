@@ -52,9 +52,9 @@
 
 #### ⭐ Recent stars
 
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (2 days ago)
-- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C&#43;&#43; Concurrency in Action 2ed 笔记：C&#43;&#43;11/14/17/20 多线程，掌握操作系统原理，解锁并发编程技术 (2 days ago)
-- [pi-plan/praft](https://github.com/pi-plan/praft) - Python implementation of the Raft algorithm for distributed consensus (5 days ago)
+- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (3 days ago)
+- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C&#43;&#43; Concurrency in Action 2ed 笔记：C&#43;&#43;11/14/17/20 多线程，掌握操作系统原理，解锁并发编程技术 (3 days ago)
+- [pi-plan/praft](https://github.com/pi-plan/praft) - Python implementation of the Raft algorithm for distributed consensus (6 days ago)
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C&#43;&#43;11 (1 week ago)
 - [Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs) - All of my published&amp;unpublished blogs (1 week ago)
 
