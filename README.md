@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (today)
-- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (today)
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (today)
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (3 days ago)
-- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C&#43;&#43; Concurrency in Action 2ed 笔记：C&#43;&#43;11/14/17/20 多线程，掌握操作系统原理，解锁并发编程技术 (3 days ago)
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (1 day ago)
+- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (1 day ago)
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 day ago)
+- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (4 days ago)
+- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C&#43;&#43; Concurrency in Action 2ed 笔记：C&#43;&#43;11/14/17/20 多线程，掌握操作系统原理，解锁并发编程技术 (4 days ago)
 
 #### 📫 How to reach me
 
