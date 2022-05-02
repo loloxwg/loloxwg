@@ -20,7 +20,7 @@
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (1 month ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (1 month ago)
+- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL (today)
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (1 day ago)
-- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (1 day ago)
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 day ago)
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (4 days ago)
+- [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL (1 day ago)
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
+- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (2 days ago)
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (2 days ago)
+- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (5 days ago)
 
 #### 📫 How to reach me
 
