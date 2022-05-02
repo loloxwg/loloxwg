@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (today)
+- [engula/engula](https://github.com/engula/engula) - Engula is a cloud-native data structure store, used as a database, cache, and storage engine. (today)
 - [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL (1 day ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
 - [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (2 days ago)
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (2 days ago)
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) (5 days ago)
 
 #### 📫 How to reach me
 
