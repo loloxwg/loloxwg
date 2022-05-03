@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (3 weeks ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (4 weeks ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (1 month ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (today)
-- [engula/engula](https://github.com/engula/engula) - Engula is a cloud-native data structure store, used as a database, cache, and storage engine. (today)
-- [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL (1 day ago)
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
-- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (2 days ago)
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (1 day ago)
+- [engula/engula](https://github.com/engula/engula) - Engula is a cloud-native data structure store, used as a database, cache, and storage engine. (1 day ago)
+- [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL (2 days ago)
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (3 days ago)
+- [dtolnay/ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData (3 days ago)
 
 #### 📫 How to reach me
 
