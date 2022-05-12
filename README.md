@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (today)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 month ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (1 month ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
-- [loloxwg/study-process](https://github.com/loloxwg/study-process) - gugustudy (2 months ago)
 
 #### 🌱 My latest projects
 
