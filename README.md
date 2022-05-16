@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (today)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (1 day ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 month ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (1 month ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (1 month ago)
+- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent stars
 
-- [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (4 days ago)
+- [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (5 days ago)
 - [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (1 week ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (1 week ago)
-- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (1 week ago)
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (2 weeks ago)
 
 #### 📫 How to reach me
 
