@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (5 days ago)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (6 days ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 month ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 months ago)
@@ -47,14 +47,14 @@
 
 #### 📜 My recent blog posts
 
-- [](http://example.com/2022/02/21/%E6%9C%AA%E5%91%BD%E5%90%8D/) (2 months ago)
-- [Hello World](http://example.com/2022/02/21/hello-world/) (2 months ago)
+- [](http://example.com/2022/02/21/%E6%9C%AA%E5%91%BD%E5%90%8D/) (3 months ago)
+- [Hello World](http://example.com/2022/02/21/hello-world/) (3 months ago)
 
 #### ⭐ Recent stars
 
 - [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (1 week ago)
-- [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (1 week ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
+- [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (2 weeks ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 weeks ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (2 weeks ago)
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (2 weeks ago)
 
