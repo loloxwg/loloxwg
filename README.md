@@ -53,8 +53,8 @@
 #### ⭐ Recent stars
 
 - [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (2 weeks ago)
-- [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (2 weeks ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 weeks ago)
+- [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (3 weeks ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (3 weeks ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (3 weeks ago)
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (3 weeks ago)
 
