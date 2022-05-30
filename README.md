@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (today)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (1 day ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 month ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 months ago)
@@ -56,7 +56,7 @@
 - [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (3 weeks ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (3 weeks ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (3 weeks ago)
-- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (3 weeks ago)
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (4 weeks ago)
 
 #### 📫 How to reach me
 
