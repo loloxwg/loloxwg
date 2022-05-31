@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [AYIDouble](https://github.com/AYIDouble)
 - [ybj1997](https://github.com/ybj1997)
 - [dang-88](https://github.com/dang-88)
 - [Magumin21](https://github.com/Magumin21)
 - [WinterBokeh](https://github.com/WinterBokeh)
-- [fkexkbgadahfkexkbbbb](https://github.com/fkexkbgadahfkexkbbbb)
 
 #### 🔨 Latest Pull Requests I published
 
