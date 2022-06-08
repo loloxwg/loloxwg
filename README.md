@@ -16,19 +16,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (today)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 day ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 days ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 months ago)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (2 months ago)
 
 #### 🌱 My latest projects
 
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic)
+- [loloxwg/nextjs-blog-theme](https://github.com/loloxwg/nextjs-blog-theme)
+- [loloxwg/hugo-notes-theme](https://github.com/loloxwg/hugo-notes-theme)
 - [loloxwg/mit-6.824-2020](https://github.com/loloxwg/mit-6.824-2020) - 6.824lab
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android)
-- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端
-- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码
 
 #### 👯 Check out my recent followers
 
