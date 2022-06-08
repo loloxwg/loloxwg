@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (today)
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (1 day ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 day ago)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 days ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 months ago)
 - [loloxwg/locator-android](https://github.com/loloxwg/locator-android) (2 months ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (today)
+- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 day ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (2 months ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (2 months ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (4 months ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent stars
 
-- [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (3 weeks ago)
+- [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (4 weeks ago)
 - [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (1 month ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 month ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (1 month ago)
