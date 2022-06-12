@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (2 days ago)
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (4 days ago)
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (5 days ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (3 days ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (5 days ago)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (6 days ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (2 months ago)
 
@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (4 days ago)
+- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (5 days ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (2 months ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (2 months ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (4 months ago)
