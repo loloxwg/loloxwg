@@ -4,7 +4,7 @@
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
-💻 Interested in database, distributed storage system and distributed transaction.
+💻 Interested in distributed database, distributed storage system and distributed transaction.
 
 🖋 Blog：[loloxwg.club](https://loloxwg.club)
 
