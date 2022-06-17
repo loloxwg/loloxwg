@@ -6,7 +6,7 @@
 
 💻 Interested in distributed database, distributed storage system and distributed transaction.
 
-🖋 Blog：[loloxwg.club](https://loloxwg.club)
+🖋 Blog：[loloxwg.top](https://loloxwg.top)
 
 
 
@@ -48,19 +48,21 @@
 
 #### 📜 My recent blog posts
 
-- [](http://example.com/2022/02/21/%E6%9C%AA%E5%91%BD%E5%90%8D/) (3 months ago)
-- [Hello World](http://example.com/2022/02/21/hello-world/) (3 months ago)
+- [操作系统中的锁](https://loloxwg.top/post/%E9%94%81/) (today)
+- [共识论文总结Paxos Raft and etc 资料和笔记总结](https://loloxwg.top/post/%E5%85%B1%E8%AF%86%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93paxos-raft-and-etc-%E8%B5%84%E6%96%99%E5%92%8C%E7%AC%94%E8%AE%B0%E6%80%BB%E7%BB%93/) (4 months ago)
+- [如何实现内存页的分配与释放](https://loloxwg.top/post/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%86%85%E5%AD%98%E9%A1%B5%E7%9A%84%E5%88%86%E9%85%8D%E4%B8%8E%E9%87%8A%E6%94%BE/) (1 year ago)
+- [Welcome to Wowchemy, the website builder for Hugo](https://loloxwg.top/post/getting-started/) (2 years ago)
 
 #### ⭐ Recent stars
 
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications.  (today)
 - [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (1 month ago)
 - [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (1 month ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 month ago)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 (1 month ago)
-- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (1 month ago)
 
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/loloxwg
-- Blog: https://loloxwg.github.io
+- Blog: https://loloxwg.top
 
