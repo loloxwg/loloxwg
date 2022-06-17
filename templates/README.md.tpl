@@ -6,7 +6,7 @@
 
 💻 Interested in distributed database, distributed storage system and distributed transaction.
 
-🖋 Blog：[loloxwg.club](https://loloxwg.club)
+🖋 Blog：[loloxwg.top](https://loloxwg.top)
 
 <!--💡 Zhihu：[loloxwg](https://www.zhihu.com/people/loloxwg) -->
 
@@ -35,7 +35,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://loloxwg.github.io/atom.xml" 5}}
+{{range  "https://loloxwg.top/post/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -47,5 +47,5 @@
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/loloxwg
-- Blog: https://loloxwg.github.io
+- Blog: https://loloxwg.top
 
