@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (1 day ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (today)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 week ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 weeks ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (3 months ago)
