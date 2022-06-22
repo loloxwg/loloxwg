@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (today)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (1 day ago)
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (2 weeks ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 weeks ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (3 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (3 months ago)
