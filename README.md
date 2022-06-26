@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (2 days ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (4 days ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (3 days ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (5 days ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 weeks ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (3 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (3 months ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent stars
 
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React (2 days ago)
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React (3 days ago)
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.  (1 week ago)
 - [lusccc/cqupt-thesis-officedown](https://github.com/lusccc/cqupt-thesis-officedown) (1 month ago)
 - [Kalasearch/grafana-tutorial](https://github.com/Kalasearch/grafana-tutorial) - Grafana 使用教程 (1 month ago)
