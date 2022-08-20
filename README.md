@@ -18,7 +18,7 @@
 
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (1 month ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (1 month ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (1 month ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (2 months ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (2 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (5 months ago)
 
