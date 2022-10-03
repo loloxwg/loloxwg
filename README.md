@@ -41,7 +41,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (3 months ago)
-- [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (5 months ago)
+- [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (6 months ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (6 months ago)
 - [搞了个server酱 机器人我没部署，感觉server酱更方便点](https://github.com/jerrita/CQUPT-Auto-ClockIn/pull/2) on [jerrita/CQUPT-Auto-ClockIn](https://github.com/jerrita/CQUPT-Auto-ClockIn) (8 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (2 years ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent stars
 
-- [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (5 days ago)
-- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (1 week ago)
+- [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (6 days ago)
+- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (2 weeks ago)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications. (2 weeks ago)
 - [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions (2 months ago)
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React (3 months ago)
