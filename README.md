@@ -56,9 +56,9 @@
 
 #### ⭐ Recent stars
 
-- [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码 (today)
-- [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems (2 days ago)
-- [pingcap/go-randgen](https://github.com/pingcap/go-randgen) - a QA tool to random generate sql by bnf pattern (2 days ago)
+- [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码 (1 day ago)
+- [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems (3 days ago)
+- [pingcap/go-randgen](https://github.com/pingcap/go-randgen) - a QA tool to random generate sql by bnf pattern (3 days ago)
 - [disksing/iter](https://github.com/disksing/iter) - Go implementation of C&#43;&#43; STL iterators and algorithms. (1 week ago)
 - [liyue201/gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C&#43;&#43; STL (1 week ago)
 
