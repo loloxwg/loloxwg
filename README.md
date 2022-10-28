@@ -56,7 +56,7 @@
 
 #### ⭐ Recent stars
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (today)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 day ago)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (1 week ago)
 - [CreditTone/aslist](https://github.com/CreditTone/aslist) - aslist(A Sorted List)是golang语言实现的线程安全可排序的list。便捷的调用方式，使开发者快速入门使用。 (1 week ago)
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database! (1 week ago)
