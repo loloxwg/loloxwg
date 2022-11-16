@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (1 day ago)
+- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (2 days ago)
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (2 weeks ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 weeks ago)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (3 weeks ago)
