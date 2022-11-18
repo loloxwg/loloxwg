@@ -18,7 +18,7 @@
 
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (4 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (4 months ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (4 months ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (5 months ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (5 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (8 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (3 days ago)
+- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (4 days ago)
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (2 weeks ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 weeks ago)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (4 weeks ago)
