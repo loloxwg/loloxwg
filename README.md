@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (today)
-- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (4 days ago)
+- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (1 day ago)
+- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (5 days ago)
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (2 weeks ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 weeks ago)
-- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (4 weeks ago)
+- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (1 month ago)
 
 #### 📫 How to reach me
 
