@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (4 months ago)
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (4 months ago)
+- [loloxwg/android-server](https://github.com/loloxwg/android-server) (5 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (5 months ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (5 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (8 months ago)
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent stars
 
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (today)
-- [oceanbase/miniob](https://github.com/oceanbase/miniob) (today)
-- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (1 day ago)
-- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (5 days ago)
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (1 day ago)
+- [oceanbase/miniob](https://github.com/oceanbase/miniob) (1 day ago)
+- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (2 days ago)
+- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (6 days ago)
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (2 weeks ago)
 
 #### 📫 How to reach me
