@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
+- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up (today)
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database. (today)
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser (today)
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (2 days ago)
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) (2 days ago)
-- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (3 days ago)
 
 #### 📫 How to reach me
 
