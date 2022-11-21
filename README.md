@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (1 day ago)
-- [oceanbase/miniob](https://github.com/oceanbase/miniob) (1 day ago)
-- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (2 days ago)
-- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (6 days ago)
-- [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (2 weeks ago)
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (2 days ago)
+- [oceanbase/miniob](https://github.com/oceanbase/miniob) (2 days ago)
+- [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 (3 days ago)
+- [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go. (1 week ago)
+- [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (3 weeks ago)
 
 #### 📫 How to reach me
 
