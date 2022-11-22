@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up (today)
-- [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database. (today)
-- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser (today)
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (2 days ago)
-- [oceanbase/miniob](https://github.com/oceanbase/miniob) (2 days ago)
+- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up (1 day ago)
+- [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database. (1 day ago)
+- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser (1 day ago)
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (3 days ago)
+- [oceanbase/miniob](https://github.com/oceanbase/miniob) (3 days ago)
 
 #### 📫 How to reach me
 
