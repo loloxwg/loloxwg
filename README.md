@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database. (today)
-- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up (1 day ago)
-- [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database. (1 day ago)
-- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser (1 day ago)
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (3 days ago)
+- [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database. (1 day ago)
+- [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up (2 days ago)
+- [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database. (2 days ago)
+- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser (2 days ago)
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (4 days ago)
 
 #### 📫 How to reach me
 
