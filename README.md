@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (5 days ago)
-- [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema (6 days ago)
-- [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go (6 days ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (6 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (6 days ago)
+- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (6 days ago)
+- [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema (1 week ago)
+- [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go (1 week ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 week ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 week ago)
 
 #### 📫 How to reach me
 
