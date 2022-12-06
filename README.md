@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang (today)
+- [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang (1 day ago)
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (1 week ago)
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema (1 week ago)
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go (1 week ago)
