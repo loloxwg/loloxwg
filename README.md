@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (4 days ago)
+- [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (5 days ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (1 week ago)
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang (1 week ago)
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (3 weeks ago)
