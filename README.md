@@ -18,7 +18,7 @@
 
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (5 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (5 months ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (5 months ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (6 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (9 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (5 days ago)
+- [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (6 days ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (1 week ago)
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang (1 week ago)
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (3 weeks ago)
