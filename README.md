@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
+- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (today)
 - [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (6 days ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (1 week ago)
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang (1 week ago)
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (3 weeks ago)
-- [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema (3 weeks ago)
 
 #### 📫 How to reach me
 
