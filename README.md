@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [huweihua123](https://github.com/huweihua123)
 - [benyaminalizadeh](https://github.com/benyaminalizadeh)
 - [AYIDouble](https://github.com/AYIDouble)
 - [ybj1997](https://github.com/ybj1997)
 - [dang-88](https://github.com/dang-88)
-- [Magumin21](https://github.com/Magumin21)
 
 #### 🔨 Latest Pull Requests I published
 
