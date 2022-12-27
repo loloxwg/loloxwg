@@ -55,8 +55,8 @@
 
 #### ⭐ Recent stars
 
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (today)
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (today)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 day ago)
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (1 day ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (1 week ago)
 - [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (2 weeks ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (2 weeks ago)
