@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (today)
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (today)
 - [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (1 day ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 days ago)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (2 days ago)
-- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (1 week ago)
-- [marianogappa/sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files (2 weeks ago)
 
 #### 📫 How to reach me
 
