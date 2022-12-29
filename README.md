@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (today)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (1 day ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 day ago)
 - [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (2 days ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 days ago)
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (3 days ago)
 
 #### 📫 How to reach me
 
