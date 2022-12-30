@@ -16,19 +16,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (today)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
 - [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (6 months ago)
-- [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (9 months ago)
 
 #### 🌱 My latest projects
 
-- [loloxwg/mini-lsm](https://github.com/loloxwg/mini-lsm)
+- [loloxwg/minilsm](https://github.com/loloxwg/minilsm)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic)
 - [loloxwg/nextjs-blog-theme](https://github.com/loloxwg/nextjs-blog-theme)
-- [loloxwg/hugo-notes-theme](https://github.com/loloxwg/hugo-notes-theme)
 - [loloxwg/mit-6.824-2020](https://github.com/loloxwg/mit-6.824-2020) - 6.824lab
+- [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
 
 #### 👯 Check out my recent followers
 
