@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (today)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (1 day ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (1 day ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 day ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (1 day ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (2 days ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 days ago)
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 days ago)
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (2 days ago)
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (3 days ago)
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 days ago)
 
 #### 📫 How to reach me
 
