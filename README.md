@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 days ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (3 days ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (6 months ago)
+- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (3 days ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (3 days ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (3 days ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (4 days ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (4 days ago)
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (4 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 days ago)
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (4 days ago)
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (5 days ago)
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (5 days ago)
 
 #### 📫 How to reach me
 
