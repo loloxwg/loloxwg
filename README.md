@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (3 days ago)
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (4 days ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
+- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (7 months ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (9 months ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (9 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (2 years ago)
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent stars
 
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (4 days ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 days ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (4 days ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (5 days ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (5 days ago)
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (5 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (5 days ago)
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (5 days ago)
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (6 days ago)
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (6 days ago)
 
 #### 📫 How to reach me
 
