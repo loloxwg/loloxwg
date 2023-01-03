@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (today)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (4 days ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (7 months ago)
 
 #### 🌱 My latest projects
 
