@@ -56,9 +56,9 @@
 #### ⭐ Recent stars
 
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (1 week ago)
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (1 week ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (1 week ago)
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 weeks ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (2 weeks ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (2 weeks ago)
 
 #### 📫 How to reach me
