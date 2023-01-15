@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (1 day ago)
+- [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (2 days ago)
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (1 week ago)
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 weeks ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
