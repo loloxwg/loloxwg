@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (1 week ago)
+- [loloxwg/locator-sevser](https://github.com/loloxwg/locator-sevser) - WIFI室内定位后端代码 (2 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 weeks ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (6 months ago)
 - [loloxwg/android-server](https://github.com/loloxwg/android-server) (6 months ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (6 months ago)
+- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent stars
 
-- [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (3 days ago)
-- [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (1 week ago)
+- [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (4 days ago)
+- [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (2 weeks ago)
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 weeks ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (2 weeks ago)
