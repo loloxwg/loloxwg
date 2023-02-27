@@ -57,9 +57,9 @@
 
 - [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (1 month ago)
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (1 month ago)
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (1 month ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (1 month ago)
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 months ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 months ago)
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (2 months ago)
 
 #### 📫 How to reach me
 
