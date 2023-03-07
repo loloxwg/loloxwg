@@ -18,17 +18,16 @@
 
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (8 months ago)
-- [loloxwg/android-server](https://github.com/loloxwg/android-server) (8 months ago)
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (8 months ago)
-- [loloxwg/web-final-test](https://github.com/loloxwg/web-final-test) (9 months ago)
+- [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (11 months ago)
 
 #### 🌱 My latest projects
 
 - [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic)
-- [loloxwg/nextjs-blog-theme](https://github.com/loloxwg/nextjs-blog-theme)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
-- [loloxwg/locator-android](https://github.com/loloxwg/locator-android)
-- [loloxwg/locator-web](https://github.com/loloxwg/locator-web) - WIFI室内定位前端
+- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io)
+- [loloxwg/CQUPT-Auto-ClockIn](https://github.com/loloxwg/CQUPT-Auto-ClockIn) - 某高校低风险地区自动打卡脚本
+- [loloxwg/Scrapy-Project](https://github.com/loloxwg/Scrapy-Project)
 
 #### 👯 Check out my recent followers
 
@@ -40,7 +39,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [hhhhh](https://github.com/loloxwg/android-server/pull/1) on [loloxwg/android-server](https://github.com/loloxwg/android-server) (9 months ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (11 months ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (11 months ago)
 - [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (2 years ago)
@@ -55,11 +53,11 @@
 
 #### ⭐ Recent stars
 
+- [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀 A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set. (today)
+- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (today)
+- [hardcore-os/coreKV-CPP](https://github.com/hardcore-os/coreKV-CPP) (today)
 - [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (1 month ago)
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL). (2 months ago)
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it&#39;s 2022 (2 months ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 months ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose (2 months ago)
 
 #### 📫 How to reach me
 
