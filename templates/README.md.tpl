@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png.png" width="260">
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
-💻 Interested in distributed database, distributed storage system and distributed transaction.
+💻 Interested in distributed database, distributed storage.
 
 🖋 Blog：[loloxwg.top](https://loloxwg.top)
 
