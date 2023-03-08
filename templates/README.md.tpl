@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="550">
+<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="450">
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
@@ -17,11 +17,6 @@
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 👯 Check out my recent followers
@@ -48,4 +43,5 @@
 
 - Twitter: https://twitter.com/loloxwg
 - Blog: https://loloxwg.top
+- Wechat: loloxwg
 
