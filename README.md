@@ -16,14 +16,14 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/loloxwg-hugo-academic](https://github.com/loloxwg/loloxwg-hugo-academic) (today)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (8 months ago)
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic) (8 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (11 months ago)
 
 #### 🌱 My latest projects
 
-- [loloxwg/hugo-academic](https://github.com/loloxwg/hugo-academic)
+- [loloxwg/loloxwg-hugo-academic](https://github.com/loloxwg/loloxwg-hugo-academic)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io)
 - [loloxwg/CQUPT-Auto-ClockIn](https://github.com/loloxwg/CQUPT-Auto-ClockIn) - 某高校低风险地区自动打卡脚本
