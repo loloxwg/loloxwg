@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="550">
+<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="450">
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
@@ -20,14 +20,6 @@
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (8 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (11 months ago)
-
-#### 🌱 My latest projects
-
-- [loloxwg/loloxwg-hugo-academic](https://github.com/loloxwg/loloxwg-hugo-academic)
-- [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook)
-- [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io)
-- [loloxwg/CQUPT-Auto-ClockIn](https://github.com/loloxwg/CQUPT-Auto-ClockIn) - 某高校低风险地区自动打卡脚本
-- [loloxwg/Scrapy-Project](https://github.com/loloxwg/Scrapy-Project)
 
 #### 👯 Check out my recent followers
 
@@ -64,4 +56,5 @@
 
 - Twitter: https://twitter.com/loloxwg
 - Blog: https://loloxwg.top
+- Wechat: loloxwg
 
