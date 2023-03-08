@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="260">
  
 🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
 
