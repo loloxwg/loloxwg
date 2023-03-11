@@ -19,6 +19,7 @@
 - [loloxwg/loloxwg-hugo-academic](https://github.com/loloxwg/loloxwg-hugo-academic) (3 days ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (8 months ago)
+- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (8 months ago)
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero (11 months ago)
 
 #### 👯 Check out my recent followers
