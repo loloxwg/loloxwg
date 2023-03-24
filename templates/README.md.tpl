@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="450">
  
-🎓 Student at [CQUPT University](https://www.cqupt.edu.cn/)
+🎓 Student at [Georgia Tech🐝](https://www.gatech.edu/)
 
 💻 Interested in distributed database, distributed storage.
 
