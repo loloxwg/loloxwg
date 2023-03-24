@@ -25,10 +25,6 @@
 #### 👯 Check out my recent followers
 
 - [Kying-star](https://github.com/Kying-star)
-- [huweihua123](https://github.com/huweihua123)
-- [benyaminalizadeh](https://github.com/benyaminalizadeh)
-- [AYIDouble](https://github.com/AYIDouble)
-- [ybj1997](https://github.com/ybj1997)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -50,12 +46,4 @@
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (1 week ago)
 - [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀 A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set. (2 weeks ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (2 weeks ago)
-- [hardcore-os/coreKV-CPP](https://github.com/hardcore-os/coreKV-CPP) (2 weeks ago)
-- [solidcode79/Unofficial-CS6515-FAQ](https://github.com/solidcode79/Unofficial-CS6515-FAQ) - Unofficial FAQ for Gatech&#39;s CS6515 (2 months ago)
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/loloxwg
-- Blog: https://loloxwg.top
-- Wechat: loloxwg
 
