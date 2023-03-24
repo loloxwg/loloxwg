@@ -20,7 +20,7 @@
 {{- end}}
 
 #### 👯 Check out my recent followers
-{{range followers 5}}
+{{range followers 1}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
@@ -35,13 +35,7 @@
 {{- end}}
 
 #### ⭐ Recent stars
-{{range recentStars 5}}
+{{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/loloxwg
-- Blog: https://loloxwg.top
-- Wechat: loloxwg
 
