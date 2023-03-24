@@ -16,7 +16,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/loloxwg-hugo-academic](https://github.com/loloxwg/loloxwg-hugo-academic) (2 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (2 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (9 months ago)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (9 months ago)
