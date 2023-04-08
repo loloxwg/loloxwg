@@ -41,7 +41,7 @@
 
 #### ⭐ Recent stars
 
-- [lidaohang/ceph_study](https://github.com/lidaohang/ceph_study) - ceph学习资料整理 (1 day ago)
+- [lidaohang/ceph_study](https://github.com/lidaohang/ceph_study) - ceph学习资料整理 (2 days ago)
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (3 weeks ago)
 - [flower-corp/rosedb](https://github.com/flower-corp/rosedb) - 🚀 A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set. (1 month ago)
 
