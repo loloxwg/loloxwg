@@ -41,7 +41,7 @@
 
 #### ⭐ Recent stars
 
-- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C&#43;&#43; Template的教学指南。与知名书籍C&#43;&#43; Templates不同，该系列教程将C&#43;&#43; Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中) (today)
-- [lidaohang/ceph_study](https://github.com/lidaohang/ceph_study) - ceph学习资料整理 (3 days ago)
+- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C&#43;&#43; Template的教学指南。与知名书籍C&#43;&#43; Templates不同，该系列教程将C&#43;&#43; Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中) (1 day ago)
+- [lidaohang/ceph_study](https://github.com/lidaohang/ceph_study) - ceph学习资料整理 (4 days ago)
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets (4 weeks ago)
 
