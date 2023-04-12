@@ -34,11 +34,11 @@
 
 #### 📜 My recent blog posts
 
-- [C&#43;&#43;中的const](https://loloxwg.top/post/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84const-f78cd58e7f3c44adac55620e8d3efa13/) (1 month ago)
-- [C&#43;&#43;中的mutable](https://loloxwg.top/post/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84mutable-0edc2ed4eb114446ae9c96b81a74de74/) (1 month ago)
-- [C&#43;&#43;中的static](https://loloxwg.top/post/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84static-eb2478cbe8134fcf9c35f28028be93c5/) (1 month ago)
-- [C&#43;&#43;中的可见性](https://loloxwg.top/post/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84%E5%8F%AF%E8%A7%81%E6%80%A7-0ae232d21aa34b14aacc7c41515ef775/) (1 month ago)
-- [C&#43;&#43;中的字符串](https://loloxwg.top/post/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2-c1aea693e5cc47d8a53110577af87660/) (1 month ago)
+- [ExtendibleHashing](https://loloxwg.top/posts/cmu-15445/extendible-hashing/) (today)
+- [LRU-K](https://loloxwg.top/posts/cmu-15445/lru-k/) (today)
+- [C&#43;&#43;中的const](https://loloxwg.top/posts/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84const-f78cd58e7f3c44adac55620e8d3efa13/) (1 month ago)
+- [C&#43;&#43;中的mutable](https://loloxwg.top/posts/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84mutable-0edc2ed4eb114446ae9c96b81a74de74/) (1 month ago)
+- [C&#43;&#43;中的static](https://loloxwg.top/posts/cpp/cpp-0cfaab30bd8344c6aa29a581cb2d8ccf/c&#43;&#43;%E4%B8%AD%E7%9A%84static-eb2478cbe8134fcf9c35f28028be93c5/) (1 month ago)
 
 #### ⭐ Recent stars
 
