@@ -30,7 +30,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://loloxwg.top/post/index.xml" 5}}
+{{range rss "https://loloxwg.top/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
