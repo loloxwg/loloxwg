@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (today)
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel. (2 weeks ago)
 - [sayef/bplus-tree](https://github.com/sayef/bplus-tree) - B&#43; Tree Data Insertion and Deletion (2 weeks ago)
-- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C&#43;&#43; Template的教学指南。与知名书籍C&#43;&#43; Templates不同，该系列教程将C&#43;&#43; Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中) (2 weeks ago)
 
