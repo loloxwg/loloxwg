@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
-- [tjumcw/6.824](https://github.com/tjumcw/6.824) - MIT 6.824 distributed system C&#43;&#43;Version (6 days ago)
+- [tjumcw/6.824](https://github.com/tjumcw/6.824) - MIT 6.824 distributed system C&#43;&#43;Version (1 week ago)
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (1 week ago)
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel. (3 weeks ago)
 
