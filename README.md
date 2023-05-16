@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C&#43;&#43; Tutorial: C&#43;&#43;11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ (today)
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (today)
 - [hyrise/sql-parser](https://github.com/hyrise/sql-parser) - SQL Parser for C&#43;&#43;. Building C&#43;&#43; object structure from SQL statements. (today)
-- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (3 days ago)
-- [tjumcw/6.824](https://github.com/tjumcw/6.824) - MIT 6.824 distributed system C&#43;&#43;Version (2 weeks ago)
 
