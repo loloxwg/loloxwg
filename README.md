@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (2 days ago)
+- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (3 days ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (4 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (10 months ago)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (10 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C&#43;&#43; Tutorial: C&#43;&#43;11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ (today)
-- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (today)
-- [hyrise/sql-parser](https://github.com/hyrise/sql-parser) - SQL Parser for C&#43;&#43;. Building C&#43;&#43; object structure from SQL statements. (today)
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C&#43;&#43; Tutorial: C&#43;&#43;11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ (1 day ago)
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 day ago)
+- [hyrise/sql-parser](https://github.com/hyrise/sql-parser) - SQL Parser for C&#43;&#43;. Building C&#43;&#43; object structure from SQL statements. (1 day ago)
 
