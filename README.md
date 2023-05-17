@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb (today)
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C&#43;&#43; Tutorial: C&#43;&#43;11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ (1 day ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 day ago)
-- [hyrise/sql-parser](https://github.com/hyrise/sql-parser) - SQL Parser for C&#43;&#43;. Building C&#43;&#43; object structure from SQL statements. (1 day ago)
 
