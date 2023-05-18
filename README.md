@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (today)
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C&#43;&#43;系列；台大郭彦甫MATLAB (1 day ago)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb (1 day ago)
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C&#43;&#43; Tutorial: C&#43;&#43;11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ (2 days ago)
 
