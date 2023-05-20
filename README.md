@@ -28,10 +28,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(version_log):统一写入，防止写入日志时宕机，在重启后恢复部分VersionEdit的内容](https://github.com/KKould/KipDB/pull/2) on [KKould/KipDB](https://github.com/KKould/KipDB) (today)
 - [finish block](https://github.com/loloxwg/mini-lsm/pull/1) on [loloxwg/mini-lsm](https://github.com/loloxwg/mini-lsm) (2 months ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (1 year ago)
 - [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 year ago)
-- [hh](https://github.com/loloxwg/CQUPT-Health-ClockIn/pull/1) on [loloxwg/CQUPT-Health-ClockIn](https://github.com/loloxwg/CQUPT-Health-ClockIn) (2 years ago)
 
 #### 📜 My recent blog posts
 
