@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) (4 days ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 week ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (4 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (10 months ago)
-- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (11 months ago)
 
 #### 👯 Check out my recent followers
 
