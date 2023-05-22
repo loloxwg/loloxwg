@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [Kying-star](https://github.com/Kying-star)
+- [KKould](https://github.com/KKould)
 
 #### 🔨 Latest Pull Requests I published
 
