@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (2 days ago)
-- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (6 days ago)
+- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (3 days ago)
+- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 week ago)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) (1 week ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (4 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (11 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (1 day ago)
+- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (2 days ago)
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (1 week ago)
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C&#43;&#43;系列；台大郭彦甫MATLAB (1 week ago)
 
