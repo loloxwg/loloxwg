@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (today)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (4 days ago)
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (1 week ago)
-- [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C&#43;&#43;系列；台大郭彦甫MATLAB (1 week ago)
 
