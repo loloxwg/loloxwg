@@ -28,10 +28,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KKould/KipDB/pull/4) on [KKould/KipDB](https://github.com/KKould/KipDB) (today)
 - [fix(version_log):统一写入，防止写入日志时宕机，在重启后恢复部分VersionEdit的内容](https://github.com/KKould/KipDB/pull/2) on [KKould/KipDB](https://github.com/KKould/KipDB) (1 week ago)
 - [finish block](https://github.com/loloxwg/mini-lsm/pull/1) on [loloxwg/mini-lsm](https://github.com/loloxwg/mini-lsm) (2 months ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (1 year ago)
-- [docs: use Latest version goctl(v1.3.3), generate code changes ,and Ab…](https://github.com/zeromicro/zero-doc/pull/121) on [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) (1 year ago)
 
 #### 📜 My recent blog posts
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (1 day ago)
 - [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (5 days ago)
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (1 week ago)
 
