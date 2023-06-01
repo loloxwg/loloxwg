@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io) (today)
 - [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (2 days ago)
-- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (6 days ago)
 
