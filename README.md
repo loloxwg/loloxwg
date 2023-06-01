@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
-- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (6 days ago)
+- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
+- [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 week ago)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (2 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (5 months ago)
 - [loloxwg/emq-x-webhook](https://github.com/loloxwg/emq-x-webhook) (11 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KKould/KipDB/pull/4) on [KKould/KipDB](https://github.com/KKould/KipDB) (today)
+- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KKould/KipDB/pull/4) on [KKould/KipDB](https://github.com/KKould/KipDB) (1 day ago)
 - [fix(version_log):统一写入，防止写入日志时宕机，在重启后恢复部分VersionEdit的内容](https://github.com/KKould/KipDB/pull/2) on [KKould/KipDB](https://github.com/KKould/KipDB) (1 week ago)
 - [finish block](https://github.com/loloxwg/mini-lsm/pull/1) on [loloxwg/mini-lsm](https://github.com/loloxwg/mini-lsm) (2 months ago)
 - [add lab for lesson2](https://github.com/loloxwg/corekv/pull/1) on [loloxwg/corekv](https://github.com/loloxwg/corekv) (1 year ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
-- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (1 day ago)
-- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (5 days ago)
+- [KKould/KipDB](https://github.com/KKould/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
+- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (2 days ago)
+- [datenlord/Xline](https://github.com/datenlord/Xline) - A geo-distributed KV store for metadata management (6 days ago)
 
