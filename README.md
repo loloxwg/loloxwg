@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (today)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 day ago)
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C&#43;&#43;、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ (2 days ago)
-- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io) (3 days ago)
 
