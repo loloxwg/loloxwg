@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (today)
 - [taiki-e/futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate. (4 days ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (5 days ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (6 days ago)
 
