@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&#39;t work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch (today)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (today)
 - [taiki-e/futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate. (4 days ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (5 days ago)
 
