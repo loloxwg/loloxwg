@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [KKould](https://github.com/KKould)
+- [WenyXu](https://github.com/WenyXu)
 
 #### 🔨 Latest Pull Requests I published
 
