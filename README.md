@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [WenyXu](https://github.com/WenyXu)
+- [yuancf1024](https://github.com/yuancf1024)
 
 #### 🔨 Latest Pull Requests I published
 
