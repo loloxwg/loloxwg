@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: 使用预定义常量](https://github.com/KipData/KipDB/pull/13) on [KipData/KipDB](https://github.com/KipData/KipDB) (today)
 - [feat: 优化VersionStatus统计信息(#5)](https://github.com/KipData/KipDB/pull/8) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
 - [feat(parser):新增parser模块，以及项目目录的搭建](https://github.com/KipData/KipSQL/pull/1) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(version_log): 为 version_log 增加快照功能](https://github.com/KipData/KipDB/pull/4) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [fix(version_log):统一写入，防止写入日志时宕机，在重启后恢复部分VersionEdit的内容](https://github.com/KipData/KipDB/pull/2) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 weeks ago)
-- [finish block](https://github.com/loloxwg/mini-lsm/pull/1) on [loloxwg/mini-lsm](https://github.com/loloxwg/mini-lsm) (3 months ago)
 
 #### 📜 My recent blog posts
 
