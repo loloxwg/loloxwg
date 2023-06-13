@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [yuancf1024](https://github.com/yuancf1024)
+- [GE-fighting](https://github.com/GE-fighting)
 
 #### 🔨 Latest Pull Requests I published
 
