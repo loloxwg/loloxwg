@@ -16,10 +16,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (6 days ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (2 weeks ago)
-- [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (3 weeks ago)
+- [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (4 weeks ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (5 months ago)
 
 #### 👯 Check out my recent followers
@@ -28,10 +28,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: 使用预定义常量](https://github.com/KipData/KipDB/pull/13) on [KipData/KipDB](https://github.com/KipData/KipDB) (today)
-- [feat: 优化VersionStatus统计信息(#5)](https://github.com/KipData/KipDB/pull/8) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
+- [fix: 使用预定义常量](https://github.com/KipData/KipDB/pull/13) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
+- [feat: 优化VersionStatus统计信息(#5)](https://github.com/KipData/KipDB/pull/8) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
 - [feat(parser):新增parser模块，以及项目目录的搭建](https://github.com/KipData/KipSQL/pull/1) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
-- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KipData/KipDB/pull/4) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
+- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KipData/KipDB/pull/4) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 weeks ago)
 - [fix(version_log):统一写入，防止写入日志时宕机，在重启后恢复部分VersionEdit的内容](https://github.com/KipData/KipDB/pull/2) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines for macOS (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
-- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&#39;t work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch (4 days ago)
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines for macOS (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&#39;t work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch (5 days ago)
 
