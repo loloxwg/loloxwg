@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [GE-fighting](https://github.com/GE-fighting)
+- [Nliver](https://github.com/Nliver)
 
 #### 🔨 Latest Pull Requests I published
 
