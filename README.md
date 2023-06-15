@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (today)
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines for macOS (2 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 days ago)
-- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&#39;t work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch (6 days ago)
 
