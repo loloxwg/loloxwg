@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [Nliver](https://github.com/Nliver)
+- [66RING](https://github.com/66RING)
 
 #### 🔨 Latest Pull Requests I published
 
