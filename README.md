@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [66RING](https://github.com/66RING)
+- [eliasyaoyc](https://github.com/eliasyaoyc)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (today)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (2 days ago)
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines for macOS (4 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (4 days ago)
 
