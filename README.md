@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (today)
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (1 day ago)
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (3 days ago)
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines for macOS (5 days ago)
 
