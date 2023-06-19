@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [WenyXu/sync-adaptive-radix-tree](https://github.com/WenyXu/sync-adaptive-radix-tree) - An implementation of the Adaptive Radix Tree with Optimistic Lock Coupling. (today)
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (1 day ago)
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine (2 days ago)
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust. (4 days ago)
 
