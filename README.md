@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [dashjay](https://github.com/dashjay)
+- [DearYangs](https://github.com/DearYangs)
 
 #### 🔨 Latest Pull Requests I published
 
