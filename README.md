@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [DearYangs](https://github.com/DearYangs)
+- [MJR0727](https://github.com/MJR0727)
 
 #### 🔨 Latest Pull Requests I published
 
