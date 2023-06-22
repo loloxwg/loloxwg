@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (today)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (6 days ago)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 weeks ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (4 weeks ago)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (1 month ago)
 - [loloxwg/loloxwg.github.io](https://github.com/loloxwg/loloxwg.github.io) (5 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Disable doc test check.](https://github.com/KipData/KipSQL/pull/10) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/9) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [fix(manifest): fix vector fragments](https://github.com/milvus-io/milvus-storage/pull/8) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [Add simple CI for go](https://github.com/milvus-io/milvus-storage/pull/5) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 - [fix: 使用预定义常量](https://github.com/KipData/KipDB/pull/13) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
-- [feat: 优化VersionStatus统计信息(#5)](https://github.com/KipData/KipDB/pull/8) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 
 #### 📜 My recent blog posts
 
