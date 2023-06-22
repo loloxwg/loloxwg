@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/9) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
+- [fix(manifest): fix vector fragments](https://github.com/milvus-io/milvus-storage/pull/8) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [Add simple CI for go](https://github.com/milvus-io/milvus-storage/pull/5) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 - [fix: 使用预定义常量](https://github.com/KipData/KipDB/pull/13) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [feat: 优化VersionStatus统计信息(#5)](https://github.com/KipData/KipDB/pull/8) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
-- [feat(parser):新增parser模块，以及项目目录的搭建](https://github.com/KipData/KipSQL/pull/1) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
-- [feat(version_log): 为 version_log 增加快照功能](https://github.com/KipData/KipDB/pull/4) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
