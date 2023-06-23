@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (today)
+- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [Using Github Actions CodeReview BOT](https://github.com/KipData/KipSQL/pull/12) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [Disable doc test check.](https://github.com/KipData/KipSQL/pull/10) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
 - [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/9) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
-- [fix(manifest): fix vector fragments](https://github.com/milvus-io/milvus-storage/pull/8) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
-- [Add simple CI for go](https://github.com/milvus-io/milvus-storage/pull/5) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 
 #### 📜 My recent blog posts
 
