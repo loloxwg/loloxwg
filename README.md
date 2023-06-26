@@ -24,7 +24,7 @@
 
 #### 👯 Check out my recent followers
 
-- [sacloudy](https://github.com/sacloudy)
+- [ShiKaiWi](https://github.com/ShiKaiWi)
 
 #### 🔨 Latest Pull Requests I published
 
