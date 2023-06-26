@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [WangTingZheng/Paperdb](https://github.com/WangTingZheng/Paperdb) - A LevelDB for implementing LSM-related papers (today)
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust. (today)
 - [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架 (1 day ago)
-- [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library (1 day ago)
 
