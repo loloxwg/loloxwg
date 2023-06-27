@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [hussainsultan/tpch-duckdb-bench](https://github.com/hussainsultan/tpch-duckdb-bench) (today)
 - [Veeupup/naive-pipeline-execution](https://github.com/Veeupup/naive-pipeline-execution) - pipeline execution implemented in Rust (today)
 - [MonetDB/MonetDB](https://github.com/MonetDB/MonetDB) - This is the official mirror of the MonetDB Mercurial repository. Please note that we do not accept pull requests on github. The regression test results can be found on the MonetDB Testweb https://www.monetdb.org/testweb/web/status.php .For contributions please see: https://www.monetdb.org/documentation/dev-guide/ (today)
-- [WangTingZheng/Paperdb](https://github.com/WangTingZheng/Paperdb) - A LevelDB for implementing LSM-related papers (1 day ago)
 
