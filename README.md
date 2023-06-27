@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (today)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 day ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (2 days ago)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (2 days ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
-- [feat(ci): Change toolchain.](https://github.com/KipData/KipSQL/pull/14) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
-- [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
-- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
-- [Using Github Actions CodeReview BOT](https://github.com/KipData/KipSQL/pull/12) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
+- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 days ago)
+- [feat(ci): Change toolchain.](https://github.com/KipData/KipSQL/pull/14) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
+- [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
+- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
+- [Using Github Actions CodeReview BOT](https://github.com/KipData/KipSQL/pull/12) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
-- [WangTingZheng/Paperdb](https://github.com/WangTingZheng/Paperdb) - A LevelDB for implementing LSM-related papers (today)
-- [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust. (today)
-- [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架 (1 day ago)
+- [WangTingZheng/Paperdb](https://github.com/WangTingZheng/Paperdb) - A LevelDB for implementing LSM-related papers (1 day ago)
+- [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust. (1 day ago)
+- [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架 (2 days ago)
 
