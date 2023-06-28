@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (today)
 - [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (today)
 - [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (today)
-- [hussainsultan/tpch-duckdb-bench](https://github.com/hussainsultan/tpch-duckdb-bench) (1 day ago)
 
