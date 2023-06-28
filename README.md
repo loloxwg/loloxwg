@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (today)
+- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (today)
 - [hussainsultan/tpch-duckdb-bench](https://github.com/hussainsultan/tpch-duckdb-bench) (1 day ago)
-- [Veeupup/naive-pipeline-execution](https://github.com/Veeupup/naive-pipeline-execution) - pipeline execution implemented in Rust (1 day ago)
-- [MonetDB/MonetDB](https://github.com/MonetDB/MonetDB) - This is the official mirror of the MonetDB Mercurial repository. Please note that we do not accept pull requests on github. The regression test results can be found on the MonetDB Testweb https://www.monetdb.org/testweb/web/status.php .For contributions please see: https://www.monetdb.org/documentation/dev-guide/ (1 day ago)
 
