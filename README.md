@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark (today)
 - [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (1 day ago)
 - [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (1 day ago)
-- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (1 day ago)
 
