@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 days ago)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (3 days ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 days ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (3 days ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (4 days ago)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (4 days ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (3 days ago)
-- [feat(ci): Change toolchain.](https://github.com/KipData/KipSQL/pull/14) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
-- [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (5 days ago)
-- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
-- [Using Github Actions CodeReview BOT](https://github.com/KipData/KipSQL/pull/12) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
+- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 days ago)
+- [feat(ci): Change toolchain.](https://github.com/KipData/KipSQL/pull/14) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
+- [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
+- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
+- [Using Github Actions CodeReview BOT](https://github.com/KipData/KipSQL/pull/12) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
-- [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (today)
-- [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (today)
-- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (today)
+- [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (1 day ago)
+- [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (1 day ago)
+- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (1 day ago)
 
