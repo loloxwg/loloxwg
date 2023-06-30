@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [ustcadsl/diffkv](https://github.com/ustcadsl/diffkv) (today)
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark (1 day ago)
 - [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (2 days ago)
-- [XuPeng-SH/py-tpcc](https://github.com/XuPeng-SH/py-tpcc) - Python implementation of TPC-C (2 days ago)
 
