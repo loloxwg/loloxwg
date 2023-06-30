@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(binder): add create table binding](https://github.com/KipData/KipSQL/pull/16) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(makefile): add a Makefile in cpp (#12)](https://github.com/milvus-io/milvus-storage/pull/13) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
 - [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (5 days ago)
 - [feat(ci): Change toolchain.](https://github.com/KipData/KipSQL/pull/14) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(ci): Add code review gpt bot.](https://github.com/KipData/KipDB/pull/26) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
-- [Add new ci bot to improve code review](https://github.com/KipData/KipSQL/pull/13) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
 #### 📜 My recent blog posts
 
