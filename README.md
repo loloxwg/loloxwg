@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [sql-benchmarks/sqlbench-runners](https://github.com/sql-benchmarks/sqlbench-runners) - SQLBench Runners (today)
 - [ustcadsl/diffkv](https://github.com/ustcadsl/diffkv) (3 days ago)
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark (4 days ago)
-- [milvus-io/birdwatcher](https://github.com/milvus-io/birdwatcher) (5 days ago)
 
