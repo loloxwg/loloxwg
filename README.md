@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [djouallah/Testing_BI_Engine](https://github.com/djouallah/Testing_BI_Engine) - TPC-H_SF10 (today)
 - [sql-benchmarks/sqlbench-runners](https://github.com/sql-benchmarks/sqlbench-runners) - SQLBench Runners (today)
 - [ustcadsl/diffkv](https://github.com/ustcadsl/diffkv) (3 days ago)
-- [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark (4 days ago)
 
