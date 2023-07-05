@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
 - [feat(binder): add create table binding](https://github.com/KipData/KipSQL/pull/16) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat(makefile): add a Makefile in cpp (#12)](https://github.com/milvus-io/milvus-storage/pull/13) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (6 days ago)
-- [feat:(storage): Finish basic storage module.](https://github.com/milvus-io/milvus-storage/pull/10) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 
 #### 📜 My recent blog posts
 
