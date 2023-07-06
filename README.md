@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX (today)
 - [djouallah/Testing_BI_Engine](https://github.com/djouallah/Testing_BI_Engine) - TPC-H_SF10 (3 days ago)
-- [sql-benchmarks/sqlbench-runners](https://github.com/sql-benchmarks/sqlbench-runners) - SQLBench Runners (3 days ago)
 
