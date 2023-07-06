@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (today)
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
-- [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX (today)
 
