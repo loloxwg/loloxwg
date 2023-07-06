@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX (today)
-- [djouallah/Testing_BI_Engine](https://github.com/djouallah/Testing_BI_Engine) - TPC-H_SF10 (3 days ago)
 
