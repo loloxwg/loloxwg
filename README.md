@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (today)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (6 days ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
-- [loloxwg/tinykv](https://github.com/loloxwg/tinykv) - The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by MIT 6.824 and TiKV Project. (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX (today)
 - [djouallah/Testing_BI_Engine](https://github.com/djouallah/Testing_BI_Engine) - TPC-H_SF10 (3 days ago)
 - [sql-benchmarks/sqlbench-runners](https://github.com/sql-benchmarks/sqlbench-runners) - SQLBench Runners (3 days ago)
-- [ustcadsl/diffkv](https://github.com/ustcadsl/diffkv) (6 days ago)
 
