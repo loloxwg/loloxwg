@@ -16,10 +16,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (today)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 day ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (6 days ago)
+- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (1 day ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 days ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (2 days ago)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 
 #### 👯 Check out my recent followers
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
-- [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
-- [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
-- [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
-- [feat(binder): add create table binding](https://github.com/KipData/KipSQL/pull/16) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
+- [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
+- [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
+- [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 days ago)
+- [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
+- [feat(binder): add create table binding](https://github.com/KipData/KipSQL/pull/16) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
-- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (today)
-- [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (today)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
+- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (1 day ago)
+- [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (1 day ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 day ago)
 
