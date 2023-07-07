@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (today)
 - [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (1 day ago)
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (1 day ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 day ago)
 
