@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (today)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (4 days ago)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (5 days ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (5 days ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (today)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (5 days ago)
 - [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
-- [feat(binder): add create table binding](https://github.com/KipData/KipSQL/pull/16) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
 #### 📜 My recent blog posts
 
