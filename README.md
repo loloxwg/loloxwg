@@ -17,9 +17,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (today)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (today)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (4 days ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (5 days ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 
 #### 👯 Check out my recent followers
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (today)
 - [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (3 days ago)
 - [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (4 days ago)
-- [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization. (4 days ago)
 
