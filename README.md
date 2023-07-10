@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (today)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (5 days ago)
-- [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
 
 #### 📜 My recent blog posts
 
