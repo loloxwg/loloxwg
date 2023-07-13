@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(type): use arrow type to support vectorization](https://github.com/KipData/KipSQL/pull/22) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [fix(manifest): add unit tests for manifest by cpp.](https://github.com/milvus-io/milvus-storage/pull/19) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (3 days ago)
 - [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
-- [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
 #### 📜 My recent blog posts
 
