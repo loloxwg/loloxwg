@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 days ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (2 days ago)
-- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (6 days ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (3 days ago)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 days ago)
+- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (1 week ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 
@@ -28,8 +28,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 days ago)
-- [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
+- [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (3 days ago)
+- [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (2 days ago)
-- [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (5 days ago)
-- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (6 days ago)
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (3 days ago)
+- [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (6 days ago)
+- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (1 week ago)
 
