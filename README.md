@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (today)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (3 days ago)
 - [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (6 days ago)
-- [pdet/duckdb-tutorial](https://github.com/pdet/duckdb-tutorial) (1 week ago)
 
