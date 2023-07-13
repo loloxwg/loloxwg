@@ -44,7 +44,7 @@
 
 #### ⭐ Recent stars
 
+- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook &#43; Awesome Rust！ (today)
 - [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (today)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (3 days ago)
-- [sunby/kaer](https://github.com/sunby/kaer) - A vector database built on document database (6 days ago)
 
