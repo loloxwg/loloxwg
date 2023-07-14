@@ -4,7 +4,7 @@
  
 🎓 Student at [Georgia Tech 🐝](https://www.gatech.edu/)
 
-💻 Interested in distributed database, distributed storage.
+💻 Interested in olap/oltp database, distributed storage.
 
 🖋 Blog：[loloxwg.top](https://loloxwg.top)
 
@@ -17,11 +17,6 @@
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 👯 Check out my recent followers
-{{range followers 3}}
-- [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
@@ -38,4 +33,9 @@
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
+
+#### 👯 Check out my recent followers
+{{range followers 3}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
 
