@@ -4,7 +4,7 @@
  
 🎓 Student at [Georgia Tech 🐝](https://www.gatech.edu/)
 
-💻 Interested in distributed database, distributed storage.
+💻 Interested in olap/oltp database, distributed storage.
 
 🖋 Blog：[loloxwg.top](https://loloxwg.top)
 
@@ -21,12 +21,6 @@
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 day ago)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
-
-#### 👯 Check out my recent followers
-
-- [WangTingZheng](https://github.com/WangTingZheng)
-- [ShiKaiWi](https://github.com/ShiKaiWi)
-- [sacloudy](https://github.com/sacloudy)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,4 +48,10 @@
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook &#43; Awesome Rust！ (1 day ago)
 - [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (1 day ago)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (4 days ago)
+
+#### 👯 Check out my recent followers
+
+- [WangTingZheng](https://github.com/WangTingZheng)
+- [ShiKaiWi](https://github.com/ShiKaiWi)
+- [sacloudy](https://github.com/sacloudy)
 
