@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (today)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 day ago)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (4 days ago)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (1 week ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 week ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(type): use arrow type to support vectorization](https://github.com/KipData/KipSQL/pull/22) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
 - [fix(manifest): add unit tests for manifest by cpp.](https://github.com/milvus-io/milvus-storage/pull/19) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
 - [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 days ago)
-- [feat(cli): add api for printing sst arrangement status](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
 
 #### 📜 My recent blog posts
 
