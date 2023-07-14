@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="450">
+<!--img align="right" src="https://raw.githubusercontent.com/loloxwg/loloxwg/master/assets/WTFs-per-minute.png" width="450"-->
  
-🎓 Student at [Georgia Tech🐝](https://www.gatech.edu/)
+🎓 Student at [Georgia Tech 🐝](https://www.gatech.edu/)
 
 💻 Interested in distributed database, distributed storage.
 
@@ -20,17 +20,17 @@
 {{- end}}
 
 #### 👯 Check out my recent followers
-{{range followers 1}}
+{{range followers 3}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://loloxwg.top/posts/index.xml" 5}}
+{{range rss "https://nobelium-3406bv3sf-loloxwg.vercel.app/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
