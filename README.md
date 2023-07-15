@@ -45,9 +45,9 @@
 
 #### ⭐ Recent stars
 
+- [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (today)
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook &#43; Awesome Rust！ (2 days ago)
 - [rdaum/rart-rs](https://github.com/rdaum/rart-rs) - An Adaptive Radix Tree implementation. (2 days ago)
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (5 days ago)
 
 #### 👯 Check out my recent followers
 
