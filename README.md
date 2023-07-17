@@ -37,11 +37,11 @@
 
 #### 📜 My recent blog posts
 
-- [cmu15445 查询优化-下 ](https://www.loloxwg.top/query-optimizer-2) (1 day ago)
+- [cmu15445 查询优化- 下 ](https://www.loloxwg.top/query-optimizer-2) (1 day ago)
 - [cmu15445 查询优化- 上 ](https://www.loloxwg.top/query-optimizer-1) (1 day ago)
+- [cmu15445 查询执行- 上](https://www.loloxwg.top/query-execution-1) (3 days ago)
 - [两条道路：查询编译和向量化](https://www.loloxwg.top/TwoPathsQueryCompilationandVectorization) (4 days ago)
 - [sqlrs 分析使用 Arrow 类型](https://www.loloxwg.top/sqlrs-analysis-using-Arrow-type) (5 days ago)
-- [SQL: AST到Plan 简单样例](https://www.loloxwg.top/sql-to-plan) (6 days ago)
 
 #### ⭐ Recent stars
 
