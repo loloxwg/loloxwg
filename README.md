@@ -37,11 +37,11 @@
 
 #### 📜 My recent blog posts
 
+- [cmu15445 查询优化-下 ](https://nobelium.vercel.app/query-optimizer-2) (1 day ago)
+- [cmu15445 查询优化- 上 ](https://nobelium.vercel.app/query-optimizer-1) (1 day ago)
 - [两条道路：查询编译和向量化](https://nobelium.vercel.app/TwoPathsQueryCompilationandVectorization) (4 days ago)
 - [sqlrs 分析使用 Arrow 类型](https://nobelium.vercel.app/sqlrs-analysis-using-Arrow-type) (5 days ago)
 - [SQL: AST到Plan 简单样例](https://nobelium.vercel.app/sql-to-plan) (6 days ago)
-- [重新认识 SI 隔离级别](https://nobelium.vercel.app/Understanding_SI_Isolation_Levels) (6 days ago)
-- [DuckDB 综述](https://nobelium.vercel.app/DuckDB_Overview) (1 week ago)
 
 #### ⭐ Recent stars
 
