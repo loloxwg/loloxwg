@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(schema): add unit tests for schema by cpp.](https://github.com/milvus-io/milvus-storage/pull/22) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
 - [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
 - [feat(type): use arrow type to support vectorization](https://github.com/KipData/KipSQL/pull/22) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
@@ -33,7 +34,6 @@
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
-- [feat(bench): bench path named by storage kernel](https://github.com/KipData/KipDB/pull/34) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 
 #### 📜 My recent blog posts
 
