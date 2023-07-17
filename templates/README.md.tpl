@@ -25,7 +25,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://loloxwg.top/feed" 5}}
+{{range rss "https://www.loloxwg.top/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
