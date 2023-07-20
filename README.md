@@ -51,7 +51,7 @@
 
 #### 👯 Check out my recent followers
 
+- [JigaoLuo](https://github.com/JigaoLuo)
 - [WangTingZheng](https://github.com/WangTingZheng)
 - [ShiKaiWi](https://github.com/ShiKaiWi)
-- [sacloudy](https://github.com/sacloudy)
 
