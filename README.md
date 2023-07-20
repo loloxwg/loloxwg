@@ -37,11 +37,11 @@
 
 #### 📜 My recent blog posts
 
+- [cmu15445 并发控制理论实现-两阶段锁](https://www.loloxwg.top/concurrency-control-2pl) (1 day ago)
 - [cmu 15445 并发控制理论 -ACID](https://www.loloxwg.top/cmu15445-acid) (2 days ago)
 - [如何使用 clion 调试 stonedb ](https://www.loloxwg.top/debug-stonedb) (3 days ago)
 - [cmu15445 查询执行- 下 并行](https://www.loloxwg.top/query-execution-2) (4 days ago)
 - [cmu15445 查询优化- 下 ](https://www.loloxwg.top/query-optimizer-2) (4 days ago)
-- [cmu15445 查询优化- 上 ](https://www.loloxwg.top/query-optimizer-1) (4 days ago)
 
 #### ⭐ Recent stars
 
