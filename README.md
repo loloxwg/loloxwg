@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(logger): add spdlog log library](https://github.com/milvus-io/milvus-storage/pull/23) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(schema): add unit tests for schema by cpp.](https://github.com/milvus-io/milvus-storage/pull/22) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (3 days ago)
 - [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
 - [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
@@ -33,7 +34,6 @@
 - [feat(version): impl Trait Display for Version](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
 - [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
-- [feat(ci): add clang format &amp;&amp; clang tidy (#11)](https://github.com/milvus-io/milvus-storage/pull/14) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
