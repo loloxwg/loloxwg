@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(space): refactor and improve Storage Space functionality](https://github.com/milvus-io/milvus-storage/pull/24) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(logger): add spdlog log library](https://github.com/milvus-io/milvus-storage/pull/23) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
 - [feat(schema): add unit tests for schema by cpp.](https://github.com/milvus-io/milvus-storage/pull/22) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 days ago)
 - [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
@@ -33,7 +34,6 @@
 - [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 - [feat(version): impl Trait Display for Version](https://github.com/KipData/KipDB/pull/36) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [feat(storge): support create and select display plan](https://github.com/KipData/KipSQL/pull/19) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
-- [feat(flow): execute the sql process to arrive at the logic plan ](https://github.com/KipData/KipSQL/pull/17) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
