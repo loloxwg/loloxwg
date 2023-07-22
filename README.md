@@ -45,9 +45,9 @@
 
 #### ⭐ Recent stars
 
+- [xiaoweiChen/Cpp_Concurrency_In_Action](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action) - :book: 作为对《C&#43;&#43; Concurrency in Action》英文版的中文翻译。 (today)
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (6 days ago)
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (1 week ago)
-- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook &#43; Awesome Rust！ (1 week ago)
 
 #### 👯 Check out my recent followers
 
