@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(execute): add create table PhysicalOperator](https://github.com/KipData/KipSQL/pull/27) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(log): add glog library and logging capabilities.](https://github.com/milvus-io/milvus-storage/pull/26) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 day ago)
 - [feat(space): refactor and improve Storage Space functionality](https://github.com/milvus-io/milvus-storage/pull/24) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 days ago)
@@ -33,7 +34,6 @@
 - [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(type): use arrow type to support vectorization](https://github.com/KipData/KipSQL/pull/22) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [fix(manifest): add unit tests for manifest by cpp.](https://github.com/milvus-io/milvus-storage/pull/19) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
-- [feat:(storage): add unit test for storage write parquet and manifest (#15)](https://github.com/milvus-io/milvus-storage/pull/17) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
