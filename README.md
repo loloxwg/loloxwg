@@ -51,7 +51,7 @@
 
 #### 👯 Check out my recent followers
 
+- [bit-dance](https://github.com/bit-dance)
 - [JigaoLuo](https://github.com/JigaoLuo)
 - [WangTingZheng](https://github.com/WangTingZheng)
-- [ShiKaiWi](https://github.com/ShiKaiWi)
 
