@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(space): add space open to load the manifest which the version assigned](https://github.com/milvus-io/milvus-storage/pull/32) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 days ago)
 - [feat(execute): add create table PhysicalOperator](https://github.com/KipData/KipSQL/pull/27) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
 - [feat(log): add glog library and logging capabilities.](https://github.com/milvus-io/milvus-storage/pull/26) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (3 days ago)
@@ -33,7 +34,6 @@
 - [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(type): use arrow type to support vectorization](https://github.com/KipData/KipSQL/pull/22) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
-- [fix(manifest): add unit tests for manifest by cpp.](https://github.com/milvus-io/milvus-storage/pull/19) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
