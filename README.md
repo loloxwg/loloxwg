@@ -45,9 +45,9 @@
 
 #### ⭐ Recent stars
 
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
+- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (today)
 - [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (3 days ago)
-- [xiaoweiChen/Cpp_Concurrency_In_Action](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action) - :book: 作为对《C&#43;&#43; Concurrency in Action》英文版的中文翻译。 (6 days ago)
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes. (1 week ago)
 
 #### 👯 Check out my recent followers
 
