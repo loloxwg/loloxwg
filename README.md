@@ -47,7 +47,7 @@
 
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (1 week ago)
-- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (1 week ago)
+- [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) - [WIP] A tiny relational database written in Rust. (1 week ago)
 
 #### 👯 Check out my recent followers
 
