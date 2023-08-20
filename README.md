@@ -51,7 +51,7 @@
 
 #### 👯 Check out my recent followers
 
+- [berylyvos](https://github.com/berylyvos)
 - [0vm](https://github.com/0vm)
 - [DeanYang121](https://github.com/DeanYang121)
-- [SYaoJun](https://github.com/SYaoJun)
 
