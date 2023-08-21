@@ -51,7 +51,7 @@
 
 #### 👯 Check out my recent followers
 
+- [hanxuanliang](https://github.com/hanxuanliang)
+- [drmingdrmer](https://github.com/drmingdrmer)
 - [berylyvos](https://github.com/berylyvos)
-- [0vm](https://github.com/0vm)
-- [DeanYang121](https://github.com/DeanYang121)
 
