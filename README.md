@@ -51,7 +51,7 @@
 
 #### 👯 Check out my recent followers
 
+- [fxsjy](https://github.com/fxsjy)
 - [XLPE](https://github.com/XLPE)
 - [hanxuanliang](https://github.com/hanxuanliang)
-- [drmingdrmer](https://github.com/drmingdrmer)
 
