@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(limit): support physical limit operator](https://github.com/KipData/KipSQL/pull/40) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 weeks ago)
 - [feat(space): add space open to load the manifest which the version assigned](https://github.com/milvus-io/milvus-storage/pull/32) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 weeks ago)
 - [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
@@ -33,7 +34,6 @@
 - [feat(logger): add spdlog log library](https://github.com/milvus-io/milvus-storage/pull/23) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(schema): add unit tests for schema by cpp.](https://github.com/milvus-io/milvus-storage/pull/22) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(doc): change README.md](https://github.com/KipData/KipSQL/pull/25) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
-- [dev to main](https://github.com/KipData/KipSQL/pull/23) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 
 #### 📜 My recent blog posts
 
