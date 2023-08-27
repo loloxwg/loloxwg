@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
+- [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
 - [feat(limit): support physical limit operator](https://github.com/KipData/KipSQL/pull/40) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 weeks ago)
 - [feat(space): add space open to load the manifest which the version assigned](https://github.com/milvus-io/milvus-storage/pull/32) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent stars
 
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (4 weeks ago)
-- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (4 weeks ago)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
+- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (1 month ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 month ago)
 
 #### 👯 Check out my recent followers
