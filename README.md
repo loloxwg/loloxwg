@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 days ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (4 weeks ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
+- [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat(limit): support physical limit operator](https://github.com/KipData/KipSQL/pull/40) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 weeks ago)
 - [feat(space): add space open to load the manifest which the version assigned](https://github.com/milvus-io/milvus-storage/pull/32) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
