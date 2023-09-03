@@ -45,9 +45,9 @@
 
 #### ⭐ Recent stars
 
+- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (today)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (1 month ago)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 month ago)
 
 #### 👯 Check out my recent followers
 
