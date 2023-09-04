@@ -45,9 +45,9 @@
 
 #### ⭐ Recent stars
 
+- [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database. (today)
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (1 day ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
-- [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file (1 month ago)
 
 #### 👯 Check out my recent followers
 
