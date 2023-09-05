@@ -50,7 +50,7 @@
 
 #### 👯 Check out my recent followers
 
-- [noemiecode](https://github.com/noemiecode)
 - [MadhavDev-prog](https://github.com/MadhavDev-prog)
 - [fxsjy](https://github.com/fxsjy)
+- [XLPE](https://github.com/XLPE)
 
