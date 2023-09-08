@@ -32,7 +32,6 @@
 - [feat(log): add glog library and logging capabilities.](https://github.com/milvus-io/milvus-storage/pull/26) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(space): refactor and improve Storage Space functionality](https://github.com/milvus-io/milvus-storage/pull/24) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(logger): add spdlog log library](https://github.com/milvus-io/milvus-storage/pull/23) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
-- [feat(schema): add unit tests for schema by cpp.](https://github.com/milvus-io/milvus-storage/pull/22) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 
 #### 📜 My recent blog posts
 
