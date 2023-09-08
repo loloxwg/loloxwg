@@ -44,8 +44,8 @@
 
 #### ⭐ Recent stars
 
-- [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database. (3 days ago)
-- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (4 days ago)
+- [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database. (4 days ago)
+- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (5 days ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
 
 #### 👯 Check out my recent followers
