@@ -43,9 +43,9 @@
 
 #### ⭐ Recent stars
 
+- [cmu-db/15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C&#43;&#43;. (today)
 - [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database. (5 days ago)
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (6 days ago)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 month ago)
 
 #### 👯 Check out my recent followers
 
