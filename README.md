@@ -31,7 +31,6 @@
 - [feat(log):add zap library and logging capabilities](https://github.com/milvus-io/milvus-storage/pull/29) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 - [feat(execute): add create table PhysicalOperator](https://github.com/KipData/KipSQL/pull/27) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 - [feat(log): add glog library and logging capabilities.](https://github.com/milvus-io/milvus-storage/pull/26) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
-- [feat(space): refactor and improve Storage Space functionality](https://github.com/milvus-io/milvus-storage/pull/24) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 month ago)
 
 #### 📜 My recent blog posts
 
