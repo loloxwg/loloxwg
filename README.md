@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (today)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 weeks ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 month ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (2 months ago)
 - [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (2 months ago)
@@ -48,7 +48,7 @@
 
 #### 👯 Check out my recent followers
 
+- [small-turtle-1](https://github.com/small-turtle-1)
 - [tang-hi](https://github.com/tang-hi)
 - [MadhavDev-prog](https://github.com/MadhavDev-prog)
-- [fxsjy](https://github.com/fxsjy)
 
