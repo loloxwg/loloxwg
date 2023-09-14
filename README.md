@@ -47,7 +47,7 @@
 
 #### 👯 Check out my recent followers
 
+- [small-turtle-1](https://github.com/small-turtle-1)
 - [tang-hi](https://github.com/tang-hi)
 - [MadhavDev-prog](https://github.com/MadhavDev-prog)
-- [fxsjy](https://github.com/fxsjy)
 
