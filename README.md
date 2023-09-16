@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Added length restriction in types](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
+- [feat: Refactor &#39;DataValue&#39; length check logic; add support for varchar computations](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [feat(read): basic reader](https://github.com/milvus-io/milvus-storage/pull/52) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 - [fix(main): Add condition to skip empty user input. import data before looping](https://github.com/KipData/KipSQL/pull/52) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 weeks ago)
 - [feat(limit): support physical limit operator](https://github.com/KipData/KipSQL/pull/40) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
