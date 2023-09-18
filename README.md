@@ -39,9 +39,9 @@
 
 #### ⭐ Recent stars
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (today)
 - [cmu-db/15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C&#43;&#43;. (1 week ago)
 - [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database. (2 weeks ago)
-- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
