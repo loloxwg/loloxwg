@@ -26,7 +26,6 @@
 
 - [feat: Add &#39;show tables&#39; functionality in SQL executor](https://github.com/KipData/KipSQL/pull/61) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat: Refactor &#39;DataValue&#39; length check logic; add support for varchar computations](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
-- [feat(read): basic reader](https://github.com/milvus-io/milvus-storage/pull/52) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
