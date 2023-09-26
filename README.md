@@ -38,9 +38,9 @@
 
 #### ⭐ Recent stars
 
+- [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (today)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - AI-native database (6 days ago)
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 week ago)
-- [cmu-db/15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C&#43;&#43;. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
