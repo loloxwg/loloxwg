@@ -38,9 +38,9 @@
 
 #### ⭐ Recent stars
 
+- [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (today)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (1 day ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - AI-native database (1 week ago)
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 week ago)
 
 #### 👯 Check out my recent followers
 
