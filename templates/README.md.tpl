@@ -24,18 +24,13 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://www.loloxwg.top/feed" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### ⭐ Recent stars
-{{range recentStars 3}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
 #### 👯 Check out my recent followers
-{{range followers 3}}
+{{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
