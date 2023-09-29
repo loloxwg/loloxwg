@@ -28,23 +28,19 @@
 - [feat: Add &#39;show tables&#39; functionality in SQL executor](https://github.com/KipData/KipSQL/pull/61) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat: Refactor &#39;DataValue&#39; length check logic; add support for varchar computations](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
-#### 📜 My recent blog posts
-
-- [cmu15445 并发控制理论实现-两阶段锁](https://www.loloxwg.top/concurrency-control-2pl) (2 months ago)
-- [cmu 15445 并发控制理论 -ACID](https://www.loloxwg.top/cmu15445-acid) (2 months ago)
-- [如何使用 clion 调试 stonedb ](https://www.loloxwg.top/debug-stonedb) (2 months ago)
-- [cmu15445 查询执行- 下 并行](https://www.loloxwg.top/query-execution-2) (2 months ago)
-- [cmu15445 查询优化- 下 ](https://www.loloxwg.top/query-optimizer-2) (2 months ago)
-
 #### ⭐ Recent stars
 
 - [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (2 days ago)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (3 days ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - AI-native database (1 week ago)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 week ago)
+- [cmu-db/15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C&#43;&#43;. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
 - [panDing19](https://github.com/panDing19)
 - [small-turtle-1](https://github.com/small-turtle-1)
 - [tang-hi](https://github.com/tang-hi)
+- [MadhavDev-prog](https://github.com/MadhavDev-prog)
+- [fxsjy](https://github.com/fxsjy)
 
