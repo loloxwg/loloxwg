@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [[Go] support concurrent writing, fix concurrent bug, add some unit test](https://github.com/milvus-io/milvus-storage/pull/68) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (today)
 - [feat(type): add support for Decimal type in database](https://github.com/KipData/KipSQL/pull/66) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 - [feat: Add &#39;show tables&#39; functionality in SQL executor](https://github.com/KipData/KipSQL/pull/61) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat: Refactor &#39;DataValue&#39; length check logic; add support for varchar computations](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
