@@ -39,9 +39,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Li0k](https://github.com/Li0k)
 - [panDing19](https://github.com/panDing19)
 - [small-turtle-1](https://github.com/small-turtle-1)
 - [tang-hi](https://github.com/tang-hi)
 - [MadhavDev-prog](https://github.com/MadhavDev-prog)
-- [fxsjy](https://github.com/fxsjy)
 
