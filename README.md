@@ -24,10 +24,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [[Go] support concurrent writing, fix concurrent bug, add some unit test](https://github.com/milvus-io/milvus-storage/pull/68) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (4 days ago)
 - [feat(type): add support for Decimal type in database](https://github.com/KipData/KipSQL/pull/66) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [feat: Add &#39;show tables&#39; functionality in SQL executor](https://github.com/KipData/KipSQL/pull/61) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
-- [feat: Refactor &#39;DataValue&#39; length check logic; add support for varchar computations](https://github.com/KipData/KipSQL/pull/60) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
 
 #### ⭐ Recent stars
 
