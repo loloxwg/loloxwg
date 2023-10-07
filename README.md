@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 days ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 weeks ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (2 months ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (2 months ago)
@@ -24,14 +24,14 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
-- [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
+- [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
+- [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
 - [[Go] support concurrent writing, fix concurrent bug, add some unit test](https://github.com/milvus-io/milvus-storage/pull/68) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
 - [feat(type): add support for Decimal type in database](https://github.com/KipData/KipSQL/pull/66) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (2 days ago)
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (3 days ago)
 - [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (1 week ago)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (1 week ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - AI-native database (2 weeks ago)
