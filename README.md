@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (today)
 - [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
 - [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (6 days ago)
 - [[Go] support concurrent writing, fix concurrent bug, add some unit test](https://github.com/milvus-io/milvus-storage/pull/68) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (1 week ago)
