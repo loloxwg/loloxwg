@@ -40,9 +40,9 @@
 
 #### 👯 Check out my recent followers
 
+- [ZipFast](https://github.com/ZipFast)
 - [Orakky](https://github.com/Orakky)
 - [Jasdent](https://github.com/Jasdent)
 - [Li0k](https://github.com/Li0k)
 - [panDing19](https://github.com/panDing19)
-- [small-turtle-1](https://github.com/small-turtle-1)
 
