@@ -31,11 +31,11 @@
 
 #### ⭐ Recent stars
 
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (today)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》- 完成翻译 (today)
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (1 week ago)
 - [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (2 weeks ago)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (2 weeks ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - AI-native database (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
