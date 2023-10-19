@@ -25,14 +25,14 @@
 #### 🔨 Latest Pull Requests I published
 
 - [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
-- [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
+- [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
 - [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 weeks ago)
 - [[Go] support concurrent writing, fix concurrent bug, add some unit test](https://github.com/milvus-io/milvus-storage/pull/68) on [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (5 days ago)
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》- 完成翻译 (5 days ago)
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (6 days ago)
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》- 完成翻译 (6 days ago)
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (2 weeks ago)
 - [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (3 weeks ago)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (3 weeks ago)
