@@ -39,9 +39,9 @@
 
 #### 👯 Check out my recent followers
 
+- [hzy9981](https://github.com/hzy9981)
 - [ZipFast](https://github.com/ZipFast)
 - [Orakky](https://github.com/Orakky)
 - [Jasdent](https://github.com/Jasdent)
 - [Li0k](https://github.com/Li0k)
-- [panDing19](https://github.com/panDing19)
 
