@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 day ago)
+- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (2 days ago)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (2 weeks ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (3 months ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (3 months ago)
@@ -33,8 +33,8 @@
 
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (1 week ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》- 完成翻译 (1 week ago)
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (2 weeks ago)
-- [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (3 weeks ago)
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (3 weeks ago)
+- [risinglightdb/sqllogictest-rs](https://github.com/risinglightdb/sqllogictest-rs) - Sqllogictest parser and runner in Rust. (4 weeks ago)
 - [tang-hi/vsHero](https://github.com/tang-hi/vsHero) - Vector Search From Zero to Hero (4 weeks ago)
 
 #### 👯 Check out my recent followers
