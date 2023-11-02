@@ -30,11 +30,11 @@
 
 #### ⭐ Recent stars
 
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (today)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 day ago)
 - [ProgrammingRust/fingertips](https://github.com/ProgrammingRust/fingertips) - Rust code to build an inverted index for a corpus of text files. (3 days ago)
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (3 days ago)
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (2 weeks ago)
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》- 完成翻译 (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
