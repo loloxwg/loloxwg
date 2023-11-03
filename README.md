@@ -20,7 +20,7 @@
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (3 weeks ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (3 months ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (3 months ago)
-- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (3 months ago)
+- [loloxwg/distributed-txn-loloxwg](https://github.com/loloxwg/distributed-txn-loloxwg) - distributed-txn-loloxwg created by GitHub Classroom (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -30,11 +30,11 @@
 
 #### ⭐ Recent stars
 
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (today)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 day ago)
-- [ProgrammingRust/fingertips](https://github.com/ProgrammingRust/fingertips) - Rust code to build an inverted index for a corpus of text files. (3 days ago)
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (3 days ago)
-- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (2 weeks ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 day ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (2 days ago)
+- [ProgrammingRust/fingertips](https://github.com/ProgrammingRust/fingertips) - Rust code to build an inverted index for a corpus of text files. (4 days ago)
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (4 days ago)
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
