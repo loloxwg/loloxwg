@@ -30,11 +30,11 @@
 
 #### ⭐ Recent stars
 
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (today)
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. (today)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (2 days ago)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (3 days ago)
 - [ProgrammingRust/fingertips](https://github.com/ProgrammingRust/fingertips) - Rust code to build an inverted index for a corpus of text files. (5 days ago)
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (5 days ago)
 
 #### 👯 Check out my recent followers
 
