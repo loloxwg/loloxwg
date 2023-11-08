@@ -24,16 +24,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 weeks ago)
+- [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 - [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 - [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (3 days ago)
-- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. (3 days ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (5 days ago)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (6 days ago)
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (4 days ago)
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. (4 days ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (6 days ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 week ago)
 - [ProgrammingRust/fingertips](https://github.com/ProgrammingRust/fingertips) - Rust code to build an inverted index for a corpus of text files. (1 week ago)
 
 #### 👯 Check out my recent followers
