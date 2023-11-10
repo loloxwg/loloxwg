@@ -26,7 +26,6 @@
 
 - [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 - [fix: add text_files and deleted_text_files to ColumnCatalog](https://github.com/KipData/KipSQL/pull/79) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
-- [feat(copy): add support for file copying operations in database](https://github.com/KipData/KipSQL/pull/75) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 
 #### ⭐ Recent stars
 
