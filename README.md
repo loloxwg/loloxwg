@@ -24,13 +24,13 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(optimizer): Implement LIKE expression rule for query optimization](https://github.com/KipData/KipSQL/pull/96) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
+- [feat(optimizer): Implement LIKE expression rule for query optimization](https://github.com/KipData/KipSQL/pull/96) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
 - [add: Apache License 2.0 to the project](https://github.com/KipData/KipSQL/pull/85) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 days ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 days ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (4 days ago)
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (1 week ago)
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. (1 week ago)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 week ago)
