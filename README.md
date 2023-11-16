@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [JackTan25](https://github.com/JackTan25)
 - [a11enyan97](https://github.com/a11enyan97)
 - [hzy9981](https://github.com/hzy9981)
 - [ZipFast](https://github.com/ZipFast)
 - [Orakky](https://github.com/Orakky)
-- [Jasdent](https://github.com/Jasdent)
 
