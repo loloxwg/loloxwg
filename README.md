@@ -19,8 +19,8 @@
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (3 days ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 weeks ago)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 month ago)
+- [loloxwg/sigmod-2018](https://github.com/loloxwg/sigmod-2018) (3 months ago)
 - [loloxwg/bustub-private](https://github.com/loloxwg/bustub-private) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (4 months ago)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
