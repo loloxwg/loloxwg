@@ -24,7 +24,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(optimizer): Implement LIKE expression rule for query optimization](https://github.com/KipData/KipSQL/pull/96) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 weeks ago)
 
 #### ⭐ Recent stars
 
