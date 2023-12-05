@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 weeks ago)
+- [loloxwg/brpc](https://github.com/loloxwg/brpc) (3 weeks ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (1 month ago)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - Full Rust lightweight embedded SQL database (1 month ago)
 - [loloxwg/sigmod-2018](https://github.com/loloxwg/sigmod-2018) (3 months ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent stars
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (2 weeks ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (3 weeks ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 weeks ago)
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 weeks ago)
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (1 month ago)
