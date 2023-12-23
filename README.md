@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (today)
 - [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
 - [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 days ago)
 - [Change benchmark import data and create index for gist](https://github.com/infiniflow/infinity/pull/321) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 days ago)
@@ -33,7 +34,6 @@
 - [Python benchmark ](https://github.com/infiniflow/infinity/pull/283) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Update Thrift compiler version and refine search and import functions](https://github.com/infiniflow/infinity/pull/276) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Refactored embedding type search](https://github.com/infiniflow/infinity/pull/256) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
-- [Support insert embedding data and some test for it](https://github.com/infiniflow/infinity/pull/247) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 
 #### ⭐ Recent stars
 
