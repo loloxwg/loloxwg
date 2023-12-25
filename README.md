@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (today)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (4 days ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (4 days ago)
 - [vincent-herlemont/native_db](https://github.com/vincent-herlemont/native_db) - Drop-in embedded database (5 days ago)
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (1 month ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 
 #### 👯 Check out my recent followers
 
