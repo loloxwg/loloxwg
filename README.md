@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (3 days ago)
 - [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
 - [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [Add new test case in benchmark query tests, server-side timer](https://github.com/infiniflow/infinity/pull/291) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Python benchmark ](https://github.com/infiniflow/infinity/pull/283) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Update Thrift compiler version and refine search and import functions](https://github.com/infiniflow/infinity/pull/276) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
-- [Refactored embedding type search](https://github.com/infiniflow/infinity/pull/256) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 
 #### ⭐ Recent stars
 
