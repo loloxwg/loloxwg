@@ -16,8 +16,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (today)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (2 days ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (6 days ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (1 month ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (2 months ago)
 - [loloxwg/sigmod-2018](https://github.com/loloxwg/sigmod-2018) (4 months ago)
