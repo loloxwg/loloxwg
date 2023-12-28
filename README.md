@@ -40,7 +40,7 @@
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (3 days ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 week ago)
-- [vincent-herlemont/native_db](https://github.com/vincent-herlemont/native_db) - Drop-in embedded database (1 week ago)
+- [vincent-herlemont/native_db](https://github.com/vincent-herlemont/native_db) - Drop-in embedded database in Rust (1 week ago)
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (1 month ago)
 
 #### 👯 Check out my recent followers
