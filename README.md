@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (6 days ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (1 week ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (1 month ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (2 months ago)
@@ -24,16 +24,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [For avg functions replacing it with (sum / count)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
-- [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
+- [For avg functions replacing it with (sum / count)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 days ago)
+- [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (1 week ago)
 - [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
-- [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
+- [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Change benchmark import data and create index for gist](https://github.com/infiniflow/infinity/pull/321) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Change build result return type](https://github.com/infiniflow/infinity/pull/311) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Add row id for python sdk](https://github.com/infiniflow/infinity/pull/300) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Add new test case in benchmark query tests, server-side timer](https://github.com/infiniflow/infinity/pull/291) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
-- [Python benchmark ](https://github.com/infiniflow/infinity/pull/283) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
+- [Python benchmark ](https://github.com/infiniflow/infinity/pull/283) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
