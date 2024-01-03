@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [For avg functions replacing it with (sum / count)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 days ago)
+- [For avg functions replacing it with (sum / count), count(*)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 days ago)
 - [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (1 week ago)
 - [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (today)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (1 week ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 week ago)
 - [vincent-herlemont/native_db](https://github.com/vincent-herlemont/native_db) - Drop-in embedded database in Rust (2 weeks ago)
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (1 month ago)
 
 #### 👯 Check out my recent followers
 
