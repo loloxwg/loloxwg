@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [For avg functions replacing it with (sum / count); count(*)](https://github.com/infiniflow/infinity/pull/415) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [For avg functions replacing it with (sum / count), count(*)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
 - [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (1 week ago)
@@ -33,7 +34,6 @@
 - [Change build result return type](https://github.com/infiniflow/infinity/pull/311) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Add row id for python sdk](https://github.com/infiniflow/infinity/pull/300) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Add new test case in benchmark query tests, server-side timer](https://github.com/infiniflow/infinity/pull/291) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [Python benchmark ](https://github.com/infiniflow/infinity/pull/283) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
