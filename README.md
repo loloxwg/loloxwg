@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [writinwaters](https://github.com/writinwaters)
 - [yangzq50](https://github.com/yangzq50)
 - [Dousir9](https://github.com/Dousir9)
 - [JackTan25](https://github.com/JackTan25)
 - [a11enyan97](https://github.com/a11enyan97)
-- [hzy9981](https://github.com/hzy9981)
 
