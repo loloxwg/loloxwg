@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove unused benchmark and test scripts; Update SDK version](https://github.com/infiniflow/infinity/pull/424) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [For avg functions replacing it with (sum / count); count(*)](https://github.com/infiniflow/infinity/pull/415) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [For avg functions replacing it with (sum / count), count(*)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Change benchmark import data and create index for gist](https://github.com/infiniflow/infinity/pull/321) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Change build result return type](https://github.com/infiniflow/infinity/pull/311) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [Add row id for python sdk](https://github.com/infiniflow/infinity/pull/300) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
