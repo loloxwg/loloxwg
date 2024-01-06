@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (today)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (3 days ago)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (1 week ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (2 weeks ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (2 weeks ago)
-- [vincent-herlemont/native_db](https://github.com/vincent-herlemont/native_db) - Drop-in embedded database in Rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
