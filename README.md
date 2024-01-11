@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Remove unused benchmark and test scripts; Update SDK version](https://github.com/infiniflow/infinity/pull/424) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
 - [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (2 weeks ago)
 - [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Fix benchmarks bugs ](https://github.com/infiniflow/infinity/pull/324) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [Change benchmark import data and create index for gist](https://github.com/infiniflow/infinity/pull/321) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
