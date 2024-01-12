@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [joheediba](https://github.com/joheediba)
 - [owenlamont](https://github.com/owenlamont)
 - [Tiasef0](https://github.com/Tiasef0)
 - [nasidofinai](https://github.com/nasidofinai)
 - [writinwaters](https://github.com/writinwaters)
-- [yangzq50](https://github.com/yangzq50)
 
