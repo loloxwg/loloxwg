@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (today)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (6 days ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (1 week ago)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (3 weeks ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
