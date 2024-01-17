@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Implement multiple physical operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [For avg functions replacing it with (sum / count), count(*)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Feat: Add args path for main](https://github.com/KipData/kipsql/pull/115) on [KipData/kipsql](https://github.com/KipData/kipsql) (3 weeks ago)
-- [Update py sdk version](https://github.com/infiniflow/infinity/pull/336) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
 
 #### ⭐ Recent stars
 
