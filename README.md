@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Implement multiple physical operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
+- [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
 - [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
