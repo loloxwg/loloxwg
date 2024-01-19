@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (today)
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (3 days ago)
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (3 days ago)
 - [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (4 days ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (1 week ago)
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
 
 #### 👯 Check out my recent followers
 
