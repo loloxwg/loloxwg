@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 day ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (2 days ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (2 weeks ago)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Full Rust lightweight embedded SQL database (3 weeks ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 months ago)
@@ -24,9 +24,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
-- [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
-- [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
+- [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
+- [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
+- [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 days ago)
 - [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Remove unused benchmark and test scripts; Update SDK version](https://github.com/infiniflow/infinity/pull/424) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (today)
-- [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (3 days ago)
-- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (3 days ago)
-- [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (4 days ago)
+- [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (1 day ago)
+- [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (4 days ago)
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (4 days ago)
+- [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (5 days ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (1 week ago)
 
 #### 👯 Check out my recent followers
