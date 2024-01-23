@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (today)
 - [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (4 days ago)
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (1 week ago)
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (1 week ago)
 - [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (1 week ago)
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
