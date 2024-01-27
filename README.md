@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (4 days ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (5 days ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 weeks ago)
 - [KipData/kipsql](https://github.com/KipData/kipsql) - Fast Insert lightweight embedded SQL database (1 month ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 months ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (3 days ago)
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (4 days ago)
 - [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (1 week ago)
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (1 week ago)
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (1 week ago)
