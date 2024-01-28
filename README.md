@@ -18,7 +18,7 @@
 
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (6 days ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 weeks ago)
-- [KipData/kipsql](https://github.com/KipData/kipsql) - Fast Insert lightweight embedded SQL database (1 month ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Fast Insert lightweight embedded SQL database (1 month ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 months ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 months ago)
 
