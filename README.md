@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [For avg functions replacing it with (sum / count); count(*)](https://github.com/infiniflow/infinity/pull/415) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [For avg functions replacing it with (sum / count), count(*)](https://github.com/infiniflow/infinity/pull/399) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
-- [Finish basic simple aggregate count, sum, min, max, avg one block](https://github.com/infiniflow/infinity/pull/381) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 
 #### ⭐ Recent stars
 
