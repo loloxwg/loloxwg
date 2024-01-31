@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
@@ -33,7 +34,6 @@
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Remove unused benchmark and test scripts; Update SDK version](https://github.com/infiniflow/infinity/pull/424) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [For avg functions replacing it with (sum / count); count(*)](https://github.com/infiniflow/infinity/pull/415) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [chrysanthemum-boy](https://github.com/chrysanthemum-boy)
 - [arjunsk](https://github.com/arjunsk)
 - [joheediba](https://github.com/joheediba)
 - [owenlamont](https://github.com/owenlamont)
 - [Tiasef0](https://github.com/Tiasef0)
-- [nasidofinai](https://github.com/nasidofinai)
 
