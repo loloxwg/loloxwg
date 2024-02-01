@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (today)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 day ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 weeks ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Fast Insert lightweight embedded SQL database (1 month ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 months ago)
@@ -24,16 +24,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
-- [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
-- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
+- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
+- [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
+- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 week ago)
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
-- [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
+- [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 - [Remove unused benchmark and test scripts; Update SDK version](https://github.com/infiniflow/infinity/pull/424) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
+- [Refactor sqllogictest.py to use subprocess module](https://github.com/infiniflow/infinity/pull/422) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
 
 #### ⭐ Recent stars
 
