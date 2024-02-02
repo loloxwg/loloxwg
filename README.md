@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
@@ -33,7 +34,6 @@
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
-- [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
