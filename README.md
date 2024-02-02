@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (today)
 - [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
 - [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
@@ -33,7 +34,6 @@
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Fix variable usage in AppendValue call in KnnScan](https://github.com/infiniflow/infinity/pull/446) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Add block size constraint in insert test](https://github.com/infiniflow/infinity/pull/437) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
-- [Refactor transaction handling and update index management](https://github.com/infiniflow/infinity/pull/435) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 weeks ago)
 
 #### ⭐ Recent stars
 
