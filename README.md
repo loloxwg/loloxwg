@@ -16,22 +16,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (today)
-- [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (4 weeks ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 day ago)
+- [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (1 month ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Fast Insert lightweight embedded SQL database (1 month ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (2 months ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
-- [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
-- [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 day ago)
-- [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
-- [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
-- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
-- [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 days ago)
-- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 days ago)
+- [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
+- [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
+- [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 days ago)
+- [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
+- [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 days ago)
+- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 days ago)
+- [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 days ago)
+- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 days ago)
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 weeks ago)
 
