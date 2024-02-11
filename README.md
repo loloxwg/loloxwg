@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (today)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (2 weeks ago)
 - [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (3 weeks ago)
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (3 weeks ago)
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB (3 weeks ago)
-- [egraphs-good/eggcc](https://github.com/egraphs-good/eggcc) (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
