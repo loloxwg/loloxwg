@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (2 weeks ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (1 month ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Fast Insert lightweight embedded SQL database (1 month ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (3 months ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (5 days ago)
+- [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (6 days ago)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (3 weeks ago)
 - [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (4 weeks ago)
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB&#39;s BusTub system) (1 month ago)
