@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Zinoujoker](https://github.com/Zinoujoker)
 - [KevinZeng08](https://github.com/KevinZeng08)
 - [chrysanthemum-boy](https://github.com/chrysanthemum-boy)
 - [arjunsk](https://github.com/arjunsk)
 - [joheediba](https://github.com/joheediba)
-- [owenlamont](https://github.com/owenlamont)
 
