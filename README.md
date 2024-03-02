@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (3 weeks ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (4 weeks ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (1 month ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Fast Insert lightweight embedded SQL database (2 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (3 months ago)
@@ -27,8 +27,8 @@
 - [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
 - [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
 - [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
-- [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
-- [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (4 weeks ago)
+- [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
+- [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (today)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (4 days ago)
+- [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (1 day ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 days ago)
 - [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (2 weeks ago)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (1 month ago)
 - [drmingdrmer/one_file_raft](https://github.com/drmingdrmer/one_file_raft) (1 month ago)
