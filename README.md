@@ -18,7 +18,7 @@
 
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (1 month ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (2 months ago)
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - Prue rust embedded SQL DBMS (2 months ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (3 months ago)
 - [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (4 months ago)
 
