@@ -33,7 +33,7 @@
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
-- [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
+- [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 
 #### ⭐ Recent stars
 
