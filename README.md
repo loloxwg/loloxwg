@@ -32,7 +32,7 @@
 - [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
-- [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (1 month ago)
+- [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 - [Implement multiple catalog delta operations recording for catalog](https://github.com/infiniflow/infinity/pull/450) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 
 #### ⭐ Recent stars
@@ -41,7 +41,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 weeks ago)
 - [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (1 month ago)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (1 month ago)
-- [drmingdrmer/one-file-raft](https://github.com/drmingdrmer/one-file-raft) (1 month ago)
+- [drmingdrmer/one-file-raft](https://github.com/drmingdrmer/one-file-raft) (2 months ago)
 
 #### 👯 Check out my recent followers
 
