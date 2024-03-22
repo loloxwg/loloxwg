@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (1 day ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (1 month ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (2 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (4 months ago)
-- [milvus-io/milvus-storage](https://github.com/milvus-io/milvus-storage) - Milvus file storage format repo (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
