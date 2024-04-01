@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
-- [Kos-M](https://github.com/Kos-M)
 - [hihutot](https://github.com/hihutot)
 - [lxr599](https://github.com/lxr599)
 - [tianjj-zju](https://github.com/tianjj-zju)
 - [Zinoujoker](https://github.com/Zinoujoker)
+- [KevinZeng08](https://github.com/KevinZeng08)
 
