@@ -20,7 +20,7 @@
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (2 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 months ago)
-- [loloxwg/brpc](https://github.com/loloxwg/brpc) (4 months ago)
+- [loloxwg/brpc](https://github.com/loloxwg/brpc) (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
