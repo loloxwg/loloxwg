@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (3 weeks ago)
+- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (today)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (2 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 months ago)
@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (today)
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (3 weeks ago)
 - [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 - [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
@@ -33,7 +34,6 @@
 - [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
-- [Add merge local catalog delta ops to global catalog delta entry method](https://github.com/infiniflow/infinity/pull/455) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 months ago)
 
 #### ⭐ Recent stars
 
