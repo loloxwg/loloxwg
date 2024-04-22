@@ -19,7 +19,7 @@
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (1 week ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (2 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 months ago)
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 months ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (4 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -41,7 +41,7 @@
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (2 months ago)
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (2 months ago)
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (3 months ago)
 
 #### 👯 Check out my recent followers
 
