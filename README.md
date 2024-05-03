@@ -16,15 +16,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (2 weeks ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (2 months ago)
+- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (3 weeks ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (3 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (3 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (4 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (2 weeks ago)
+- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (3 weeks ago)
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (1 month ago)
 - [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 months ago)
 - [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (3 months ago)
