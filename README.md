@@ -18,7 +18,7 @@
 
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (1 month ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search  (4 months ago)
-- [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (4 months ago)
+- [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (5 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (5 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (6 months ago)
 
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 month ago)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (2 months ago)
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (3 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 months ago)
 - [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (3 months ago)
