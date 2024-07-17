@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
-- [NobleMajo](https://github.com/NobleMajo)
 - [nzb15555196162](https://github.com/nzb15555196162)
 - [hihutot](https://github.com/hihutot)
 - [lxr599](https://github.com/lxr599)
 - [tianjj-zju](https://github.com/tianjj-zju)
+- [Zinoujoker](https://github.com/Zinoujoker)
 
