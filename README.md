@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (3 months ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor, and full-text (5 months ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text (5 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (5 months ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (7 months ago)
 - [loloxwg/brpc](https://github.com/loloxwg/brpc) (8 months ago)
