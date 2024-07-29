@@ -31,14 +31,14 @@
 - [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 months ago)
 - [Refactor checkpoint handling, optimize commit timestamps](https://github.com/infiniflow/infinity/pull/525) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 months ago)
 - [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 months ago)
-- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (5 months ago)
+- [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 - [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 
 #### ⭐ Recent stars
 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (3 months ago)
-- [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (4 months ago)
+- [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (5 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 months ago)
 - [mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes](https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes) - In this repository, I will publish my notes for GaTech&#39;s Advanced Operating Systems course  (CS6210). (5 months ago)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts (6 months ago)
