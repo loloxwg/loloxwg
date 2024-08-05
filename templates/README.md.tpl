@@ -6,7 +6,7 @@
 
 💻 Interested in olap/oltp database, distributed storage.
 
-🖋 Blog：[loloxwg.top](https://loloxwg.top)
+🖋 Blog：[nobelium-loloxwg.vercel.app](https://nobelium-loloxwg.vercel.app/)
 
 <!--💡 Zhihu：[loloxwg](https://www.zhihu.com/people/loloxwg) -->
 
