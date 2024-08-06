@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (today)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded KV database in Rust. (1 day ago)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (4 months ago)
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (5 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 months ago)
