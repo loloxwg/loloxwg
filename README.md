@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (5 days ago)
-- [zz-jason/leanstore](https://github.com/zz-jason/leanstore) - LeanStore is a larger-than-memory database, optimized for NVMe SSD and multi-core CPU, achieves performance close to in-memory systems without having to keep all data in memory. (5 days ago)
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent KV database in Rust. (6 days ago)
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (6 days ago)
+- [zz-jason/leanstore](https://github.com/zz-jason/leanstore) - LeanStore is a larger-than-memory database, optimized for NVMe SSD and multi-core CPU, achieves performance close to in-memory systems without having to keep all data in memory. (6 days ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - An embedded persistent KV database in Rust. (1 week ago)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (4 months ago)
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs &#43; datalog! (5 months ago)
 
