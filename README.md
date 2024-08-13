@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (today)
 - [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (4 months ago)
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (4 months ago)
 - [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
@@ -33,7 +34,6 @@
 - [Update handling of commit timestamps](https://github.com/infiniflow/infinity/pull/514) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 - [Limit the types of logical nodes that can be optimized.](https://github.com/infiniflow/infinity/pull/507) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 - [Add unit test create table using invalid column name.](https://github.com/infiniflow/infinity/pull/493) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
-- [Refactor replay catalog process, using catalog delta entry, modify flush method](https://github.com/infiniflow/infinity/pull/487) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (6 months ago)
 
 #### ⭐ Recent stars
 
