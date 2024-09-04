@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (today)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data. (1 week ago)
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (4 weeks ago)
 - [zz-jason/leanstore](https://github.com/zz-jason/leanstore) - LeanStore is a larger-than-memory database, optimized for NVMe SSD and multi-core CPU, achieves performance close to in-memory systems without having to keep all data in memory. (4 weeks ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 month ago)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (5 months ago)
 
 #### 👯 Check out my recent followers
 
