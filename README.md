@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios (today)
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs (1 day ago)
 - [mcobject/extremedb-rs](https://github.com/mcobject/extremedb-rs) - Rust bindings for eXtremeDB (1 day ago)
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (1 day ago)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data. (1 week ago)
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (1 month ago)
 
 #### 👯 Check out my recent followers
 
