@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (5 days ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (6 days ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (4 months ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text (7 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (7 months ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs (today)
-- [mcobject/extremedb-rs](https://github.com/mcobject/extremedb-rs) - Rust bindings for eXtremeDB (today)
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (today)
+- [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs (1 day ago)
+- [mcobject/extremedb-rs](https://github.com/mcobject/extremedb-rs) - Rust bindings for eXtremeDB (1 day ago)
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (1 day ago)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data. (1 week ago)
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (4 weeks ago)
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (1 month ago)
 
 #### 👯 Check out my recent followers
 
