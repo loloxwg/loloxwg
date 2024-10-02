@@ -38,7 +38,7 @@
 #### ⭐ Recent stars
 
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (4 days ago)
-- [datafusion-contrib/datafusion-functions-extra](https://github.com/datafusion-contrib/datafusion-functions-extra) - Various additional function packages for Apache DataFusion (1 week ago)
+- [datafusion-contrib/datafusion-functions-extra](https://github.com/datafusion-contrib/datafusion-functions-extra) - Various additional function packages for Apache DataFusion (unofficial) (1 week ago)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios (3 weeks ago)
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs (4 weeks ago)
 - [mcobject/extremedb-rs](https://github.com/mcobject/extremedb-rs) - Rust bindings for eXtremeDB (4 weeks ago)
