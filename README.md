@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (today)
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (6 days ago)
 - [datafusion-contrib/datafusion-functions-extra](https://github.com/datafusion-contrib/datafusion-functions-extra) - Various additional function packages for Apache DataFusion (unofficial) (1 week ago)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios (4 weeks ago)
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs (1 month ago)
-- [mcobject/extremedb-rs](https://github.com/mcobject/extremedb-rs) - Rust bindings for eXtremeDB (1 month ago)
 
 #### 👯 Check out my recent followers
 
