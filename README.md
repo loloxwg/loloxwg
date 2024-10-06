@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 week ago)
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 weeks ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 weeks ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (5 months ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text (8 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (8 months ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (1 day ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (2 days ago)
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (1 week ago)
 - [datafusion-contrib/datafusion-functions-extra](https://github.com/datafusion-contrib/datafusion-functions-extra) - Various additional function packages for Apache DataFusion (unofficial) (1 week ago)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios (1 month ago)
