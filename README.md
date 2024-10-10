@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (today)
-- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (5 days ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (1 day ago)
+- [datafusion-contrib/datafusion-orc](https://github.com/datafusion-contrib/datafusion-orc) - Implementation of Apache ORC file format use Apache Arrow in-memory format (6 days ago)
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (1 week ago)
 - [datafusion-contrib/datafusion-functions-extra](https://github.com/datafusion-contrib/datafusion-functions-extra) - Various additional function packages for Apache DataFusion (unofficial) (2 weeks ago)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios (1 month ago)
