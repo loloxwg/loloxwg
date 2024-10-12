@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (today)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 weeks ago)
 - [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 weeks ago)
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (4 weeks ago)
@@ -33,7 +34,6 @@
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (6 months ago)
 - [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (8 months ago)
 - [Add ShowVariable functionality to infinity thrift](https://github.com/infiniflow/infinity/pull/536) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (8 months ago)
-- [Add &#39;Explain&#39; method to InfinityService in Thrift RPC](https://github.com/infiniflow/infinity/pull/532) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (8 months ago)
 
 #### ⭐ Recent stars
 
