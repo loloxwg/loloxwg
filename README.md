@@ -39,7 +39,7 @@
 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (today)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 day ago)
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - &#34;The LLVM of columnar file formats&#34;. A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire. (1 day ago)
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire. (1 day ago)
 - [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) - Patched version of dbgen (4 days ago)
 - [tonbo-io/fusio](https://github.com/tonbo-io/fusio) - Fusio provides file operations on multiple storages across various async runtimes. (5 days ago)
 
