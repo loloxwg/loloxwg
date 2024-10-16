@@ -24,8 +24,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (today)
-- [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (1 day ago)
+- [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 weeks ago)
 - [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 weeks ago)
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 month ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (today)
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - &#34;The LLVM of columnar file formats&#34;. A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire. (today)
-- [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) - Patched version of dbgen (3 days ago)
-- [tonbo-io/fusio](https://github.com/tonbo-io/fusio) - Fusio provides file operations on multiple storages across various async runtimes. (4 days ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (6 days ago)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (today)
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 day ago)
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - &#34;The LLVM of columnar file formats&#34;. A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire. (1 day ago)
+- [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) - Patched version of dbgen (4 days ago)
+- [tonbo-io/fusio](https://github.com/tonbo-io/fusio) - Fusio provides file operations on multiple storages across various async runtimes. (5 days ago)
 
 #### 👯 Check out my recent followers
 
