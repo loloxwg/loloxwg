@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (today)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (2 days ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (3 days ago)
 - [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format (3 days ago)
 - [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) - Patched version of dbgen (6 days ago)
-- [tonbo-io/fusio](https://github.com/tonbo-io/fusio) - Fusio provides file operations on multiple storages across various async runtimes. (1 week ago)
 
 #### 👯 Check out my recent followers
 
