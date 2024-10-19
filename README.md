@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (today)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 day ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (3 days ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (4 days ago)
 - [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format (4 days ago)
-- [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) - Patched version of dbgen (1 week ago)
 
 #### 👯 Check out my recent followers
 
