@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (6 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (3 weeks ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (1 month ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (6 months ago)
@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (2 days ago)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (3 days ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (4 days ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (6 days ago)
+- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (3 days ago)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (4 days ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (5 days ago)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (1 week ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 week ago)
 
 #### 👯 Check out my recent followers
