@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (3 days ago)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (4 days ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (5 days ago)
+- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (4 days ago)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (5 days ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (6 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (1 week ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 week ago)
 
