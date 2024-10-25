@@ -27,7 +27,7 @@
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (1 week ago)
 - [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 weeks ago)
-- [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 weeks ago)
+- [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (4 weeks ago)
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 month ago)
 - [feat: add flush compaction task with oneshot notification](https://github.com/tonbo-io/tonbo/pull/114) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (1 month ago)
 - [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (4 days ago)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (5 days ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (6 days ago)
+- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (5 days ago)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (6 days ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (1 week ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 week ago)
 
