@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (today)
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (1 week ago)
 - [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (4 weeks ago)
@@ -33,7 +34,6 @@
 - [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
 - [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (6 months ago)
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (7 months ago)
-- [Add ShowTables, DescribeTable feature to InfinityService](https://github.com/infiniflow/infinity/pull/537) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (8 months ago)
 
 #### ⭐ Recent stars
 
