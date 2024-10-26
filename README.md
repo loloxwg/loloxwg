@@ -16,11 +16,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (today)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (4 weeks ago)
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (1 month ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (6 months ago)
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text (8 months ago)
+- [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (8 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
