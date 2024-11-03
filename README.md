@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (2 days ago)
-- [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (5 days ago)
-- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (1 week ago)
+- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (3 days ago)
+- [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (6 days ago)
+- [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (2 weeks ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 
