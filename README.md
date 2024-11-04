@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (today)
 - [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (4 days ago)
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (1 week ago)
 - [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (2 weeks ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
