@@ -25,7 +25,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 week ago)
-- [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (2 weeks ago)
+- [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (3 weeks ago)
 - [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (1 month ago)
 - [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (1 month ago)
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (today)
-- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (4 days ago)
+- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (1 day ago)
+- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (5 days ago)
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (1 week ago)
 - [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (2 weeks ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
