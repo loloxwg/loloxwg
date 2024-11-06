@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (1 week ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 weeks ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 weeks ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 month ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (6 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (9 months ago)
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (1 day ago)
-- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (5 days ago)
+- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (2 days ago)
+- [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (6 days ago)
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (1 week ago)
 - [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database (2 weeks ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
