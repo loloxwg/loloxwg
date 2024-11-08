@@ -19,7 +19,7 @@
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (1 week ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 weeks ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 month ago)
-- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (6 months ago)
+- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (7 months ago)
 - [infiniflow/finity](https://github.com/infiniflow/finity) - Repo for CI Testing (9 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -32,14 +32,14 @@
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 month ago)
 - [feat: add flush compaction task with oneshot notification](https://github.com/tonbo-io/tonbo/pull/114) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
 - [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
-- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (6 months ago)
+- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (7 months ago)
 - [Add key issuance, attestation, and validation functionalities](https://github.com/Ryaee-Www/CS6035_DAA/pull/1) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (7 months ago)
 
 #### ⭐ Recent stars
 
-- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (today)
-- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (1 day ago)
-- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (3 days ago)
+- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (1 day ago)
+- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (2 days ago)
+- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (4 days ago)
 - [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree) (1 week ago)
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don&#39;t natively support them. (1 week ago)
 
