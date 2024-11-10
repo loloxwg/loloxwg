@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL Analytics, Reimagined (1 day ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 day ago)
-- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (2 days ago)
-- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (3 days ago)
-- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (5 days ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL Analytics, Reimagined (2 days ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 days ago)
+- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (3 days ago)
+- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (4 days ago)
+- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (6 days ago)
 
 #### 👯 Check out my recent followers
 
