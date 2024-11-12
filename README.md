@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps (today)
+- [jarulraj/buzzdb](https://github.com/jarulraj/buzzdb) (today)
 - [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL Analytics, Reimagined (4 days ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (4 days ago)
 - [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (5 days ago)
-- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (6 days ago)
-- [uwheel/uwheel](https://github.com/uwheel/uwheel) - Embeddable Aggregate Management System for Streams and Queries. (1 week ago)
 
 #### 👯 Check out my recent followers
 
