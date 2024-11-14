@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [DataManagementLab/ScaleStore](https://github.com/DataManagementLab/ScaleStore) - This is the source code for our (Tobias Ziegler, Carsten Binnig and Viktor Leis) published paper at SIGMOD’22: ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA. (today)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps (2 days ago)
 - [jarulraj/buzzdb](https://github.com/jarulraj/buzzdb) (2 days ago)
 - [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL Analytics, Reimagined (6 days ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (6 days ago)
-- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦 (1 week ago)
 
 #### 👯 Check out my recent followers
 
