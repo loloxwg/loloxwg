@@ -41,7 +41,7 @@
 - [DataManagementLab/ScaleStore](https://github.com/DataManagementLab/ScaleStore) - This is the source code for our (Tobias Ziegler, Carsten Binnig and Viktor Leis) published paper at SIGMOD’22: ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA. (1 day ago)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps (3 days ago)
 - [jarulraj/buzzdb](https://github.com/jarulraj/buzzdb) (3 days ago)
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL Analytics, Reimagined (1 week ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - (MySQL|Postgres) Analytics, Reimagined (1 week ago)
 
 #### 👯 Check out my recent followers
 
