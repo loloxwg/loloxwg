@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 weeks ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (today)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 month ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 month ago)
 - [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (7 months ago)
