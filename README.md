@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (today)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/FnckSQL/pull/248) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 day ago)
 - [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 weeks ago)
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (1 month ago)
@@ -33,15 +34,14 @@
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
 - [feat: add flush compaction task with oneshot notification](https://github.com/tonbo-io/tonbo/pull/114) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
 - [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 months ago)
-- [Refactor key naming and add TPM class](https://github.com/Ryaee-Www/CS6035_DAA/pull/2) on [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) (7 months ago)
 
 #### ⭐ Recent stars
 
+- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage. (today)
 - [suraft/suraft](https://github.com/suraft/suraft) - Shared Unit Raft (1 day ago)
 - [DataManagementLab/ScaleStore](https://github.com/DataManagementLab/ScaleStore) - This is the source code for our (Tobias Ziegler, Carsten Binnig and Viktor Leis) published paper at SIGMOD’22: ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA. (1 day ago)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps (3 days ago)
 - [jarulraj/buzzdb](https://github.com/jarulraj/buzzdb) (3 days ago)
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - (MySQL|Postgres) Analytics, Reimagined (1 week ago)
 
 #### 👯 Check out my recent followers
 
