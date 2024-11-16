@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [llx0131](https://github.com/llx0131)
 - [yokurang](https://github.com/yokurang)
 - [senthil28](https://github.com/senthil28)
 - [hkjang](https://github.com/hkjang)
 - [crwen](https://github.com/crwen)
-- [ethe](https://github.com/ethe)
 
