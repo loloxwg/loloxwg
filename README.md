@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (today)
 - [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage. (3 days ago)
 - [suraft/suraft](https://github.com/suraft/suraft) - Shared Unit Raft (4 days ago)
 - [DataManagementLab/ScaleStore](https://github.com/DataManagementLab/ScaleStore) - This is the source code for our (Tobias Ziegler, Carsten Binnig and Viktor Leis) published paper at SIGMOD’22: ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA. (4 days ago)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps (6 days ago)
-- [jarulraj/buzzdb](https://github.com/jarulraj/buzzdb) (6 days ago)
 
 #### 👯 Check out my recent followers
 
