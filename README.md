@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (today)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (6 days ago)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/FnckSQL/pull/248) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 week ago)
 - [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (3 weeks ago)
@@ -33,7 +34,6 @@
 - [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (1 month ago)
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
 - [feat: add flush compaction task with oneshot notification](https://github.com/tonbo-io/tonbo/pull/114) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
-- [Add size calculation method and trigger mechanism](https://github.com/tonbo-io/tonbo/pull/68) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 months ago)
 
 #### ⭐ Recent stars
 
