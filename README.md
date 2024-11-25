@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [datafusion-contrib/datafusion-dft](https://github.com/datafusion-contrib/datafusion-dft) - An opinionated and batteries included DataFusion implementation. (today)
 - [cmu-db/optd-experimental](https://github.com/cmu-db/optd-experimental) - Extensible SQL Query Optimizer Service (5 days ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 week ago)
 - [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage. (1 week ago)
 - [suraft/suraft](https://github.com/suraft/suraft) - Shared Unit Raft (1 week ago)
-- [DataManagementLab/ScaleStore](https://github.com/DataManagementLab/ScaleStore) - This is the source code for our (Tobias Ziegler, Carsten Binnig and Viktor Leis) published paper at SIGMOD’22: ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA. (1 week ago)
 
 #### 👯 Check out my recent followers
 
