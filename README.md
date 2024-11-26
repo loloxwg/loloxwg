@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (today)
 - [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (today)
 - [waynexia/helixdb](https://github.com/waynexia/helixdb) - HelixDB is a time-series oriented Key-Value store written in Rust. (today)
 - [datafusion-contrib/datafusion-dft](https://github.com/datafusion-contrib/datafusion-dft) - An opinionated and batteries included DataFusion implementation. (1 day ago)
 - [cmu-db/optd-experimental](https://github.com/cmu-db/optd-experimental) - Extensible SQL Query Optimizer Service (6 days ago)
-- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 week ago)
 
 #### 👯 Check out my recent followers
 
