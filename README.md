@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (3 days ago)
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 days ago)
-- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (3 days ago)
-- [waynexia/helixdb](https://github.com/waynexia/helixdb) - HelixDB is a time-series oriented Key-Value store written in Rust. (3 days ago)
-- [datafusion-contrib/datafusion-dft](https://github.com/datafusion-contrib/datafusion-dft) - An opinionated and batteries included DataFusion implementation. (4 days ago)
+- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (4 days ago)
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (4 days ago)
+- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (4 days ago)
+- [waynexia/helixdb](https://github.com/waynexia/helixdb) - HelixDB is a time-series oriented Key-Value store written in Rust. (4 days ago)
+- [datafusion-contrib/datafusion-dft](https://github.com/datafusion-contrib/datafusion-dft) - An opinionated and batteries included DataFusion implementation. (5 days ago)
 
 #### 👯 Check out my recent followers
 
