@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [kslohith/mvcc_buzzdb](https://github.com/kslohith/mvcc_buzzdb) - BuzzDB with Multi Version Concurrency Control (today)
-- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (4 days ago)
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (4 days ago)
-- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (4 days ago)
-- [waynexia/helixdb](https://github.com/waynexia/helixdb) - HelixDB is a time-series oriented Key-Value store written in Rust. (4 days ago)
+- [kslohith/mvcc_buzzdb](https://github.com/kslohith/mvcc_buzzdb) - BuzzDB with Multi Version Concurrency Control (1 day ago)
+- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (5 days ago)
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (5 days ago)
+- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (5 days ago)
+- [waynexia/helixdb](https://github.com/waynexia/helixdb) - HelixDB is a time-series oriented Key-Value store written in Rust. (5 days ago)
 
 #### 👯 Check out my recent followers
 
