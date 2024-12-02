@@ -16,14 +16,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (today)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud (1 week ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 weeks ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 month ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 months ago)
-- [Ryaee-Www/CS6035_DAA](https://github.com/Ryaee-Www/CS6035_DAA) - Direct Anonymous Attestation project for cs6035 @ Georgia Tech (7 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (today)
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (1 week ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 weeks ago)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/FnckSQL/pull/248) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 weeks ago)
@@ -33,7 +34,6 @@
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
 - [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
 - [fix: build bug, imports for clarity](https://github.com/KipData/FnckSQL/pull/222) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
-- [feat: add flush compaction task with oneshot notification](https://github.com/tonbo-io/tonbo/pull/114) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 months ago)
 
 #### ⭐ Recent stars
 
