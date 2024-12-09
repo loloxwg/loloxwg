@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper: A Rust native Iceberg REST Catalog (today)
 - [metrico/quackpipe](https://github.com/metrico/quackpipe) - QuackPipe is an OLAP API built on top of DuckDB with ClickHouse compatibility bits (3 days ago)
 - [kslohith/mvcc_buzzdb](https://github.com/kslohith/mvcc_buzzdb) - BuzzDB with Multi Version Concurrency Control (1 week ago)
 - [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (1 week ago)
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (1 week ago)
-- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. (1 week ago)
 
 #### 👯 Check out my recent followers
 
