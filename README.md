@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [lisideng](https://github.com/lisideng)
 - [llx0131](https://github.com/llx0131)
 - [yokurang](https://github.com/yokurang)
 - [senthil28](https://github.com/senthil28)
-- [hkjang](https://github.com/hkjang)
 
