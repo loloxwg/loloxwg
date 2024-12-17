@@ -40,8 +40,8 @@
 - [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper: A Rust native Iceberg REST Catalog (1 week ago)
 - [metrico/quackpipe](https://github.com/metrico/quackpipe) - QuackPipe is an OLAP API built on top of DuckDB with ClickHouse compatibility bits (1 week ago)
 - [kslohith/mvcc_buzzdb](https://github.com/kslohith/mvcc_buzzdb) - BuzzDB with Multi Version Concurrency Control (2 weeks ago)
-- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (2 weeks ago)
-- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (2 weeks ago)
+- [cq-cdy/cRaft](https://github.com/cq-cdy/cRaft) - cRaft: Raft distributed consensus algorithm service framework based on C&#43;&#43; stacked coroutines (3 weeks ago)
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
