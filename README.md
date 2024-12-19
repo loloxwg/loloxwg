@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (today)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 day ago)
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
 - [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) - Papers for database systems powered by artificial intelligence (machine learning for database) (1 day ago)
 - [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper: A Rust native Iceberg REST Catalog (1 week ago)
-- [metrico/quackpipe](https://github.com/metrico/quackpipe) - QuackPipe is an OLAP API built on top of DuckDB with ClickHouse compatibility bits (1 week ago)
 
 #### 👯 Check out my recent followers
 
