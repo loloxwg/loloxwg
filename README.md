@@ -24,12 +24,12 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (6 days ago)
+- [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (1 week ago)
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (3 weeks ago)
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (1 month ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (1 month ago)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/FnckSQL/pull/248) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 month ago)
-- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 month ago)
+- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (2 months ago)
 - [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [imp0821/peps](https://github.com/imp0821/peps) (today)
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (today)
-- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (1 day ago)
-- [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB (5 days ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (5 days ago)
+- [imp0821/peps](https://github.com/imp0821/peps) (1 day ago)
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (1 day ago)
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (2 days ago)
+- [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB (6 days ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (6 days ago)
 
 #### 👯 Check out my recent followers
 
