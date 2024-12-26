@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [ysj1173886760/TinyDB](https://github.com/ysj1173886760/TinyDB) - TinyDB (under progress) (today)
 - [imp0821/peps](https://github.com/imp0821/peps) (2 days ago)
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (2 days ago)
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (3 days ago)
 - [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB (1 week ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (1 week ago)
 
 #### 👯 Check out my recent followers
 
