@@ -33,15 +33,15 @@
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (2 months ago)
 - [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [fix: modify SQL query and streamline DataFrame execution](https://github.com/tonbo-io/tonbo/pull/171) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
-- [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (2 months ago)
+- [feat: enable SQL query support in datafusion example](https://github.com/tonbo-io/tonbo/pull/169) on [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [imp0821/peps](https://github.com/imp0821/peps) (1 day ago)
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (1 day ago)
-- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (2 days ago)
-- [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB (6 days ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (6 days ago)
+- [imp0821/peps](https://github.com/imp0821/peps) (2 days ago)
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (2 days ago)
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (3 days ago)
+- [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB (1 week ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data. (1 week ago)
 
 #### 👯 Check out my recent followers
 
