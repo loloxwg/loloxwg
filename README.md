@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (today)
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (today)
 - [ysj1173886760/TinyDB](https://github.com/ysj1173886760/TinyDB) - TinyDB (under progress) (1 day ago)
 - [imp0821/peps](https://github.com/imp0821/peps) (3 days ago)
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own. (3 days ago)
-- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. (4 days ago)
 
 #### 👯 Check out my recent followers
 
