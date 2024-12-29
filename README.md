@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (1 day ago)
-- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (1 day ago)
-- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (1 day ago)
-- [ysj1173886760/TinyDB](https://github.com/ysj1173886760/TinyDB) - TinyDB (under progress) (2 days ago)
-- [imp0821/peps](https://github.com/imp0821/peps) (4 days ago)
+- [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (2 days ago)
+- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (2 days ago)
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (2 days ago)
+- [ysj1173886760/TinyDB](https://github.com/ysj1173886760/TinyDB) - TinyDB (under progress) (3 days ago)
+- [imp0821/peps](https://github.com/imp0821/peps) (5 days ago)
 
 #### 👯 Check out my recent followers
 
