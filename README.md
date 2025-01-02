@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (today)
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (today)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (today)
 - [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (6 days ago)
 - [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (6 days ago)
-- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (6 days ago)
-- [ysj1173886760/TinyDB](https://github.com/ysj1173886760/TinyDB) - TinyDB (under progress) (1 week ago)
 
 #### 👯 Check out my recent followers
 
