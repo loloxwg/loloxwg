@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (today)
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (1 day ago)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 day ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
 - [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (1 week ago)
-- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (1 week ago)
 
 #### 👯 Check out my recent followers
 
