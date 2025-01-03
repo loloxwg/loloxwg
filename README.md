@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 days ago)
+- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (3 days ago)
 - [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud (1 month ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/FnckSQL/pull/258) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (3 days ago)
+- [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/FnckSQL/pull/258) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (4 days ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (2 weeks ago)
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (1 month ago)
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (1 month ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (today)
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (today)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (today)
-- [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (6 days ago)
-- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (6 days ago)
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (1 day ago)
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 day ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
+- [surrealdb/surrealml](https://github.com/surrealdb/surrealml) - A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models (1 week ago)
+- [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme (1 week ago)
 
 #### 👯 Check out my recent followers
 
