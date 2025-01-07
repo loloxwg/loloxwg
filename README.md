@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） (today)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (today)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (4 days ago)
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (5 days ago)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (5 days ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (5 days ago)
 
 #### 👯 Check out my recent followers
 
