@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [skyzh/risinglight-vector-connector](https://github.com/skyzh/risinglight-vector-connector) (today)
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） (1 day ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (1 day ago)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (5 days ago)
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator (6 days ago)
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (6 days ago)
 
 #### 👯 Check out my recent followers
 
