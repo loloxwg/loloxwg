@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (today)
+- [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 day ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/FnckSQL/pull/258) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (1 week ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (3 weeks ago)
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (1 month ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (today)
-- [skyzh/risinglight-vector-connector](https://github.com/skyzh/risinglight-vector-connector) (today)
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） (1 day ago)
-- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (1 day ago)
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (5 days ago)
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 day ago)
+- [skyzh/risinglight-vector-connector](https://github.com/skyzh/risinglight-vector-connector) (1 day ago)
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） (2 days ago)
+- [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (2 days ago)
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (6 days ago)
 
 #### 👯 Check out my recent followers
 
