@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (today)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 day ago)
 - [skyzh/risinglight-vector-connector](https://github.com/skyzh/risinglight-vector-connector) (1 day ago)
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） (2 days ago)
 - [surrealdb/vart](https://github.com/surrealdb/vart) - A timed adaptive radix trie data-structure, used in SurrealKV (2 days ago)
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform (6 days ago)
 
 #### 👯 Check out my recent followers
 
