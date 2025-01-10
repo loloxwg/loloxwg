@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (today)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (1 day ago)
 - [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud) - A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS (1 day ago)
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database (1 day ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (1 day ago)
-- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (2 days ago)
 
 #### 👯 Check out my recent followers
 
