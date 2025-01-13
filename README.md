@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (today)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (5 days ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/FnckSQL/pull/258) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 weeks ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (3 weeks ago)
@@ -33,7 +34,6 @@
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/FnckSQL/pull/248) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
 - [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/FnckSQL/pull/233) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 months ago)
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (3 months ago)
-- [Minor: Refactor benchmark imports to use `util` module](https://github.com/apache/datafusion/pull/12885) on [apache/datafusion](https://github.com/apache/datafusion) (3 months ago)
 
 #### ⭐ Recent stars
 
