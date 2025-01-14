@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (today)
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (4 days ago)
 - [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (4 days ago)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (5 days ago)
 - [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud) - A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS (5 days ago)
-- [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database (5 days ago)
 
 #### 👯 Check out my recent followers
 
