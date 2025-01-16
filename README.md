@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (6 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 week ago)
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust (2 weeks ago)
 - [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (2 days ago)
+- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (3 days ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 week ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/FnckSQL/pull/258) on [KipData/FnckSQL](https://github.com/KipData/FnckSQL) (2 weeks ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (4 weeks ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (today)
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (1 day ago)
-- [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (5 days ago)
-- [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (5 days ago)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (6 days ago)
+- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (1 day ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (2 days ago)
+- [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (6 days ago)
+- [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (6 days ago)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (1 week ago)
 
 #### 👯 Check out my recent followers
 
