@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (today)
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (1 day ago)
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (2 days ago)
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (6 days ago)
 - [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (6 days ago)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (1 week ago)
 
 #### 👯 Check out my recent followers
 
