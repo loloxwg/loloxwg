@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (5 days ago)
+- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (6 days ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 week ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/KiteSQL/pull/258) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 weeks ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (1 month ago)
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (2 days ago)
-- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (3 days ago)
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (4 days ago)
+- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (3 days ago)
+- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (4 days ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (5 days ago)
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (1 week ago)
 - [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (1 week ago)
 
