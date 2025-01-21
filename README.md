@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (today)
 - [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (5 days ago)
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (6 days ago)
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (1 week ago)
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (1 week ago)
-- [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (1 week ago)
 
 #### 👯 Check out my recent followers
 
