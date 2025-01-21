@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 week ago)
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (2 weeks ago)
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 weeks ago)
 - [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud (2 months ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 months ago)
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (4 days ago)
-- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (5 days ago)
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (6 days ago)
+- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (5 days ago)
+- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (6 days ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (1 week ago)
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust (1 week ago)
 - [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) (1 week ago)
 
