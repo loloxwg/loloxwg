@@ -25,7 +25,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 week ago)
-- [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 week ago)
+- [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (2 weeks ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/KiteSQL/pull/258) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 weeks ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (1 month ago)
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (1 month ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (today)
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (today)
-- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (today)
-- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (5 days ago)
-- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources (6 days ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (1 day ago)
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (1 day ago)
+- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (1 day ago)
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (1 day ago)
+- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (6 days ago)
 
 #### 👯 Check out my recent followers
 
