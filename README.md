@@ -32,15 +32,15 @@
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/KiteSQL/pull/248) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 months ago)
-- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/KiteSQL/pull/233) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 months ago)
+- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/KiteSQL/pull/233) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
 - [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (2 days ago)
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (2 days ago)
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (2 days ago)
-- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (2 days ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (3 days ago)
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (3 days ago)
+- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (3 days ago)
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (3 days ago)
 - [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (1 week ago)
 
 #### 👯 Check out my recent followers
