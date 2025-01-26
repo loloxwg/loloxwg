@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (4 days ago)
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (4 days ago)
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (4 days ago)
-- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (4 days ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (5 days ago)
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (5 days ago)
+- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (5 days ago)
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (5 days ago)
 - [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (1 week ago)
 
 #### 👯 Check out my recent followers
