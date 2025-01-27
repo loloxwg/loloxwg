@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (today)
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (6 days ago)
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (6 days ago)
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (6 days ago)
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (6 days ago)
-- [laggui/resnet-burn](https://github.com/laggui/resnet-burn) - ResNet implementation with Burn (1 week ago)
 
 #### 👯 Check out my recent followers
 
