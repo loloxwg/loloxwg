@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 weeks ago)
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 weeks ago)
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (4 weeks ago)
 - [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (1 month ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud (2 months ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 months ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (today)
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (6 days ago)
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (6 days ago)
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (6 days ago)
-- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (6 days ago)
+- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (1 day ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (1 week ago)
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library  (1 week ago)
+- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (1 week ago)
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations (1 week ago)
 
 #### 👯 Check out my recent followers
 
