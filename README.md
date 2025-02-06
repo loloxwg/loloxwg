@@ -32,8 +32,6 @@
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
 - [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/KiteSQL/pull/248) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 months ago)
-- [fix: use home directory instead of config directory for index paths avoid permission denied](https://github.com/KipData/KiteSQL/pull/233) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
-- [Switch from malloc.h to stdlib.h for POSIX compliance](https://github.com/databricks/tpch-dbgen/pull/7) on [databricks/tpch-dbgen](https://github.com/databricks/tpch-dbgen) (3 months ago)
 
 #### ⭐ Recent stars
 
