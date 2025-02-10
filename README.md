@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (3 weeks ago)
+- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (4 weeks ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 month ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/KiteSQL/pull/258) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (1 month ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (1 month ago)
@@ -35,10 +35,10 @@
 
 #### ⭐ Recent stars
 
-- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (2 days ago)
-- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (3 days ago)
+- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (3 days ago)
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (4 days ago)
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms (1 week ago)
-- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (1 week ago)
+- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (2 weeks ago)
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (2 weeks ago)
 
 #### 👯 Check out my recent followers
