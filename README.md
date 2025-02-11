@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (3 days ago)
-- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (4 days ago)
+- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (4 days ago)
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (5 days ago)
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms (1 week ago)
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (2 weeks ago)
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (2 weeks ago)
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
