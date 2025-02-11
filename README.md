@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (today)
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. (today)
 - [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (4 days ago)
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (5 days ago)
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms (1 week ago)
-- [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
