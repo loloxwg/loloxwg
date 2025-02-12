@@ -24,21 +24,21 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (4 weeks ago)
+- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 month ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/KiteSQL/pull/258) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (1 month ago)
 - [Add SQLite support and update documentation](https://github.com/loloxwg/py-tpcc/pull/1) on [loloxwg/py-tpcc](https://github.com/loloxwg/py-tpcc) (1 month ago)
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (2 months ago)
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (2 months ago)
-- [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/KiteSQL/pull/248) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 months ago)
+- [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/KiteSQL/pull/248) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (today)
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. (today)
-- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (4 days ago)
-- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (5 days ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (1 day ago)
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. (1 day ago)
+- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (5 days ago)
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (6 days ago)
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms (1 week ago)
 
 #### 👯 Check out my recent followers
