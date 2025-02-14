@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (today)
+- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 day ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (1 month ago)
 - [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) - BusTub is a relational database management system built at Carnegie Mellon University for the Introduction to Database Systems (15-445/645) course. (2 months ago)
@@ -35,10 +35,10 @@
 
 #### ⭐ Recent stars
 
-- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.  (today)
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (2 days ago)
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. (2 days ago)
-- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (6 days ago)
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.  (1 day ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (3 days ago)
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. (3 days ago)
+- [RobToMars/DeepSeek](https://github.com/RobToMars/DeepSeek) - Integration of DeepSeek API into AI Assistant of PyCharm IDE (1 week ago)
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. (1 week ago)
 
 #### 👯 Check out my recent followers
