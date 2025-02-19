@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (today)
 - [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 month ago)
 - [chore: refactor backend handlers and update `pgwire` dependency.](https://github.com/KipData/KiteSQL/pull/258) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (1 month ago)
@@ -31,7 +32,6 @@
 - [feat: Add wal replay and full checkpoint](https://github.com/loloxwg/bustub-enable-wal/pull/1) on [loloxwg/bustub-enable-wal](https://github.com/loloxwg/bustub-enable-wal) (2 months ago)
 - [Refactor Marker serialization to use protobuf byte arrays](https://github.com/cnosdb/cnosdb/pull/2394) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (3 months ago)
 - [fix: Update test_kvcore_interface to enhance tenant creation and flus…](https://github.com/cnosdb/cnosdb/pull/2385) on [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) (3 months ago)
-- [feat: Implement COPY TO functionality for exporting data to CSV.](https://github.com/KipData/KiteSQL/pull/248) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
 
 #### ⭐ Recent stars
 
