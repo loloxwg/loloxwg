@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) (today)
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) (today)
+- [quackscience/quackpy](https://github.com/quackscience/quackpy) - DuckDB API Server with Arrow Flight SQL Airport support and concurrent writes/reads (quackpipe) (today)
+- [quackscience/duckdb-extension-clickhouse-native](https://github.com/quackscience/duckdb-extension-clickhouse-native) - Experimental ClickHouse Native Client and Native file reader Extension for DuckDB chsql (today)
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust (2 days ago)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 days ago)
-- [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets) - DuckDB extension to read and write Google Sheets using SQL (2 days ago)
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. (4 days ago)
-- [dsg-polymtl/flockmtl](https://github.com/dsg-polymtl/flockmtl) - FlockMTL: DuckDB extension to seamlessly combine analytics and semantic analysis using language models (LMs) (5 days ago)
 
 #### 👯 Check out my recent followers
 
