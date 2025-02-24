@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference &amp; training for ONNX models in Rust (today)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) (today)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) (today)
 - [quackscience/quackpy](https://github.com/quackscience/quackpy) - DuckDB API Server with Arrow Flight SQL Airport support and concurrent writes/reads (quackpipe) (today)
 - [quackscience/duckdb-extension-clickhouse-native](https://github.com/quackscience/duckdb-extension-clickhouse-native) - Experimental ClickHouse Native Client and Native file reader Extension for DuckDB chsql (today)
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust (2 days ago)
 
 #### 👯 Check out my recent followers
 
