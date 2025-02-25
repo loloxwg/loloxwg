@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (today)
 - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C&#43;&#43; toolkit of 100&#43; Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉 (today)
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference &amp; training for ONNX models in Rust (1 day ago)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) (1 day ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) (1 day ago)
-- [quackscience/quackpy](https://github.com/quackscience/quackpy) - DuckDB API Server with Arrow Flight SQL Airport support and concurrent writes/reads (quackpipe) (1 day ago)
 
 #### 👯 Check out my recent followers
 
