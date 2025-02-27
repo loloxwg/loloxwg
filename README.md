@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (today)
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (1 day ago)
 - [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (1 day ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 days ago)
 - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C&#43;&#43; toolkit of 100&#43; Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉 (2 days ago)
-- [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference &amp; training for ONNX models in Rust (3 days ago)
 
 #### 👯 Check out my recent followers
 
