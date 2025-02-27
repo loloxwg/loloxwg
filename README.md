@@ -16,9 +16,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (2 days ago)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (3 days ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (1 week ago)
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 week ago)
+- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (1 month ago)
 
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (today)
-- [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (today)
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 day ago)
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C&#43;&#43; toolkit of 100&#43; Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉 (1 day ago)
-- [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference &amp; training for ONNX models in Rust (2 days ago)
+- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (1 day ago)
+- [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (1 day ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 days ago)
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C&#43;&#43; toolkit of 100&#43; Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉 (2 days ago)
+- [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference &amp; training for ONNX models in Rust (3 days ago)
 
 #### 👯 Check out my recent followers
 
