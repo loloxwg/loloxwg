@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (today)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (today)
 - [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (1 day ago)
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (2 days ago)
 - [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (2 days ago)
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (3 days ago)
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C&#43;&#43; toolkit of 100&#43; Awesome AI models, support ORT, MNN, NCNN, TNN and TensorRT. 🎉🎉 (3 days ago)
 
 #### 👯 Check out my recent followers
 
