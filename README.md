@@ -16,16 +16,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 days ago)
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (6 days ago)
+- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 days ago)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (1 week ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (2 weeks ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 days ago)
-- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 days ago)
+- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 days ago)
+- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 days ago)
 - [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 week ago)
 - [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
 - [Handle file URLs and add tests for store initialization](https://github.com/surrealdb/surrealdb/pull/5340) on [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) (1 month ago)
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (2 days ago)
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (2 days ago)
-- [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (3 days ago)
-- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (4 days ago)
-- [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (4 days ago)
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (3 days ago)
+- [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (4 days ago)
+- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (5 days ago)
+- [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (5 days ago)
 
 #### 👯 Check out my recent followers
 
