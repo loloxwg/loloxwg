@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (today)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 days ago)
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (3 days ago)
 - [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (4 days ago)
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (5 days ago)
-- [infrawhispers/anansi](https://github.com/infrawhispers/anansi) - open source tooling for AI search and understanding (5 days ago)
 
 #### 👯 Check out my recent followers
 
