@@ -43,9 +43,9 @@
 
 #### 👯 Check out my recent followers
 
+- [VicTorWHoX](https://github.com/VicTorWHoX)
 - [niebayes](https://github.com/niebayes)
 - [cara180](https://github.com/cara180)
 - [aalonso777777](https://github.com/aalonso777777)
 - [yliang412](https://github.com/yliang412)
-- [nholuongut](https://github.com/nholuongut)
 
