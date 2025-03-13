@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads. (today)
+- [sushrut141/vamana](https://github.com/sushrut141/vamana) - Exploration of Vector database Index for fast approximate nearest neighbour search. (today)
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (1 week ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (1 week ago)
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (1 week ago)
-- [csukuangfj/onnxruntime-build](https://github.com/csukuangfj/onnxruntime-build) - A build project for ONNX Runtime (2 weeks ago)
-- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
