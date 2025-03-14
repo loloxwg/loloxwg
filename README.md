@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (today)
 - [ctrlb-hq/diskannrs](https://github.com/ctrlb-hq/diskannrs) - Pure Rust Port of DiskANN (1 day ago)
 - [meilisearch/arroy](https://github.com/meilisearch/arroy) - An Approximate Nearest Neighbors library in Rust, based on random projections and LMDB and optimized for memory usage :boom: (1 day ago)
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads. (1 day ago)
 - [sushrut141/vamana](https://github.com/sushrut141/vamana) - Exploration of Vector database Index for fast approximate nearest neighbour search. (1 day ago)
-- [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online (1 week ago)
 
 #### 👯 Check out my recent followers
 
