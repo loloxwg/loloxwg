@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (6 days ago)
+- [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (1 week ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 week ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (3 days ago)
-- [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (3 days ago)
-- [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (3 days ago)
-- [ctrlb-hq/diskannrs](https://github.com/ctrlb-hq/diskannrs) - Pure Rust Port of DiskANN (4 days ago)
-- [meilisearch/arroy](https://github.com/meilisearch/arroy) - An Approximate Nearest Neighbors library in Rust, based on random projections and LMDB and optimized for memory usage :boom: (4 days ago)
+- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (4 days ago)
+- [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (4 days ago)
+- [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (4 days ago)
+- [ctrlb-hq/diskannrs](https://github.com/ctrlb-hq/diskannrs) - Pure Rust Port of DiskANN (5 days ago)
+- [meilisearch/arroy](https://github.com/meilisearch/arroy) - An Approximate Nearest Neighbors library in Rust, based on random projections and LMDB and optimized for memory usage :boom: (5 days ago)
 
 #### 👯 Check out my recent followers
 
