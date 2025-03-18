@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (today)
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (4 days ago)
 - [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (4 days ago)
 - [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (4 days ago)
 - [ctrlb-hq/diskannrs](https://github.com/ctrlb-hq/diskannrs) - Pure Rust Port of DiskANN (5 days ago)
-- [meilisearch/arroy](https://github.com/meilisearch/arroy) - An Approximate Nearest Neighbors library in Rust, based on random projections and LMDB and optimized for memory usage :boom: (5 days ago)
 
 #### 👯 Check out my recent followers
 
