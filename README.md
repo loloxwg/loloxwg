@@ -43,9 +43,9 @@
 
 #### 👯 Check out my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [wgzhao](https://github.com/wgzhao)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [niebayes](https://github.com/niebayes)
 - [cara180](https://github.com/cara180)
-- [aalonso777777](https://github.com/aalonso777777)
 
