@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (today)
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (1 day ago)
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (5 days ago)
 - [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (5 days ago)
 - [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (5 days ago)
-- [ctrlb-hq/diskannrs](https://github.com/ctrlb-hq/diskannrs) - Pure Rust Port of DiskANN (6 days ago)
 
 #### 👯 Check out my recent followers
 
