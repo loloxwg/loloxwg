@@ -28,18 +28,18 @@
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 week ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
-- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
-- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
+- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
+- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
 - [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (4 weeks ago)
 - [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (today)
-- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (1 day ago)
-- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (5 days ago)
-- [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (5 days ago)
-- [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (5 days ago)
+- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (1 day ago)
+- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (2 days ago)
+- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (6 days ago)
+- [abhay-shete/DiskANN](https://github.com/abhay-shete/DiskANN) - Porting original DiskANN project to MAC and adding Python bindings (6 days ago)
+- [ICME-Lab/Vectune](https://github.com/ICME-Lab/Vectune) (6 days ago)
 
 #### 👯 Check out my recent followers
 
