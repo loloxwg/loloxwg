@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (today)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (today)
 - [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension (today)
 - [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (1 day ago)
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (2 days ago)
-- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search (6 days ago)
 
 #### 👯 Check out my recent followers
 
