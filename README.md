@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 week ago)
+- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (3 weeks ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (1 month ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 months ago)
@@ -25,21 +25,21 @@
 #### 🔨 Latest Pull Requests I published
 
 - [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (1 week ago)
-- [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 week ago)
+- [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
 - [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
-- [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (4 weeks ago)
+- [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
 - [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (today)
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (today)
-- [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension (today)
-- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (1 day ago)
-- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (2 days ago)
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (1 day ago)
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (1 day ago)
+- [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension (1 day ago)
+- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (2 days ago)
+- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (3 days ago)
 
 #### 👯 Check out my recent followers
 
