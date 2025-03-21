@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (today)
+- [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - A distributed KV store for disaggregated LLM inference (today)
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (1 day ago)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (1 day ago)
 - [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension (1 day ago)
-- [neurdb/neurdb](https://github.com/neurdb/neurdb) - AI-powered Autonomous Data System (2 days ago)
-- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference (3 days ago)
 
 #### 👯 Check out my recent followers
 
