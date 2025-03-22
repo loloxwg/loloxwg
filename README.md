@@ -43,9 +43,9 @@
 
 #### 👯 Check out my recent followers
 
+- [kche0169](https://github.com/kche0169)
 - [psemicol](https://github.com/psemicol)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [wgzhao](https://github.com/wgzhao)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
-- [niebayes](https://github.com/niebayes)
 
