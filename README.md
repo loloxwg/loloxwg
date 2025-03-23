@@ -37,7 +37,7 @@
 
 - [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (2 days ago)
 - [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (2 days ago)
-- [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - A distributed KV store for disaggregated LLM inference (2 days ago)
+- [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - KV cache store for distributed LLM inference (2 days ago)
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (3 days ago)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (3 days ago)
 
