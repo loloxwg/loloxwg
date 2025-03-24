@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (today)
+- [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (today)
 - [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (3 days ago)
 - [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (3 days ago)
 - [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - KV cache store for distributed LLM inference (3 days ago)
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (4 days ago)
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust (4 days ago)
 
 #### 👯 Check out my recent followers
 
