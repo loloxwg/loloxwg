@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (1 week ago)
+- [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (2 weeks ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (today)
-- [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (today)
-- [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (3 days ago)
-- [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (3 days ago)
-- [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - KV cache store for distributed LLM inference (3 days ago)
+- [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (1 day ago)
+- [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (1 day ago)
+- [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (4 days ago)
+- [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (4 days ago)
+- [bytedance/InfiniStore](https://github.com/bytedance/InfiniStore) - KV cache store for distributed LLM inference (4 days ago)
 
 #### 👯 Check out my recent followers
 
