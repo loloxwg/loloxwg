@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (today)
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md) (2 days ago)
 - [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (3 days ago)
 - [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (3 days ago)
 - [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (6 days ago)
-- [wangziqi2013/BwTree](https://github.com/wangziqi2013/BwTree) - An open sourced implementation of Bw-Tree in SQL Server Hekaton (6 days ago)
 
 #### 👯 Check out my recent followers
 
