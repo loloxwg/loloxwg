@@ -35,10 +35,10 @@
 
 #### ⭐ Recent stars
 
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (2 days ago)
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md) (4 days ago)
-- [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (5 days ago)
-- [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (5 days ago)
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (3 days ago)
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md) (5 days ago)
+- [parkerdgabel/quackML](https://github.com/parkerdgabel/quackML) - A duckDB extension implementing a full service AI/ML enginer (6 days ago)
+- [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB (6 days ago)
 - [yliang412/crystal-opt](https://github.com/yliang412/crystal-opt) (1 week ago)
 
 #### 👯 Check out my recent followers
