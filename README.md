@@ -26,8 +26,8 @@
 
 - [fix(query): refactor type handling in physical mutation planning](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (3 weeks ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 weeks ago)
-- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 weeks ago)
-- [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 weeks ago)
+- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
+- [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (today)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 day ago)
-- [DataZooDE/erpl](https://github.com/DataZooDE/erpl) - ERPL is a DuckDB extension to integrate Enterprise Data in your Data Science and ML pipelines within minutes! ERPL connects DuckDB to SAP ecosystem via standard interfaces. (1 day ago)
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 day ago)
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (5 days ago)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (1 day ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 days ago)
+- [DataZooDE/erpl](https://github.com/DataZooDE/erpl) - ERPL is a DuckDB extension to integrate Enterprise Data in your Data Science and ML pipelines within minutes! ERPL connects DuckDB to SAP ecosystem via standard interfaces. (2 days ago)
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (2 days ago)
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (6 days ago)
 
 #### 👯 Check out my recent followers
 
