@@ -43,9 +43,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Kensuke-Hinata](https://github.com/Kensuke-Hinata)
 - [TheFanatr](https://github.com/TheFanatr)
 - [kche0169](https://github.com/kche0169)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [wgzhao](https://github.com/wgzhao)
-- [niebayes](https://github.com/niebayes)
 
