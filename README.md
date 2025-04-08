@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (today)
 - [ucbrise/clipper](https://github.com/ucbrise/clipper) - A low-latency prediction-serving system (6 days ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [DataZooDE/erpl](https://github.com/DataZooDE/erpl) - ERPL is a DuckDB extension to integrate Enterprise Data in your Data Science and ML pipelines within minutes! ERPL connects DuckDB to SAP ecosystem via standard interfaces. (1 week ago)
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 week ago)
 
 #### 👯 Check out my recent followers
 
