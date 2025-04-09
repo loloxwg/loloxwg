@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
+- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (today)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (1 month ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (1 month ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 months ago)
@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (today)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (4 weeks ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
@@ -31,7 +32,6 @@
 - [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (1 month ago)
-- [Fix output handling logic in graph.rs](https://github.com/tracel-ai/burn/pull/2688) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (2 months ago)
 
 #### ⭐ Recent stars
 
