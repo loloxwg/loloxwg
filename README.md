@@ -19,7 +19,7 @@
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (1 month ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (1 month ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 months ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 months ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -35,8 +35,8 @@
 
 #### ⭐ Recent stars
 
-- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (today)
-- [ucbrise/clipper](https://github.com/ucbrise/clipper) - A low-latency prediction-serving system (6 days ago)
+- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (1 day ago)
+- [ucbrise/clipper](https://github.com/ucbrise/clipper) - A low-latency prediction-serving system (1 week ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [DataZooDE/erpl](https://github.com/DataZooDE/erpl) - ERPL is a DuckDB extension to integrate Enterprise Data in your Data Science and ML pipelines within minutes! ERPL connects DuckDB to SAP ecosystem via standard interfaces. (1 week ago)
