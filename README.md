@@ -35,7 +35,7 @@
 
 #### ⭐ Recent stars
 
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (1 day ago)
+- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (2 days ago)
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. (1 week ago)
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (1 week ago)
 - [ucbrise/clipper](https://github.com/ucbrise/clipper) - A low-latency prediction-serving system (2 weeks ago)
