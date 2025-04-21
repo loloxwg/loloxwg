@@ -35,9 +35,9 @@
 
 #### ⭐ Recent stars
 
-- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (today)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (3 days ago)
+- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (1 day ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 day ago)
+- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (4 days ago)
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. (1 week ago)
 - [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map) - lock-free B&#43; tree (1 week ago)
 
