@@ -17,7 +17,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 weeks ago)
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. (1 month ago)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (1 month ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (2 months ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 months ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 months ago)
