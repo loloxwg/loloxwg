@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (today)
 - [sfu-dis/preemptdb](https://github.com/sfu-dis/preemptdb) - Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (SIGMOD 2025 Best Paper Award) (2 days ago)
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (3 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 days ago)
 - [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (6 days ago)
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. (1 week ago)
 
 #### 👯 Check out my recent followers
 
