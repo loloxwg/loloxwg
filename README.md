@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (today)
-- [sfu-dis/preemptdb](https://github.com/sfu-dis/preemptdb) - Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (SIGMOD 2025 Best Paper Award) (2 days ago)
-- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (3 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 days ago)
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (6 days ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (1 day ago)
+- [sfu-dis/preemptdb](https://github.com/sfu-dis/preemptdb) - Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (SIGMOD 2025 Best Paper Award) (3 days ago)
+- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (4 days ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (4 days ago)
+- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (1 week ago)
 
 #### 👯 Check out my recent followers
 
