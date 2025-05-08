@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured embeddable key-value storage engine written in Rust (today)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (1 week ago)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (2 weeks ago)
 - [sfu-dis/preemptdb](https://github.com/sfu-dis/preemptdb) - Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt? (SIGMOD 2025 Best Paper Award) (2 weeks ago)
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (2 weeks ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
