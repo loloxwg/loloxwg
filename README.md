@@ -35,10 +35,10 @@
 
 #### ⭐ Recent stars
 
-- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database Management System Implementation in Golang (today)
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (today)
-- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (today)
-- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured embeddable key-value storage engine written in Rust (2 days ago)
+- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database Management System Implementation in Golang (1 day ago)
+- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (1 day ago)
+- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (1 day ago)
+- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured embeddable key-value storage engine written in Rust (3 days ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (1 week ago)
 
 #### 👯 Check out my recent followers
