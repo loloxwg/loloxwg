@@ -18,7 +18,7 @@
 
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (2 months ago)
-- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (2 months ago)
+- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (3 months ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 months ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (4 months ago)
 
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地部署基于 clash/mihomo 的代理环境 (today)
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI. (today)
-- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database Management System Implementation in Golang (4 days ago)
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (4 days ago)
-- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (4 days ago)
+- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地部署基于 clash/mihomo 的代理环境 (1 day ago)
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI. (1 day ago)
+- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database Management System Implementation in Golang (5 days ago)
+- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (5 days ago)
+- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (5 days ago)
 
 #### 👯 Check out my recent followers
 
