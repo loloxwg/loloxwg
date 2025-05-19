@@ -35,17 +35,17 @@
 
 #### ⭐ Recent stars
 
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地部署基于 clash/mihomo 的代理环境 (4 days ago)
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI. (4 days ago)
+- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地部署基于 clash/mihomo 的代理环境 (5 days ago)
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI. (5 days ago)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database Management System Implementation in Golang (1 week ago)
 - [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (1 week ago)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
+- [kurkul608](https://github.com/kurkul608)
 - [2016geek](https://github.com/2016geek)
 - [mrauha](https://github.com/mrauha)
 - [jimmyshah](https://github.com/jimmyshah)
-- [Kensuke-Hinata](https://github.com/Kensuke-Hinata)
-- [TheFanatr](https://github.com/TheFanatr)
 
