@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (today)
 - [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (today)
 - [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (today)
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (today)
 - [leanstore/leanstore](https://github.com/leanstore/leanstore) (5 days ago)
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地部署基于 clash/mihomo 的代理环境 (1 week ago)
 
 #### 👯 Check out my recent followers
 
