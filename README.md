@@ -29,17 +29,17 @@
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
-- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
-- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
+- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
+- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
 - [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (today)
-- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (today)
-- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (today)
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (today)
-- [leanstore/leanstore](https://github.com/leanstore/leanstore) (5 days ago)
+- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (1 day ago)
+- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (1 day ago)
+- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (1 day ago)
+- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (1 day ago)
+- [leanstore/leanstore](https://github.com/leanstore/leanstore) (6 days ago)
 
 #### 👯 Check out my recent followers
 
