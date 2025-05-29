@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (today)
-- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (1 day ago)
-- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (1 day ago)
-- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (1 day ago)
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (1 day ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 day ago)
+- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (2 days ago)
+- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (2 days ago)
+- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (2 days ago)
+- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (2 days ago)
 
 #### 👯 Check out my recent followers
 
