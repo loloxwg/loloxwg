@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format (today)
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (2 days ago)
 - [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (3 days ago)
 - [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (3 days ago)
 - [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (3 days ago)
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (3 days ago)
 
 #### 👯 Check out my recent followers
 
