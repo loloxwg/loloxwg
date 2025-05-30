@@ -20,7 +20,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (3 months ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (3 months ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 months ago)
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (4 months ago)
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 day ago)
-- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (2 days ago)
-- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (2 days ago)
-- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (2 days ago)
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (2 days ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (2 days ago)
+- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (3 days ago)
+- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (3 days ago)
+- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (3 days ago)
+- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator (3 days ago)
 
 #### 👯 Check out my recent followers
 
