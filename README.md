@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (today)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (2 months ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
