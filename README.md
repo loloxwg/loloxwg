@@ -36,17 +36,17 @@
 
 #### ⭐ Recent stars
 
-- [zacMode/duckdb_extension_parser_tools](https://github.com/zacMode/duckdb_extension_parser_tools) - Parse queries using the duckdb parser - from sql! (today)
-- [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) - K.I.S.S. LSM-tree implementation in safe Rust (today)
-- [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format (6 days ago)
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 week ago)
-- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (1 week ago)
+- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (today)
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (today)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
+- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (today)
+- [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for &#34;Lessons Learned from Building a Query Optimizer&#34; blog series (today)
 
 #### 👯 Check out my recent followers
 
+- [YimingQiao](https://github.com/YimingQiao)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
 - [standardgalactic](https://github.com/standardgalactic)
 - [kurkul608](https://github.com/kurkul608)
-- [2016geek](https://github.com/2016geek)
 
