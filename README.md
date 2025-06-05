@@ -36,11 +36,11 @@
 
 #### ⭐ Recent stars
 
+- [zacMode/duckdb_extension_parser_tools](https://github.com/zacMode/duckdb_extension_parser_tools) - Parse queries using the duckdb parser - from sql! (today)
+- [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) - K.I.S.S. LSM-tree implementation in safe Rust (today)
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format (6 days ago)
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 week ago)
 - [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial) (1 week ago)
-- [Shannon-Data/ShannonBase](https://github.com/Shannon-Data/ShannonBase) - The Next-Gen Database for AI—an infrastructure designed for big data and AI. As the MySQL of the AI era. (1 week ago)
-- [asu-cactus/netsdb](https://github.com/asu-cactus/netsdb) - A system that seamlessly integrates Big Data processing and machine learning model serving in distributed relational database (1 week ago)
 
 #### 👯 Check out my recent followers
 
