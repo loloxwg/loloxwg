@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big &amp; Small LLMs working together (today)
 - [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw) - DuckDB Foreign Data Wrapper for PostgreSQL (today)
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables (today)
 - [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (1 day ago)
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (1 day ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
 
 #### 👯 Check out my recent followers
 
