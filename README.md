@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 day ago)
+- [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (2 days ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (2 months ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
@@ -36,11 +36,11 @@
 
 #### ⭐ Recent stars
 
-- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (today)
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (today)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
-- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (today)
-- [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for &#34;Lessons Learned from Building a Query Optimizer&#34; blog series (today)
+- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (1 day ago)
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (1 day ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
+- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (1 day ago)
+- [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for &#34;Lessons Learned from Building a Query Optimizer&#34; blog series (1 day ago)
 
 #### 👯 Check out my recent followers
 
