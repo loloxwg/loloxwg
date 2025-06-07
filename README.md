@@ -24,8 +24,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (today)
-- [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (2 days ago)
+- [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 day ago)
+- [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (3 days ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 month ago)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (2 months ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big &amp; Small LLMs working together (today)
-- [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw) - DuckDB Foreign Data Wrapper for PostgreSQL (today)
-- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables (today)
-- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (1 day ago)
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (1 day ago)
+- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big &amp; Small LLMs working together (1 day ago)
+- [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw) - DuckDB Foreign Data Wrapper for PostgreSQL (1 day ago)
+- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables (1 day ago)
+- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (2 days ago)
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (2 days ago)
 
 #### 👯 Check out my recent followers
 
