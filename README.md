@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [Wind-Gone/OceanBase-Contest-Miniob](https://github.com/Wind-Gone/OceanBase-Contest-Miniob) - Alibaba OceanBase group&#39;s preliminary contest code implementation (today)
+- [Wind-Gone/awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) - Paper related to OLAP techniques (today)
+- [luooofan/miniob-2023](https://github.com/luooofan/miniob-2023) - 2023 OceanBase 数据库大赛初赛 (today)
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big &amp; Small LLMs working together (2 days ago)
 - [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw) - DuckDB Foreign Data Wrapper for PostgreSQL (2 days ago)
-- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables (2 days ago)
-- [embryo-labs/SIGMOD2025Contest-Embryo](https://github.com/embryo-labs/SIGMOD2025Contest-Embryo) (3 days ago)
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200&#43; CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥 (3 days ago)
 
 #### 👯 Check out my recent followers
 
