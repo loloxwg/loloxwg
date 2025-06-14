@@ -18,7 +18,7 @@
 
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (2 months ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (3 months ago)
-- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (3 months ago)
+- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (4 months ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (5 months ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (5 months ago)
 
@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (1 day ago)
-- [Wind-Gone/OceanBase-Contest-Miniob](https://github.com/Wind-Gone/OceanBase-Contest-Miniob) - Alibaba OceanBase group&#39;s preliminary contest code implementation (5 days ago)
-- [Wind-Gone/awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) - Paper related to OLAP database systems (5 days ago)
-- [luooofan/miniob-2023](https://github.com/luooofan/miniob-2023) - 2023 OceanBase 数据库大赛初赛 (5 days ago)
+- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (2 days ago)
+- [Wind-Gone/OceanBase-Contest-Miniob](https://github.com/Wind-Gone/OceanBase-Contest-Miniob) - Alibaba OceanBase group&#39;s preliminary contest code implementation (6 days ago)
+- [Wind-Gone/awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) - Paper related to OLAP database systems (6 days ago)
+- [luooofan/miniob-2023](https://github.com/luooofan/miniob-2023) - 2023 OceanBase 数据库大赛初赛 (6 days ago)
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big &amp; Small LLMs working together (1 week ago)
 
 #### 👯 Check out my recent followers
