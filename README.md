@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (3 days ago)
+- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (4 days ago)
 - [Wind-Gone/OceanBase-Contest-Miniob](https://github.com/Wind-Gone/OceanBase-Contest-Miniob) - Alibaba OceanBase group&#39;s preliminary contest code implementation (1 week ago)
 - [Wind-Gone/awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) - Paper related to OLAP database systems (1 week ago)
 - [luooofan/miniob-2023](https://github.com/luooofan/miniob-2023) - 2023 OceanBase 数据库大赛初赛 (1 week ago)
