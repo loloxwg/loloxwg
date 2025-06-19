@@ -33,12 +33,12 @@
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
 - [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
 - [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
-- [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (3 months ago)
+- [Refactor GatherNode to support scalar outputs.](https://github.com/tracel-ai/burn/pull/2828) on [tracel-ai/burn](https://github.com/tracel-ai/burn) (4 months ago)
 
 #### ⭐ Recent stars
 
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project (today)
-- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (6 days ago)
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project (1 day ago)
+- [OpenTenBase/OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.  (1 week ago)
 - [Wind-Gone/OceanBase-Contest-Miniob](https://github.com/Wind-Gone/OceanBase-Contest-Miniob) - Alibaba OceanBase group&#39;s preliminary contest code implementation (1 week ago)
 - [Wind-Gone/awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) - Paper related to OLAP database systems (1 week ago)
 - [luooofan/miniob-2023](https://github.com/luooofan/miniob-2023) - 2023 OceanBase 数据库大赛初赛 (1 week ago)
