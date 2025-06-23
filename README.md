@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (1 day ago)
-- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (2 days ago)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (2 days ago)
-- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (2 days ago)
-- [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning (3 days ago)
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (2 days ago)
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (3 days ago)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (3 days ago)
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (3 days ago)
+- [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning (4 days ago)
 
 #### 👯 Check out my recent followers
 
