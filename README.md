@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
 - [standardgalactic](https://github.com/standardgalactic)
 - [kurkul608](https://github.com/kurkul608)
-- [2016geek](https://github.com/2016geek)
 
