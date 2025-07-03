@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [nihalpasham/optimus](https://github.com/nihalpasham/optimus) - A plain vanilla transformer implementation in Rust using the Candle ML framework (6 days ago)
+- [nihalpasham/optimus](https://github.com/nihalpasham/optimus) - A plain vanilla transformer implementation in Rust using the Candle ML framework (1 week ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (1 week ago)
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (1 week ago)
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (1 week ago)
