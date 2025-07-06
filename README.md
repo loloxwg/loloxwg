@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
-- [nstrmx](https://github.com/nstrmx)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
+- [standardgalactic](https://github.com/standardgalactic)
 
