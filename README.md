@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (1 day ago)
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (3 days ago)
+- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (2 days ago)
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (4 days ago)
 - [nihalpasham/optimus](https://github.com/nihalpasham/optimus) - A plain vanilla transformer implementation in Rust using the Candle ML framework (2 weeks ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (2 weeks ago)
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (3 weeks ago)
