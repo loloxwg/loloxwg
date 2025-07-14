@@ -18,7 +18,7 @@
 
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (4 months ago)
-- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (4 months ago)
+- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (5 months ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (6 months ago)
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (6 months ago)
 
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (today)
-- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (2 days ago)
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (4 days ago)
+- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (1 day ago)
+- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (3 days ago)
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (5 days ago)
 - [nihalpasham/optimus](https://github.com/nihalpasham/optimus) - A plain vanilla transformer implementation in Rust using the Candle ML framework (2 weeks ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (2 weeks ago)
 
