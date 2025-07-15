@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (today)
-- [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C&#43;&#43; (today)
-- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (1 day ago)
-- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (3 days ago)
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (5 days ago)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (1 day ago)
+- [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C&#43;&#43; (1 day ago)
+- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (2 days ago)
+- [duckdb/duckdb-httpfs](https://github.com/duckdb/duckdb-httpfs) (4 days ago)
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (6 days ago)
 
 #### 👯 Check out my recent followers
 
