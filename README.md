@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (2 days ago)
-- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (3 days ago)
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (5 days ago)
-- [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C&#43;&#43; (5 days ago)
-- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (6 days ago)
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (3 days ago)
+- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (4 days ago)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (6 days ago)
+- [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C&#43;&#43; (6 days ago)
+- [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience (1 week ago)
 
 #### 👯 Check out my recent followers
 
