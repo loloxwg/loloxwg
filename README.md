@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (today)
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (3 days ago)
-- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (4 days ago)
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (6 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (4 days ago)
+- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (5 days ago)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (1 week ago)
 
 #### 👯 Check out my recent followers
 
