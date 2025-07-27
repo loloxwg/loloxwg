@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 days ago)
+- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 days ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 month ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 month ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
@@ -32,14 +32,14 @@
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
-- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
-- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
+- [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
+- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
 
 #### ⭐ Recent stars
 
-- [lukaesch/diskann-rs](https://github.com/lukaesch/diskann-rs) - DiskANNrs (3 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
+- [lukaesch/diskann-rs](https://github.com/lukaesch/diskann-rs) - DiskANNrs (4 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (1 week ago)
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (1 week ago)
 
