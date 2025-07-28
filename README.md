@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [CurvineIO/curvine](https://github.com/CurvineIO/curvine) - High performance distributed cache system. Built by Rust. (today)
 - [lukaesch/diskann-rs](https://github.com/lukaesch/diskann-rs) - DiskANNrs (5 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones. (1 week ago)
-- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models (1 week ago)
 
 #### 👯 Check out my recent followers
 
