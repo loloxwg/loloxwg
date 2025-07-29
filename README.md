@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (today)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
 - [staghado/vit.cpp](https://github.com/staghado/vit.cpp) - Inference Vision Transformer (ViT) in plain C/C&#43;&#43; with ggml (today)
 - [CurvineIO/curvine](https://github.com/CurvineIO/curvine) - High performance distributed cache system. Built by Rust. (1 day ago)
 - [lukaesch/diskann-rs](https://github.com/lukaesch/diskann-rs) - DiskANNrs (6 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 
 #### 👯 Check out my recent followers
 
