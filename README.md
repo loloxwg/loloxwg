@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (5 days ago)
+- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (6 days ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 month ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 month ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (3 months ago)
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (today)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (today)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (today)
-- [staghado/vit.cpp](https://github.com/staghado/vit.cpp) - Inference Vision Transformer (ViT) in plain C/C&#43;&#43; with ggml (today)
-- [CurvineIO/curvine](https://github.com/CurvineIO/curvine) - High performance distributed cache system. Built by Rust. (1 day ago)
+- [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (1 day ago)
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (1 day ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 day ago)
+- [staghado/vit.cpp](https://github.com/staghado/vit.cpp) - Inference Vision Transformer (ViT) in plain C/C&#43;&#43; with ggml (1 day ago)
+- [CurvineIO/curvine](https://github.com/CurvineIO/curvine) - High performance distributed cache system. Built by Rust. (2 days ago)
 
 #### 👯 Check out my recent followers
 
