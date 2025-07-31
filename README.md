@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (today)
+- [lavaman131/dinov2.cpp](https://github.com/lavaman131/dinov2.cpp) - DINOv2 inference engine written in C/C&#43;&#43; using ggml and OpenCV. (today)
 - [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (2 days ago)
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (2 days ago)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 days ago)
-- [staghado/vit.cpp](https://github.com/staghado/vit.cpp) - Inference Vision Transformer (ViT) in plain C/C&#43;&#43; with ggml (2 days ago)
-- [CurvineIO/curvine](https://github.com/CurvineIO/curvine) - High performance distributed cache system. Built by Rust. (3 days ago)
 
 #### 👯 Check out my recent followers
 
