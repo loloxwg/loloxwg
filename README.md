@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (1 day ago)
-- [lavaman131/dinov2.cpp](https://github.com/lavaman131/dinov2.cpp) - DINOv2 inference engine written in C/C&#43;&#43; using ggml and OpenCV. (1 day ago)
-- [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (3 days ago)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (3 days ago)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (3 days ago)
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (2 days ago)
+- [lavaman131/dinov2.cpp](https://github.com/lavaman131/dinov2.cpp) - DINOv2 inference engine written in C/C&#43;&#43; using ggml and OpenCV. (2 days ago)
+- [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (4 days ago)
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (4 days ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 days ago)
 
 #### 👯 Check out my recent followers
 
