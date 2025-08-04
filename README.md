@@ -24,6 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (today)
 - [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (1 week ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (1 month ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (2 months ago)
@@ -33,7 +34,6 @@
 - [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
 - [Refactor ONNX runtime execution logic and enhance tests](https://github.com/loloxwg/duckdb-onnx/pull/3) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
 - [Switch to shared ONNX Runtime library (.so) in build config.](https://github.com/loloxwg/duckdb-onnx/pull/2) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
-- [Remove quack extension template files and add onnx extension base](https://github.com/loloxwg/duckdb-onnx/pull/1) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (5 months ago)
 
 #### ⭐ Recent stars
 
