@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [lancedb/lance-duckdb](https://github.com/lancedb/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (today)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 day ago)
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (1 week ago)
 - [lavaman131/dinov2.cpp](https://github.com/lavaman131/dinov2.cpp) - DINOv2 inference engine written in C/C&#43;&#43; using ggml and OpenCV. (1 week ago)
 - [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (1 week ago)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀 (1 week ago)
 
 #### 👯 Check out my recent followers
 
