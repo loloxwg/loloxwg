@@ -16,17 +16,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (2 days ago)
-- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (5 days ago)
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 days ago)
+- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (6 days ago)
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (4 months ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (5 months ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (5 days ago)
-- [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (5 days ago)
-- [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (5 days ago)
+- [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (6 days ago)
+- [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (6 days ago)
+- [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (6 days ago)
 - [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (2 weeks ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (2 months ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (2 months ago)
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [lancedb/lance-duckdb](https://github.com/lancedb/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (1 day ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 days ago)
+- [lancedb/lance-duckdb](https://github.com/lancedb/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (2 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 days ago)
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (1 week ago)
 - [lavaman131/dinov2.cpp](https://github.com/lavaman131/dinov2.cpp) - DINOv2 inference engine written in C/C&#43;&#43; using ggml and OpenCV. (1 week ago)
 - [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Eliminates delay when activating caps lock on macOS OSX (1 week ago)
