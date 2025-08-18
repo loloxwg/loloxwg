@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - Disaggregated serving system for Large Language Models (LLMs). (today)
 - [MichalPitr/inference_engine](https://github.com/MichalPitr/inference_engine) - Inference engine from scratch (1 day ago)
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 week ago)
 - [lancedb/lance-duckdb](https://github.com/lancedb/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (1 week ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C&#43;&#43; (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
