@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (2 days ago)
-- [redixhumayun/simpledb](https://github.com/redixhumayun/simpledb) (2 days ago)
-- [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - Disaggregated serving system for Large Language Models (LLMs). (3 days ago)
-- [MichalPitr/inference_engine](https://github.com/MichalPitr/inference_engine) - Inference engine from scratch (4 days ago)
+- [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (3 days ago)
+- [redixhumayun/simpledb](https://github.com/redixhumayun/simpledb) (3 days ago)
+- [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - Disaggregated serving system for Large Language Models (LLMs). (4 days ago)
+- [MichalPitr/inference_engine](https://github.com/MichalPitr/inference_engine) - Inference engine from scratch (5 days ago)
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 week ago)
 
 #### 👯 Check out my recent followers
