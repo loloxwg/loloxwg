@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (3 days ago)
-- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (3 days ago)
-- [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (6 days ago)
-- [redixhumayun/simpledb](https://github.com/redixhumayun/simpledb) (6 days ago)
+- [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (4 days ago)
+- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (4 days ago)
+- [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (1 week ago)
+- [redixhumayun/simpledb](https://github.com/redixhumayun/simpledb) (1 week ago)
 - [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - Disaggregated serving system for Large Language Models (LLMs). (1 week ago)
 
 #### 👯 Check out my recent followers
