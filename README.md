@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (3 days ago)
+- [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (4 days ago)
 - [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (1 week ago)
 - [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (1 week ago)
 - [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (1 week ago)
