@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of &#34;LLM × DATA&#34; Survey Paper (today)
+- [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of &#34;LLM × DATA&#34; Survey Paper (1 day ago)
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (1 week ago)
-- [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (1 week ago)
-- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (1 week ago)
+- [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (2 weeks ago)
+- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (2 weeks ago)
 - [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C&#43;&#43;/CUDA, no libraries except for I/O (2 weeks ago)
 
 #### 👯 Check out my recent followers
