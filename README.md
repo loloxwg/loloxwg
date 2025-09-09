@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A Unified Cache Acceleration Toolbox for 🤗Diffusers: FLUX.1, Qwen-Image-Edit, Qwen-Image, Qwen-Image-Lightning, Wan 2.1/2.2, etc. (today)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (4 days ago)
 - [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of &#34;LLM × DATA&#34; Survey Paper (5 days ago)
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (1 week ago)
 - [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (2 weeks ago)
-- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
