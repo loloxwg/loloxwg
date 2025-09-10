@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A Unified Cache Acceleration Toolbox for 🤗Diffusers: FLUX.1, Qwen-Image-Edit, Qwen-Image, Qwen-Image-Lightning, Wan 2.1/2.2, etc. (1 day ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A Unified Cache Acceleration Toolbox for 🤗Diffusers: FLUX.1, Qwen-Image-Edit, Qwen-Image, HunyuanImage-2.1, Wan 2.1/2.2, etc. (1 day ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (5 days ago)
 - [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of &#34;LLM × DATA&#34; Survey Paper (6 days ago)
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (2 weeks ago)
