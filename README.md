@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A Unified Cache Acceleration Toolbox for 🤗Diffusers: FLUX.1, Qwen-Image-Edit, Qwen-Image, HunyuanImage-2.1, Wan 2.1/2.2, etc. (3 days ago)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (1 day ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A Unified Cache Acceleration Toolbox for 🤗Diffusers: FLUX.1, Qwen-Image-Edit, Qwen-Image, HunyuanImage-2.1, Wan 2.1/2.2, etc. (4 days ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (1 week ago)
 - [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm) - Official Repository of &#34;LLM × DATA&#34; Survey Paper (1 week ago)
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. (2 weeks ago)
-- [ISCS-ZJU/iCache](https://github.com/ISCS-ZJU/iCache) - Source code for iCache-HPCA&#39;23 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
