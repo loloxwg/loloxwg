@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (today)
 - [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (1 day ago)
 - [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (1 day ago)
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (4 days ago)
 - [hafenkran/duckdb-bigquery](https://github.com/hafenkran/duckdb-bigquery) - Integrates DuckDB with Google BigQuery, allowing direct querying and management of BigQuery datasets (4 days ago)
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (6 days ago)
 
 #### 👯 Check out my recent followers
 
