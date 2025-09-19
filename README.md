@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (today)
-- [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (1 day ago)
-- [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (1 day ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (4 days ago)
-- [hafenkran/duckdb-bigquery](https://github.com/hafenkran/duckdb-bigquery) - Integrates DuckDB with Google BigQuery, allowing direct querying and management of BigQuery datasets (4 days ago)
+- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (1 day ago)
+- [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (2 days ago)
+- [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (2 days ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (5 days ago)
+- [hafenkran/duckdb-bigquery](https://github.com/hafenkran/duckdb-bigquery) - Integrates DuckDB with Google BigQuery, allowing direct querying and management of BigQuery datasets (5 days ago)
 
 #### 👯 Check out my recent followers
 
