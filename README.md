@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust (1 day ago)
-- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (2 days ago)
-- [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (3 days ago)
-- [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (3 days ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (6 days ago)
+- [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust (2 days ago)
+- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (3 days ago)
+- [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (4 days ago)
+- [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (4 days ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (1 week ago)
 
 #### 👯 Check out my recent followers
 
