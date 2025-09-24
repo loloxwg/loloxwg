@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (today)
+- [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization (today)
 - [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust (5 days ago)
 - [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (6 days ago)
 - [gizmodata/gizmosql](https://github.com/gizmodata/gizmosql) - 🚀 GizmoSQL — High-Performance SQL Server for the Cloud (1 week ago)
-- [oceanbase/kernel-advanced](https://github.com/oceanbase/kernel-advanced) (1 week ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings. (1 week ago)
 
 #### 👯 Check out my recent followers
 
