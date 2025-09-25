@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [Tessil/robin-map](https://github.com/Tessil/robin-map) -  C&#43;&#43; implementation of a fast hash map and hash set using robin hood hashing (today)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 day ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 day ago)
 - [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization (1 day ago)
 - [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust (6 days ago)
-- [mindspore-ai/akg](https://github.com/mindspore-ai/akg) - AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops with specific patterns. (1 week ago)
 
 #### 👯 Check out my recent followers
 
