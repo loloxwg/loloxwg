@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [yutiansut/qaexchange-rs](https://github.com/yutiansut/qaexchange-rs) - 高性能QUANTAXIS交易所以及自研数据库 (today)
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device. (1 week ago)
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) -  C&#43;&#43; implementation of a fast hash map and hash set using robin hood hashing (1 week ago)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 week ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 week ago)
-- [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization (1 week ago)
 
 #### 👯 Check out my recent followers
 
