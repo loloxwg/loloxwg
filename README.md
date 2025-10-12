@@ -20,7 +20,7 @@
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (2 months ago)
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (6 months ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (7 months ago)
-- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (7 months ago)
+- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (8 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [yutiansut/qaexchange-rs](https://github.com/yutiansut/qaexchange-rs) - 高性能QUANTAXIS交易所以及自研数据库 (5 days ago)
+- [yutiansut/qaexchange-rs](https://github.com/yutiansut/qaexchange-rs) - 高性能QUANTAXIS交易所以及自研数据库 (6 days ago)
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device. (2 weeks ago)
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) -  C&#43;&#43; implementation of a fast hash map and hash set using robin hood hashing (2 weeks ago)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (2 weeks ago)
