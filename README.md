@@ -48,6 +48,6 @@
 - [tristonarmstrong](https://github.com/tristonarmstrong)
 - [helallao](https://github.com/helallao)
 - [XiaomingX](https://github.com/XiaomingX)
-- [seckinyasar](https://github.com/seckinyasar)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
+- [djvelimir](https://github.com/djvelimir)
 
