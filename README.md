@@ -45,9 +45,9 @@
 
 #### 👯 Check out my recent followers
 
+- [emilycodestar](https://github.com/emilycodestar)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
 - [helallao](https://github.com/helallao)
 - [XiaomingX](https://github.com/XiaomingX)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
-- [djvelimir](https://github.com/djvelimir)
 
