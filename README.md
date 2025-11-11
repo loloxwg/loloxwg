@@ -20,7 +20,7 @@
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (3 months ago)
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (7 months ago)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (8 months ago)
-- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (8 months ago)
+- [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (9 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
