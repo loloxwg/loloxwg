@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (1 day ago)
 - [vectordb-io/vraft](https://github.com/vectordb-io/vraft) - VRAFT is a framework written in C&#43;&#43; that implements RAFT protocol and SEDA architecture. Based on VRAFT, distributed software can be developed easily, such as vectordb and distributed storage system. (1 month ago)
 - [yutiansut/qaexchange-rs](https://github.com/yutiansut/qaexchange-rs) - 高性能QUANTAXIS交易所以及自研数据库 (1 month ago)
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device. (1 month ago)
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) -  C&#43;&#43; implementation of a fast hash map and hash set using robin hood hashing (1 month ago)
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 month ago)
 
 #### 👯 Check out my recent followers
 
