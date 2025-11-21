@@ -19,7 +19,7 @@
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust (3 months ago)
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (3 months ago)
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (7 months ago)
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (8 months ago)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (9 months ago)
 - [loloxwg/duckdb-multi-mode](https://github.com/loloxwg/duckdb-multi-mode) (9 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -27,7 +27,7 @@
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (3 months ago)
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (3 months ago)
 - [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
-- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (3 months ago)
+- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (4 months ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (5 months ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (5 months ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (7 months ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (2 days ago)
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (3 days ago)
 - [vectordb-io/vraft](https://github.com/vectordb-io/vraft) - VRAFT is a framework written in C&#43;&#43; that implements RAFT protocol and SEDA architecture. Based on VRAFT, distributed software can be developed easily, such as vectordb and distributed storage system. (1 month ago)
 - [yutiansut/qaexchange-rs](https://github.com/yutiansut/qaexchange-rs) - 高性能QUANTAXIS交易所以及自研数据库 (1 month ago)
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device. (1 month ago)
