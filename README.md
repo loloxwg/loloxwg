@@ -48,6 +48,6 @@
 - [seckinyasar](https://github.com/seckinyasar)
 - [emilycodestar](https://github.com/emilycodestar)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
-- [helallao](https://github.com/helallao)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
+- [djvelimir](https://github.com/djvelimir)
 
