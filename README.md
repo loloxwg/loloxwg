@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (1 day ago)
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (3 days ago)
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (2 days ago)
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (4 days ago)
 - [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) (1 week ago)
 - [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (2 weeks ago)
 - [vectordb-io/vraft](https://github.com/vectordb-io/vraft) - VRAFT is a framework written in C&#43;&#43; that implements RAFT protocol and SEDA architecture. Based on VRAFT, distributed software can be developed easily, such as vectordb and distributed storage system. (1 month ago)
