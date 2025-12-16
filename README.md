@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (1 week ago)
+- [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust (1 day ago)
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (2 weeks ago)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (2 weeks ago)
 - [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) - PegaFlow is a high-performance KV cache offloading solution for vLLM v1 on single-node multi-GPU setups. (3 weeks ago)
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (3 weeks ago)
-- [vectordb-io/vraft](https://github.com/vectordb-io/vraft) - VRAFT is a framework written in C&#43;&#43; that implements RAFT protocol and SEDA architecture. Based on VRAFT, distributed software can be developed easily, such as vectordb and distributed storage system. (1 month ago)
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
