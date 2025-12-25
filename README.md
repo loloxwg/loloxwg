@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (today)
-- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (today)
+- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (1 day ago)
+- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (1 day ago)
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust (1 week ago)
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (3 weeks ago)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (3 weeks ago)
