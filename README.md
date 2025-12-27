@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (1 day ago)
-- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (2 days ago)
-- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (2 days ago)
+- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (2 days ago)
+- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (3 days ago)
+- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (3 days ago)
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust (1 week ago)
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (3 weeks ago)
 
