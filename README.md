@@ -33,13 +33,13 @@
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (8 months ago)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (9 months ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (9 months ago)
-- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (9 months ago)
+- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (10 months ago)
 
 #### ⭐ Recent stars
 
-- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (2 days ago)
-- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (3 days ago)
-- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (3 days ago)
+- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (3 days ago)
+- [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (4 days ago)
+- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (4 days ago)
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust (1 week ago)
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C&#43;&#43; header-only HTTP/HTTPS server and client library (3 weeks ago)
 
