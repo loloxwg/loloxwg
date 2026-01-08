@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (today)
-- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (1 week ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (1 day ago)
+- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (2 weeks ago)
 - [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (2 weeks ago)
 - [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (2 weeks ago)
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust (3 weeks ago)
