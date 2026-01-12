@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code (3 days ago)
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (4 days ago)
+- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code (4 days ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (5 days ago)
 - [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (2 weeks ago)
 - [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (2 weeks ago)
 - [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (2 weeks ago)
