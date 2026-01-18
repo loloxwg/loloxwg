@@ -37,17 +37,17 @@
 
 #### ⭐ Recent stars
 
+- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (today)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code (1 week ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (1 week ago)
 - [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (3 weeks ago)
 - [CogitatorTech/infera](https://github.com/CogitatorTech/infera) - A DuckDB extension for in-database inference (3 weeks ago)
-- [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm) - A repo for llm on ncnn (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [YimingQiao](https://github.com/YimingQiao)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
 - [standardgalactic](https://github.com/standardgalactic)
-- [kurkul608](https://github.com/kurkul608)
 
