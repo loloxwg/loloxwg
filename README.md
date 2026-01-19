@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (today)
+- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (1 day ago)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code (1 week ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (1 week ago)
 - [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (3 weeks ago)
