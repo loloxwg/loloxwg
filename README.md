@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (today)
-- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (5 days ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (1 day ago)
+- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (6 days ago)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code (2 weeks ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps. (2 weeks ago)
-- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (4 weeks ago)
+- [MorphingDB/MorphingDB](https://github.com/MorphingDB/MorphingDB) - PostgreSQL extension for supporting deep learning model inference within the database and vector storage (1 month ago)
 
 #### 👯 Check out my recent followers
 
