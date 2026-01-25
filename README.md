@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (today)
 - [greensky00/skiplist](https://github.com/greensky00/skiplist) - Generic lock-free Skiplist container pure C implementation, STL-style set, map (1 day ago)
 - [eBay/Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store (1 day ago)
 - [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (1 day ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (2 days ago)
-- [embryo-labs/dynamic-predicate-transfer](https://github.com/embryo-labs/dynamic-predicate-transfer) - [VLDB&#39;26] This repository provides a DuckDB implementation of RPT&#43;, following a Yannakakis-style execution framework. (1 week ago)
 
 #### 👯 Check out my recent followers
 
