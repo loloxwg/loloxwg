@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (today)
-- [greensky00/skiplist](https://github.com/greensky00/skiplist) - Generic lock-free Skiplist container pure C implementation, STL-style set, map (1 day ago)
-- [eBay/Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store (1 day ago)
-- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (1 day ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (2 days ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 day ago)
+- [greensky00/skiplist](https://github.com/greensky00/skiplist) - Generic lock-free Skiplist container pure C implementation, STL-style set, map (2 days ago)
+- [eBay/Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store (2 days ago)
+- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (2 days ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (3 days ago)
 
 #### 👯 Check out my recent followers
 
