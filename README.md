@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (today)
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (2 days ago)
-- [duckdb/duckdb-delta](https://github.com/duckdb/duckdb-delta) - DuckDB extension for Delta Lake (6 days ago)
+- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (1 day ago)
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (3 days ago)
+- [duckdb/duckdb-delta](https://github.com/duckdb/duckdb-delta) - DuckDB extension for Delta Lake (1 week ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 weeks ago)
 - [greensky00/skiplist](https://github.com/greensky00/skiplist) - Generic lock-free Skiplist container pure C implementation, STL-style set, map (2 weeks ago)
 
