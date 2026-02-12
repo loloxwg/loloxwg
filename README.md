@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (today)
 - [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (today)
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (2 days ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (4 days ago)
 - [duckdb/duckdb-delta](https://github.com/duckdb/duckdb-delta) - DuckDB extension for Delta Lake (1 week ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
