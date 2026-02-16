@@ -36,9 +36,9 @@
 
 #### ⭐ Recent stars
 
-- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (3 days ago)
-- [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (3 days ago)
-- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (5 days ago)
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (4 days ago)
+- [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (4 days ago)
+- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (6 days ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 - [duckdb/duckdb-delta](https://github.com/duckdb/duckdb-delta) - DuckDB extension for Delta Lake (1 week ago)
 
