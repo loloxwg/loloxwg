@@ -19,14 +19,14 @@
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Fast. Embedded. Rust-native SQL database. (6 months ago)
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (6 months ago)
 - [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (10 months ago)
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (11 months ago)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (1 year ago)
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (6 months ago)
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (6 months ago)
 - [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (6 months ago)
-- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (6 months ago)
+- [chore: update dependencies and implement multi-threaded TPCC support](https://github.com/KipData/KiteSQL/pull/278) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (7 months ago)
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (8 months ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (8 months ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (10 months ago)
@@ -36,9 +36,9 @@
 
 #### ⭐ Recent stars
 
-- [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (1 day ago)
-- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (6 days ago)
-- [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (6 days ago)
+- [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (2 days ago)
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
+- [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (1 week ago)
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (1 week ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
