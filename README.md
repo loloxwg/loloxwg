@@ -36,7 +36,7 @@
 
 #### ⭐ Recent stars
 
-- [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (5 days ago)
+- [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (6 days ago)
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
 - [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (1 week ago)
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (1 week ago)
