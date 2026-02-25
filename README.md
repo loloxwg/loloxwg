@@ -36,11 +36,11 @@
 
 #### ⭐ Recent stars
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (1 week ago)
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
 - [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (1 week ago)
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (2 weeks ago)
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
