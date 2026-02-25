@@ -36,11 +36,11 @@
 
 #### ⭐ Recent stars
 
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (today)
+- [huggingface/skills](https://github.com/huggingface/skills) (today)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (1 week ago)
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
-- [PsiACE/skills](https://github.com/PsiACE/skills) - A small, shared skill library by builders, for builders. (1 week ago)
-- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
