@@ -32,15 +32,15 @@
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (10 months ago)
 - [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (11 months ago)
 - [Add MNIST inference unit test and enhance ONNX model handling](https://github.com/loloxwg/duckdb-onnx/pull/5) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (11 months ago)
-- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (11 months ago)
+- [Refactor ONNX test and improve unified vector handling](https://github.com/loloxwg/duckdb-onnx/pull/4) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (today)
-- [huggingface/skills](https://github.com/huggingface/skills) (today)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 day ago)
+- [huggingface/skills](https://github.com/huggingface/skills) (1 day ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
 - [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (1 week ago)
-- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
