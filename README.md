@@ -36,9 +36,9 @@
 
 #### ⭐ Recent stars
 
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (2 days ago)
-- [huggingface/skills](https://github.com/huggingface/skills) (2 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (3 days ago)
+- [huggingface/skills](https://github.com/huggingface/skills) (3 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 days ago)
 - [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (1 week ago)
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (2 weeks ago)
 
