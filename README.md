@@ -35,10 +35,10 @@
 
 #### ⭐ Recent stars
 
-- [redraiment/cargo-duckdb-ext-tools](https://github.com/redraiment/cargo-duckdb-ext-tools) - A Rust-based toolkit for building and packaging DuckDB extensions without Python dependencies. (3 days ago)
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (6 days ago)
-- [huggingface/skills](https://github.com/huggingface/skills) (6 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (6 days ago)
+- [redraiment/cargo-duckdb-ext-tools](https://github.com/redraiment/cargo-duckdb-ext-tools) - A Rust-based toolkit for building and packaging DuckDB extensions without Python dependencies. (4 days ago)
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 week ago)
+- [huggingface/skills](https://github.com/huggingface/skills) (1 week ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) - Pure Rust &#43; CUDA LLM inference engine (2 weeks ago)
 
 #### 👯 Check out my recent followers
