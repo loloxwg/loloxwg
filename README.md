@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, &amp; visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai (today)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (today)
 - [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data (today)
 - [redraiment/cargo-duckdb-ext-tools](https://github.com/redraiment/cargo-duckdb-ext-tools) - A Rust-based toolkit for building and packaging DuckDB extensions without Python dependencies. (4 days ago)
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 week ago)
-- [huggingface/skills](https://github.com/huggingface/skills) (1 week ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 
 #### 👯 Check out my recent followers
 
