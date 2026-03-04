@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) (today)
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. (today)
+- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - Situational Awareness Server compatible with TAK clients (today)
+- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (today)
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, &amp; visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai (today)
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (today)
-- [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data (today)
-- [redraiment/cargo-duckdb-ext-tools](https://github.com/redraiment/cargo-duckdb-ext-tools) - A Rust-based toolkit for building and packaging DuckDB extensions without Python dependencies. (4 days ago)
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (1 week ago)
 
 #### 👯 Check out my recent followers
 
