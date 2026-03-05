@@ -35,11 +35,11 @@
 
 #### ⭐ Recent stars
 
+- [berkeleybop/artificial-intelligence-ontology](https://github.com/berkeleybop/artificial-intelligence-ontology) - An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases. (today)
+- [kweaver-ai/adp](https://github.com/kweaver-ai/adp) - ADP is an intelligent data platform that bridges the gap between heterogeneous data sources and AI agents. It abstracts data complexity through business knowledge networks (Ontology), provides unified data access (VEGA), and orchestrates data processing through DataFlow pipelines. (today)
+- [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) - KWeaver is an open-source ecosystem for building and running decision-intelligent AI applications, powered by ontologies and the DIP platform. (today)
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) (1 day ago)
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. (1 day ago)
-- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - Situational Awareness Server compatible with TAK clients (1 day ago)
-- [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software (1 day ago)
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, &amp; visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai (1 day ago)
 
 #### 👯 Check out my recent followers
 
