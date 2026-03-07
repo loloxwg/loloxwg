@@ -29,7 +29,6 @@
 - [Add Chinese README for deduplication indexing module](https://github.com/loloxwg/netsdb/pull/2) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (9 months ago)
 - [Fix typo in `model_trainer.py` filename.](https://github.com/loloxwg/netsdb/pull/1) on [loloxwg/netsdb](https://github.com/loloxwg/netsdb) (9 months ago)
 - [Add ONNX model parsing and proto support](https://github.com/loloxwg/duckdb-onnx/pull/6) on [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (11 months ago)
-- [fix(query): improve update handling about nondeterministic_update and add nullable columns](https://github.com/databendlabs/databend/pull/17586) on [databendlabs/databend](https://github.com/databendlabs/databend) (1 year ago)
 
 #### ⭐ Recent stars
 
