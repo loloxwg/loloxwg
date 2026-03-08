@@ -32,11 +32,11 @@
 
 #### ⭐ Recent stars
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 (today)
-- [berkeleybop/artificial-intelligence-ontology](https://github.com/berkeleybop/artificial-intelligence-ontology) - An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases. (2 days ago)
-- [kweaver-ai/adp](https://github.com/kweaver-ai/adp) - ADP is an intelligent data platform that bridges the gap between heterogeneous data sources and AI agents. It abstracts data complexity through business knowledge networks (Ontology), provides unified data access (VEGA), and orchestrates data processing through DataFlow pipelines. (2 days ago)
-- [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) - KWeaver is an open-source ecosystem for building and running decision-intelligent AI applications, powered by ontologies and the DIP platform. (2 days ago)
-- [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) (3 days ago)
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 (1 day ago)
+- [berkeleybop/artificial-intelligence-ontology](https://github.com/berkeleybop/artificial-intelligence-ontology) - An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases. (3 days ago)
+- [kweaver-ai/adp](https://github.com/kweaver-ai/adp) - ADP is an intelligent data platform that bridges the gap between heterogeneous data sources and AI agents. It abstracts data complexity through business knowledge networks (Ontology), provides unified data access (VEGA), and orchestrates data processing through DataFlow pipelines. (3 days ago)
+- [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) - KWeaver is an open-source ecosystem for building and running decision-intelligent AI applications, powered by ontologies and the DIP platform. (3 days ago)
+- [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) (4 days ago)
 
 #### 👯 Check out my recent followers
 
