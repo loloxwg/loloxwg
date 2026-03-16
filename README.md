@@ -38,9 +38,9 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [YimingQiao](https://github.com/YimingQiao)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
-- [standardgalactic](https://github.com/standardgalactic)
 
