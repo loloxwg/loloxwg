@@ -34,7 +34,7 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 week ago)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (1 week ago)
 - [berkeleybop/artificial-intelligence-ontology](https://github.com/berkeleybop/artificial-intelligence-ontology) - An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases. (2 weeks ago)
-- [kweaver-ai/adp](https://github.com/kweaver-ai/adp) - ADP is an intelligent data platform that bridges the gap between heterogeneous data sources and AI agents. It abstracts data complexity through business knowledge networks (Ontology), provides unified data access (VEGA), and orchestrates data processing through DataFlow pipelines. (2 weeks ago)
+- [kweaver-ai/adp](https://github.com/kweaver-ai/adp) - ADP is an intelligent data platform that bridges the gap between heterogeneous data sources and AI agents. It abstracts data complexity through business knowledge networks, provides unified data access (VEGA), and orchestrates data processing through DataFlow pipelines. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
