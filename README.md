@@ -30,7 +30,7 @@
 
 #### ⭐ Recent stars
 
-- [public-clis/rdt-cli](https://github.com/public-clis/rdt-cli) - Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe (1 week ago)
+- [public-clis/rdt-cli](https://github.com/public-clis/rdt-cli) - Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe (2 weeks ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 weeks ago)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (3 weeks ago)
 - [berkeleybop/artificial-intelligence-ontology](https://github.com/berkeleybop/artificial-intelligence-ontology) - An ontology modeling classes and relationships describing deep learning networks, their component layers and activation functions, machine learning methods, as well as AI/ML potential biases. (3 weeks ago)
