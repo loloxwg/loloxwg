@@ -28,11 +28,11 @@
 
 #### ⭐ Recent stars
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (today)
-- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (2 days ago)
-- [dudaxing/Fund-Application-Workflow](https://github.com/dudaxing/Fund-Application-Workflow) - 基金申报全流程协同写作 Skill — A VS Code Copilot skill for planning, researching, structuring, drafting, reviewing, and revising Chinese grant applications and research proposals. (3 days ago)
-- [yanhaoluo0/technical-proposal-expert-writing-skill](https://github.com/yanhaoluo0/technical-proposal-expert-writing-skill) - Technical Proposal Expert 是一个专为政府和企业软件项目技术标书撰写而设计的 Claude Skill。该 Skill 将资深技术标书专家的经验与规范转化为可执行的 AI 助手能力，帮助用户撰写符合 GB/T 8567-2006 标准的正式技术文档。 (3 days ago)
-- [QingxinLuo-SDU/codex-skills-chinese-proposal-docx-review](https://github.com/QingxinLuo-SDU/codex-skills-chinese-proposal-docx-review) - Codex skills for Chinese proposal polishing and DOCX review / 面向中文科研项目书与 Word 审阅流程的 Codex skills (3 days ago)
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 day ago)
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (3 days ago)
+- [dudaxing/Fund-Application-Workflow](https://github.com/dudaxing/Fund-Application-Workflow) - 基金申报全流程协同写作 Skill — A VS Code Copilot skill for planning, researching, structuring, drafting, reviewing, and revising Chinese grant applications and research proposals. (4 days ago)
+- [yanhaoluo0/technical-proposal-expert-writing-skill](https://github.com/yanhaoluo0/technical-proposal-expert-writing-skill) - Technical Proposal Expert 是一个专为政府和企业软件项目技术标书撰写而设计的 Claude Skill。该 Skill 将资深技术标书专家的经验与规范转化为可执行的 AI 助手能力，帮助用户撰写符合 GB/T 8567-2006 标准的正式技术文档。 (4 days ago)
+- [QingxinLuo-SDU/codex-skills-chinese-proposal-docx-review](https://github.com/QingxinLuo-SDU/codex-skills-chinese-proposal-docx-review) - Codex skills for Chinese proposal polishing and DOCX review / 面向中文科研项目书与 Word 审阅流程的 Codex skills (4 days ago)
 
 #### 👯 Check out my recent followers
 
