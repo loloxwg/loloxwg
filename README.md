@@ -18,7 +18,6 @@
 
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (8 months ago)
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (8 months ago)
-- [loloxwg/duckdb-onnx](https://github.com/loloxwg/duckdb-onnx) (1 year ago)
 
 #### 🔨 Latest Pull Requests I published
 
