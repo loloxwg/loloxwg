@@ -22,8 +22,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (8 months ago)
-- [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (8 months ago)
 
 #### ⭐ Recent stars
 
