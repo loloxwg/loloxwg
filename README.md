@@ -24,7 +24,6 @@
 
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes](https://github.com/Vanilla-Beauty/tiny-lsm/pull/39) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (8 months ago)
 - [fix: skiplist bug, ensure proper cleanup of skiplist nodes ](https://github.com/Vanilla-Beauty/tiny-lsm/pull/38) on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (8 months ago)
-- [chore: fix server logic_type convert](https://github.com/KipData/KiteSQL/pull/287) on [KipData/KiteSQL](https://github.com/KipData/KiteSQL) (8 months ago)
 
 #### ⭐ Recent stars
 
