@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing) - A curated list of resources for using LLMs to develop more competitive grant applications. (today)
 - [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static. (today)
 - [pelicanmapping/osgearth](https://github.com/pelicanmapping/osgearth) - 3D Maps &amp; Terrain SDK (C&#43;&#43;) (3 days ago)
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (4 days ago)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (6 days ago)
-- [dudaxing/Fund-Application-Workflow](https://github.com/dudaxing/Fund-Application-Workflow) - 基金申报全流程协同写作 Skill — A VS Code Copilot skill for planning, researching, structuring, drafting, reviewing, and revising Chinese grant applications and research proposals. (1 week ago)
 
 #### 👯 Check out my recent followers
 
