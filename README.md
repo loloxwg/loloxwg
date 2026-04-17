@@ -33,8 +33,8 @@
 #### 👯 Check out my recent followers
 
 - [dacong23](https://github.com/dacong23)
-- [YimingQiao](https://github.com/YimingQiao)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
 - [sunflowerseastar](https://github.com/sunflowerseastar)
 - [djvelimir](https://github.com/djvelimir)
+- [standardgalactic](https://github.com/standardgalactic)
 
