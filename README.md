@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (today)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight Personal AI Agent&#34; (today)
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (1 day ago)
-- [catface996/ontology-web](https://github.com/catface996/ontology-web) (1 day ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 day ago)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight Personal AI Agent&#34; (1 day ago)
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (2 days ago)
+- [catface996/ontology-web](https://github.com/catface996/ontology-web) (2 days ago)
 
 #### 👯 Check out my recent followers
 
