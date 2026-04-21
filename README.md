@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (today)
+- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (today)
+- [Rayseus/CLI-based_personal-_AI_agent](https://github.com/Rayseus/CLI-based_personal-_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 days ago)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (4 days ago)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight Personal AI Agent&#34; (4 days ago)
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (5 days ago)
-- [catface996/ontology-web](https://github.com/catface996/ontology-web) (5 days ago)
 
 #### 👯 Check out my recent followers
 
