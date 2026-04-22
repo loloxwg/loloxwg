@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (today)
-- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (today)
-- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (today)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 days ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (4 days ago)
+- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (1 day ago)
+- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (1 day ago)
+- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (1 day ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (5 days ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (5 days ago)
 
 #### 👯 Check out my recent followers
 
