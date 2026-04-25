@@ -24,10 +24,10 @@
 
 #### ⭐ Recent stars
 
-- [databrickslabs/ontos](https://github.com/databrickslabs/ontos) - A Business Catalog for Unity Catalog (2 days ago)
-- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (3 days ago)
-- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (3 days ago)
-- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (3 days ago)
+- [databrickslabs/ontos](https://github.com/databrickslabs/ontos) - A Business Catalog for Unity Catalog (3 days ago)
+- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (4 days ago)
+- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (4 days ago)
+- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (4 days ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 week ago)
 
 #### 👯 Check out my recent followers
