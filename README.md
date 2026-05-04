@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (8 months ago)
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (9 months ago)
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (9 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent stars
 
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (3 days ago)
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (4 days ago)
 - [databrickslabs/ontos](https://github.com/databrickslabs/ontos) - A Business Catalog for Unity Catalog (1 week ago)
 - [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (1 week ago)
 - [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (1 week ago)
