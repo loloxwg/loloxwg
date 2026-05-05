@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (4 days ago)
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (5 days ago)
 - [databrickslabs/ontos](https://github.com/databrickslabs/ontos) - A Business Catalog for Unity Catalog (1 week ago)
-- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (1 week ago)
-- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (1 week ago)
-- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (1 week ago)
+- [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (2 weeks ago)
+- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (2 weeks ago)
+- [Rayseus/CLI-based_personal_AI_agent](https://github.com/Rayseus/CLI-based_personal_AI_agent) - CLI-based personal AI agent that remembers facts about the user across sessions and uses tool calls to answer questions grounded in that memory. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
