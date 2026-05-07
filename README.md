@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task. (today)
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine. (today)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (1 week ago)
 - [databrickslabs/ontos](https://github.com/databrickslabs/ontos) - A Business Catalog for Unity Catalog (2 weeks ago)
 - [Rayseus/AI-Role-Player-Demo](https://github.com/Rayseus/AI-Role-Player-Demo) (2 weeks ago)
-- [Rayseus/self-agent](https://github.com/Rayseus/self-agent) - A full-stack RAG project for &#34;personal introduction and project experience Q&amp;A&#34;. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
