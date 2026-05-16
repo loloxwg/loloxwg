@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (today)
+- [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents (today)
+- [surrealdb/ferntree](https://github.com/surrealdb/ferntree) - A concurrent in-memory B&#43; tree featuring optimistic lock coupling. (today)
+- [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() (today)
 - [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨  (3 days ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode &#43; More (1 week ago)
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA (1 week ago)
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task. (1 week ago)
-- [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine. (1 week ago)
 
 #### 👯 Check out my recent followers
 
