@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (today)
 - [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (today)
 - [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents (today)
 - [surrealdb/ferntree](https://github.com/surrealdb/ferntree) - A concurrent in-memory B&#43; tree featuring optimistic lock coupling. (today)
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() (today)
-- [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨  (3 days ago)
 
 #### 👯 Check out my recent followers
 
