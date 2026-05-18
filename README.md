@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 day ago)
-- [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (1 day ago)
-- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (1 day ago)
-- [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents (1 day ago)
-- [surrealdb/ferntree](https://github.com/surrealdb/ferntree) - A concurrent in-memory B&#43; tree featuring optimistic lock coupling. (1 day ago)
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (2 days ago)
+- [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (2 days ago)
+- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (2 days ago)
+- [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents (2 days ago)
+- [surrealdb/ferntree](https://github.com/surrealdb/ferntree) - A concurrent in-memory B&#43; tree featuring optimistic lock coupling. (2 days ago)
 
 #### 👯 Check out my recent followers
 
