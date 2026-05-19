@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) (today)
 - [apache/gravitino](https://github.com/apache/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (today)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (3 days ago)
 - [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (3 days ago)
 - [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (3 days ago)
-- [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents (3 days ago)
 
 #### 👯 Check out my recent followers
 
