@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) (3 days ago)
-- [apache/gravitino](https://github.com/apache/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (3 days ago)
-- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (6 days ago)
-- [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (6 days ago)
-- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (6 days ago)
+- [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) (4 days ago)
+- [apache/gravitino](https://github.com/apache/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (4 days ago)
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
+- [berkeleydb/libdb](https://github.com/berkeleydb/libdb) - Berkeley DB (1 week ago)
+- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill (1 week ago)
 
 #### 👯 Check out my recent followers
 
