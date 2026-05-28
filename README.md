@@ -24,7 +24,7 @@
 
 #### ⭐ Recent stars
 
-- [DioCrafts/OpenFoundry](https://github.com/DioCrafts/OpenFoundry) - 🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Kubernetes Ready. (1 day ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (today)
 - [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) (1 week ago)
 - [apache/gravitino](https://github.com/apache/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (1 week ago)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (1 week ago)
