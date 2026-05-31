@@ -17,14 +17,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (9 months ago)
-- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (9 months ago)
+- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (10 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
 
 #### ⭐ Recent stars
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (2 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (3 days ago)
 - [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) (1 week ago)
 - [apache/gravitino](https://github.com/apache/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (1 week ago)
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. (2 weeks ago)
