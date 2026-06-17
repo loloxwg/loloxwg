@@ -24,10 +24,10 @@
 
 #### ⭐ Recent stars
 
-- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite (1 day ago)
-- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (1 day ago)
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check &#43; up to 5-round refinement, codebase-to-diagram, 10,000&#43; official shapes &amp; 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG. (4 days ago)
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms. (6 days ago)
+- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite (2 days ago)
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (2 days ago)
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check &#43; up to 5-round refinement, codebase-to-diagram, 10,000&#43; official shapes &amp; 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG. (5 days ago)
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms. (1 week ago)
 - [evotai/evot](https://github.com/evotai/evot) - Agent engine that does complex, long-running work with minimal tokens — every gain earned under rigorous eval. (1 week ago)
 
 #### 👯 Check out my recent followers
