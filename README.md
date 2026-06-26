@@ -24,10 +24,10 @@
 
 #### ⭐ Recent stars
 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol (today)
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol (1 day ago)
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite (1 week ago)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (1 week ago)
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check &#43; up to 5-round refinement, codebase-to-diagram, 10,000&#43; official shapes &amp; 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG. (1 week ago)
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check &#43; up to 5-round refinement, codebase-to-diagram, 10,000&#43; official shapes &amp; 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG. (2 weeks ago)
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms. (2 weeks ago)
 
 #### 👯 Check out my recent followers
