@@ -24,8 +24,8 @@
 
 #### ⭐ Recent stars
 
-- [HuiyuLi-2000/Chinese-Grant-Writer-Skills](https://github.com/HuiyuLi-2000/Chinese-Grant-Writer-Skills) - 面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。 (1 day ago)
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol (5 days ago)
+- [HuiyuLi-2000/Chinese-Grant-Writer-Skills](https://github.com/HuiyuLi-2000/Chinese-Grant-Writer-Skills) - 面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。 (2 days ago)
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol (6 days ago)
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite (2 weeks ago)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (2 weeks ago)
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 6 presets, vision self-check &#43; up to 5-round refinement, codebase-to-diagram, 10,000&#43; official shapes &amp; 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG. (2 weeks ago)
