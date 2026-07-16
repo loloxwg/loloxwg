@@ -32,9 +32,9 @@
 
 #### 👯 Check out my recent followers
 
+- [infinityabundance](https://github.com/infinityabundance)
 - [xpzgg](https://github.com/xpzgg)
 - [jiengup](https://github.com/jiengup)
 - [dacong23](https://github.com/dacong23)
 - [tristonarmstrong](https://github.com/tristonarmstrong)
-- [sunflowerseastar](https://github.com/sunflowerseastar)
 
