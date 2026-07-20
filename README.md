@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
-- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines. (5 days ago)
+- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines. (6 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
 - [langgenius/graphon](https://github.com/langgenius/graphon) - Graphon is a Python graph execution engine for agentic AI workflows. (1 week ago)
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (1 week ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
