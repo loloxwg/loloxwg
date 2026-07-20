@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (today)
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (today)
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (today)
 - [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines. (6 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
-- [langgenius/graphon](https://github.com/langgenius/graphon) - Graphon is a Python graph execution engine for agentic AI workflows. (1 week ago)
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (1 week ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
