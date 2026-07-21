@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (today)
+- [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw (today)
+- [oceanbase/powermem](https://github.com/oceanbase/powermem) - PowerMem: AI Memory Plugin— Accurate, Agile, Affordable. Make AI Agent smarter. (today)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (1 day ago)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (1 day ago)
-- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (1 day ago)
-- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines. (1 week ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
 
 #### 👯 Check out my recent followers
 
