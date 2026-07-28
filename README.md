@@ -24,11 +24,11 @@
 
 #### ⭐ Recent stars
 
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (today)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (1 week ago)
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw (1 week ago)
 - [oceanbase/powermem](https://github.com/oceanbase/powermem) - PowerMem: AI Memory Plugin— Accurate, Agile, Affordable. Make AI Agent smarter. (1 week ago)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (1 week ago)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers (1 week ago)
 
 #### 👯 Check out my recent followers
 
