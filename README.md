@@ -17,14 +17,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (11 months ago)
-- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (11 months ago)
+- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (1 year ago)
 
 #### 🔨 Latest Pull Requests I published
 
 
 #### ⭐ Recent stars
 
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (1 day ago)
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (2 days ago)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (1 week ago)
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw (1 week ago)
 - [oceanbase/powermem](https://github.com/oceanbase/powermem) - PowerMem: AI Memory Plugin— Accurate, Agile, Affordable. Make AI Agent smarter. (1 week ago)
