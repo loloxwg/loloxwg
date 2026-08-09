@@ -16,8 +16,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. (1 year ago)
-- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (1 year ago)
 
 #### 🔨 Latest Pull Requests I published
 
