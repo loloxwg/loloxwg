@@ -22,7 +22,7 @@
 
 #### ⭐ Recent stars
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems (today)
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems (1 day ago)
 - [AstroVela/vane](https://github.com/AstroVela/vane) - High performance, multimodal-native engine for AI workloads. (1 week ago)
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. (2 weeks ago)
 - [agegr/pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent (2 weeks ago)
