@@ -22,11 +22,11 @@
 
 #### ⭐ Recent stars
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (today)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (1 day ago)
 - [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (1 day ago)
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 week ago)
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆 (1 week ago)
-- [neo4j-labs/agent-memory](https://github.com/neo4j-labs/agent-memory) - A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
