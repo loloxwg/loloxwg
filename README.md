@@ -22,9 +22,9 @@
 
 #### ⭐ Recent stars
 
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (today)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (1 day ago)
-- [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (1 day ago)
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (1 day ago)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (2 days ago)
+- [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (2 days ago)
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 week ago)
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆 (1 week ago)
 
