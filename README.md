@@ -22,7 +22,7 @@
 
 #### ⭐ Recent stars
 
-- [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&amp;进化本体层 (1 week ago)
+- [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&amp;进化本体层 (2 weeks ago)
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (2 weeks ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (2 weeks ago)
 - [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (2 weeks ago)
