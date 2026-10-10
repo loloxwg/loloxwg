@@ -26,7 +26,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (3 weeks ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (3 weeks ago)
 - [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (3 weeks ago)
-- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (4 weeks ago)
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 month ago)
 
 #### 👯 Check out my recent followers
 
