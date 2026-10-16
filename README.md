@@ -22,17 +22,17 @@
 
 #### ⭐ Recent stars
 
+- [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量 (today)
 - [mlc-ai/modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems (6 days ago)
 - [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&amp;进化本体层 (3 weeks ago)
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (4 weeks ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (4 weeks ago)
-- [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS &amp; Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
-- [0vm](https://github.com/0vm)
 - [buraksocial](https://github.com/buraksocial)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [irisdomain23](https://github.com/irisdomain23)
 - [infinityabundance](https://github.com/infinityabundance)
+- [xpzgg](https://github.com/xpzgg)
 
