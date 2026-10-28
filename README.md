@@ -22,7 +22,7 @@
 
 #### ⭐ Recent stars
 
-- [Bellman281/burnlings](https://github.com/Bellman281/burnlings) - 🦀 Small exercises to get you used to reading and writing Burn with Rust code! (today)
+- [Bellman281/burnlings](https://github.com/Bellman281/burnlings) - 🦀 Small exercises to get you used to reading and writing Burn with Rust code! (1 day ago)
 - [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量 (1 week ago)
 - [mlc-ai/modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems (2 weeks ago)
 - [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) - EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&amp;进化本体层 (1 month ago)
@@ -30,9 +30,9 @@
 
 #### 👯 Check out my recent followers
 
+- [FBCD1012](https://github.com/FBCD1012)
 - [kpopdev](https://github.com/kpopdev)
 - [buraksocial](https://github.com/buraksocial)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [irisdomain23](https://github.com/irisdomain23)
-- [infinityabundance](https://github.com/infinityabundance)
 
