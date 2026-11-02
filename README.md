@@ -34,5 +34,5 @@
 - [kpopdev](https://github.com/kpopdev)
 - [buraksocial](https://github.com/buraksocial)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [irisdomain23](https://github.com/irisdomain23)
+- [infinityabundance](https://github.com/infinityabundance)
 
