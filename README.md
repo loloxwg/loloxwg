@@ -32,7 +32,7 @@
 
 - [FBCD1012](https://github.com/FBCD1012)
 - [kpopdev](https://github.com/kpopdev)
-- [buraksocial](https://github.com/buraksocial)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [infinityabundance](https://github.com/infinityabundance)
+- [xpzgg](https://github.com/xpzgg)
 
