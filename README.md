@@ -30,9 +30,9 @@
 
 #### 👯 Check out my recent followers
 
-- [lxcadoza993](https://github.com/lxcadoza993)
 - [FBCD1012](https://github.com/FBCD1012)
 - [kpopdev](https://github.com/kpopdev)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [infinityabundance](https://github.com/infinityabundance)
+- [xpzgg](https://github.com/xpzgg)
 
