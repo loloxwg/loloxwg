@@ -22,7 +22,7 @@
 
 #### ⭐ Recent stars
 
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) &#43; iPhone &amp; Android apps.  Supports Claude Code, Codex &amp; 35&#43; coding agents. (1 day ago)
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) &#43; iPhone &amp; Android apps.  Supports Claude Code, Codex &amp; 35&#43; coding agents. (2 days ago)
 - [botiverse/raft-source](https://github.com/botiverse/raft-source) - Raft source-available release mirror. One snapshot commit per release; pull requests are not accepted. (1 week ago)
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x (1 week ago)
 - [Bellman281/burnlings](https://github.com/Bellman281/burnlings) - 🦀 Small exercises to get you used to reading and writing Burn with Rust code! (2 weeks ago)
