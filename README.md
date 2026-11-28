@@ -30,9 +30,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Ali-hey-0](https://github.com/Ali-hey-0)
 - [shahidazam2020-oss](https://github.com/shahidazam2020-oss)
 - [FBCD1012](https://github.com/FBCD1012)
 - [kpopdev](https://github.com/kpopdev)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [infinityabundance](https://github.com/infinityabundance)
 
